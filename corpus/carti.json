@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "pe-aripile-poeziei",
+    "titlu": "Pe aripile poeziei",
+    "an": 2019,
+    "editura": "Rawex Coms",
+    "isbn": "978-606-762-183-9",
+    "stil": "aerograma",
+    "ordine": 1,
+    "descriere": "Volum de poezii apărut la Rawex Coms (București, 2019), cu dedicația „Dragilor mei, Elena și David Cristian”. Poeziile, scrise între 2007 și 2019, au data sub text și nu sunt grupate pe cicluri.",
+    "sursa": "P12_Pe_aripile_poeziei.md"
+  },
+  {
+    "slug": "priveste-ma-in-ochi-2017",
+    "titlu": "Privește-mă în ochi (2017)",
+    "an": 2017,
+    "editura": "Rawex Coms",
+    "isbn": "978-606-762-221-8",
+    "stil": "abecedar",
+    "ordine": 2,
+    "descriere": "Volumul 4 din seria „Privește-mă în ochi” (Rawex Coms, ediția din 2021–2022). Strânge poeziile postate zilnic în 2017 sub titlul „O poezie pe zi”.",
+    "sursa": "P05_Priveste_ma_in_ochi_2017_vol_4.md"
+  },
+  {
+    "slug": "priveste-ma-in-ochi-2018",
+    "titlu": "Privește-mă în ochi (2018)",
+    "an": 2018,
+    "editura": "Rawex Coms",
+    "isbn": "978-606-762-222-5",
+    "stil": "caiet",
+    "ordine": 3,
+    "descriere": "Volumul 5 din seria „Privește-mă în ochi” (Rawex Coms, ediția din 2021–2022). Strânge poeziile postate zilnic în 2018 sub titlul „O poezie pe zi”.",
+    "sursa": "P02_Priveste_ma_in_ochi_2018_vol_5.md"
+  },
+  {
+    "slug": "priveste-ma-in-ochi-2019",
+    "titlu": "Privește-mă în ochi (2019)",
+    "an": 2019,
+    "editura": "Rawex Coms",
+    "isbn": "978-606-762-223-2",
+    "stil": "album",
+    "ordine": 4,
+    "descriere": "Volumul 6 din seria „Privește-mă în ochi” (Rawex Coms, ediția din 2021–2022). Strânge poeziile postate zilnic în 2019 sub titlul „O poezie pe zi”.",
+    "sursa": "P03_Priveste_ma_in_ochi_2019_vol_6.md"
+  },
+  {
+    "slug": "priveste-ma-in-ochi-2020",
+    "titlu": "Privește-mă în ochi (2020)",
+    "an": 2020,
+    "editura": "Rawex Coms",
+    "isbn": "978-606-762-256-0",
+    "stil": "cosmic",
+    "ordine": 5,
+    "descriere": "Volumul 7 din seria „Privește-mă în ochi” (Rawex Coms, ediția din 2021–2022). Strânge poeziile postate zilnic în 2020, între care și un serial de poezii cosmice.",
+    "sursa": "P01_Priveste_ma_in_ochi_2020_vol_7.md"
+  },
+  {
+    "slug": "d-ale-lui-vasalie-si-marie",
+    "titlu": "D-ale lui Văsălie și Mărie",
+    "an": 2019,
+    "editura": "Rawex Coms",
+    "isbn": "978-606-762-195-2",
+    "stil": "stergar",
+    "ordine": 6,
+    "descriere": "Carte de umor, apărută la Rawex Coms în 2019, cu dedicația pentru artistul Liviu Oros. Cuprinde dialoguri în versuri ale soților Văsălie și Mărie, în grai ardelenesc, și un al doilea capitol, „D-ale Conjugatului”.",
+    "sursa": "P06_D_ale_lui_Vasalie_si_Marie.md"
+  },
+  {
+    "slug": "priveste-ma-in-ochi-2015",
+    "titlu": "Privește-mă în ochi (2015)",
+    "an": 2015,
+    "editura": null,
+    "isbn": null,
+    "stil": "ziar",
+    "ordine": 7,
+    "descriere": "Volumul poeziilor postate zilnic în 2015 pe pagina „O poezie pe zi”, începând cu 28 februarie 2015. Multe dintre poezii au animale ca personaje.",
+    "sursa": "P09_Priveste_ma_in_ochi_2015.md"
+  },
+  {
+    "slug": "priveste-ma-in-ochi-2016",
+    "titlu": "Privește-mă în ochi (2016)",
+    "an": 2016,
+    "editura": null,
+    "isbn": null,
+    "stil": "risograf",
+    "ordine": 8,
+    "descriere": "Volumul poeziilor postate zilnic în 2016 pe pagina „O poezie pe zi”. Include colinde, urături și poezii pentru copii.",
+    "sursa": "P11_Priveste_ma_in_ochi_2016.md"
+  },
+  {
+    "slug": "copile",
+    "titlu": "Copile sau Cartea copiilor",
+    "an": null,
+    "editura": null,
+    "isbn": null,
+    "stil": "gradinita",
+    "ordine": 9,
+    "descriere": "Antologie de poezii pentru copii, în varianta de tipar din 18 martie 2015 (data fișierului sursă). Poeziile păstrate aici au date între 2005 și 2009; volumul se încheie cu „Nepoțica mea”, semnată împreună cu Elena Boncea.",
+    "sursa": "K07_Copile_sau_Cartea_copiilor_THE_BEST_varianta_de_tipar.md"
+  },
+  {
+    "slug": "poezii-de-suflet",
+    "titlu": "Poezii de suflet",
+    "an": null,
+    "editura": null,
+    "isbn": null,
+    "stil": "suflet",
+    "ordine": 10,
+    "descriere": "Culegere scurtă de poezii despre iubire, mamă, casa natală, copilărie și bătrânețe, păstrată într-un document Word, fără copertă sau ISBN. Poeziile păstrate aici sunt cele care nu apar în alte volume.",
+    "sursa": "P07_Poezii_de_suflet.md"
+  },
+  {
+    "slug": "poezii-si-ghicitori",
+    "titlu": "Poezii și ghicitori",
+    "an": 2010,
+    "editura": "RAO International Publishing Company",
+    "isbn": "978-973-54-0274-7",
+    "stil": "crem",
+    "ordine": 11,
+    "descriere": "Carte pentru copii apărută la RAO International Publishing Company (București, 2010), cu ilustrații de Radu Mitrache, dedicată nepoatei Elena Boncea. Cuprinde 16 poezii și 58 de ghicitori, cu răspunsurile date la sfârșitul cărții.",
+    "sursa": "Poezii_BT.pdf.md"
+  },
+  {
+    "slug": "poezii-cu-animale",
+    "titlu": "Poezii cu animale",
+    "an": 2015,
+    "editura": null,
+    "isbn": null,
+    "stil": "galerie",
+    "ordine": 12,
+    "descriere": "Culegere tematică, adunată din poeziile apărute în 2015 pe pagina de Facebook „O poezie pe zi”, în capitole despre păsări, pisici, câini, animale de ogradă, pădure și altele. Aici sunt păstrate numai poeziile care nu apar în alte cărți.",
+    "sursa": "Poezii MIX Final.pdf.md"
+  }
+]

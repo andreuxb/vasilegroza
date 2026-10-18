@@ -1,0 +1,1591 @@
+{
+ "titlu": "În pădure",
+ "an": "2017",
+ "sursa": "02_TEXT/K05_In_padure.md",
+ "personaje": [
+  [
+   "POVESTITORUL",
+   ""
+  ],
+  [
+   "ELENA",
+   "Capra mamă"
+  ],
+  [
+   "IONICĂ",
+   "Lupul"
+  ],
+  [
+   "CODANA",
+   "Vulpea"
+  ],
+  [
+   "VALI",
+   "Iedul mic"
+  ],
+  [
+   "GEO",
+   "Iedul mijlociu"
+  ],
+  [
+   "GICĂ",
+   "Iedul mare"
+  ],
+  [
+   "FANE",
+   "Ursul"
+  ],
+  [
+   "RADU",
+   "Iepurele mic"
+  ],
+  [
+   "GELU",
+   "Iepurele mijlociu"
+  ],
+  [
+   "VASI",
+   "Iepurele mare"
+  ],
+  [
+   "PETRIȘOR",
+   "Bufonul"
+  ],
+  [
+   "CATRINA",
+   "Iepuroaica mamă"
+  ],
+  [
+   "MITICĂ",
+   "Ariciul"
+  ],
+  [
+   "GOGU",
+   "Iepurele polițist"
+  ],
+  [
+   "JENICĂ",
+   "Judecătorul (Porcul mistreț)"
+  ]
+ ],
+ "scena": [
+  [
+   "d",
+   "Povestitorul îmbrăcat într-un costum negru, cămașă albă cu papion și batistuță la buzunar în fața cortinei"
+  ],
+  [
+   "r",
+   "POVESTITORUL",
+   [
+    "Bun găsit dragii mei!...",
+    "Se spune că în pădure",
+    "Pădurarul cel isteț",
+    "După-o frumoasă gândire",
+    "Făcu la iepuri coteț.",
+    "Neavând de gând să-i prindă",
+    "Sau cumva ca să-i împuște",
+    "Ori să-i țină la osândă!",
+    "Ci, să trăiască-n liniște",
+    "Fapta ce, l-a încântat a fost o mămică,",
+    "Ce avea trei puișori",
+    "Și care stăteau cu frică",
+    "De atâția prădători.",
+    "Lăsând totul la-ntâmplare.",
+    "Pădurea mare bogată",
+    "Rămânea, fără de viețuitoare!",
+    "(sună telefonul, insistent)",
+    "Alo, alo! – da vă rog! Așteptați-mă vin imediat",
+    "Mă scuzați, revin!"
+   ]
+  ],
+  [
+   "d",
+   "Pleacă, se deschide cortina, intrăiepuroaica cu un coș de-ale mâncării. Verdețuri. De după o plasă foarte rară, de sârmă, o întâmpină iepurașii gălăgioși întinzând mânuțele."
+  ],
+  [
+   "r",
+   "RADU",
+   [
+    "A sosit mămica!"
+   ]
+  ],
+  [
+   "r",
+   "GELU",
+   [
+    "( toți trei )",
+    "Mami, mami!"
+   ]
+  ],
+  [
+   "r",
+   "VASI",
+   [
+    "Bucurie mare, vom mânca!...",
+    "Vreau și eu, vreau și eu vreau!...",
+    "Păpica!"
+   ]
+  ],
+  [
+   "r",
+   "GELU",
+   [
+    "Dar sunt cu zahăr, am voie",
+    "Vreau să rămân teafăr!..."
+   ]
+  ],
+  [
+   "r",
+   "CATRINA",
+   [
+    "De unde mămică, zahăr în pădure?",
+    "Sunt făcute cu ciuperci și miere de albine.",
+    "De data asta închid ochii, e bine?",
+    "(ieșind din scenă)",
+    "Plec să duc gogoși la vânător",
+    "Că el ne este de mare ajutor!",
+    "(cortina)"
+   ]
+  ],
+  [
+   "d",
+   "În fața cortinei prezentatorul cu telefonul la ureche, de o parte și cealaltă apar iepurașul și ieduțul, așteptând să vorbească povestitorul"
+  ],
+  [
+   "r",
+   "POVESTITORUL",
+   [
+    "Da domnule vânător!... am înțeles!...",
+    "O să le comunic în felul următor!",
+    "(către sală)",
+    "Cum vă spuneam dragii mei,",
+    "Privitori și mai mari și mai mititei.",
+    "Pădurea e lumea animalelor",
+    "De tot felul,",
+    "O lume a necuvântătoarelor",
+    "Dar astăzi facem o excepție, luăm de la oameni modelul!",
+    "Să vorbim același limbaj; să vă aud, să vă văd!?...",
+    "Sunteți cu mine de acord?!",
+    "Mulțumesc!..."
+   ]
+  ],
+  [
+   "r",
+   "VASI",
+   [
+    "(Iepurele)",
+    "(se adresează în cor prezentatorului)"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "(Ieduțul)",
+    "Vă rugăm să treceți la tema dată!...",
+    "Frățiorii noștri în pădure asta așteaptă."
+   ]
+  ],
+  [
+   "r",
+   "POVESTITORUL",
+   [
+    "Ce-mi văd ochii? Ce bine vă stă!",
+    "Un ieduț și un iepure.",
+    "Eu!... asta și fac,",
+    "Nu-mi fac de cap!"
+   ]
+  ],
+  [
+   "r",
+   "VASI",
+   [
+    "(în cor)",
+    "Lungiți vorba"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "Ca bucătarul ciorba!"
+   ]
+  ],
+  [
+   "d",
+   "Cei doi pleacă și intră bufonul, îmbrăcat fistichiu cu pantofi ca la circ)(și burtă)(bufonul fără să țină cont de prezentator)"
+  ],
+  [
+   "r",
+   "PETRIȘOR",
+   [
+    "Anunț important!...",
+    "Pierdut cățelușa PUFI, cu botniță pe bot",
+    "Găsitorului îi dăm recompensă o cușcă,",
+    "Dacă și-l ia cu lanț cu tot!",
+    "Atenție!... numai când doarme nu mușcă!",
+    "De lătrat, nimeni nu a putut să-l audă.",
+    "Mulțumim că l-am pierdut, mulțumim că l-ați găsit!",
+    "Atât!...",
+    "Bufonul salută și pleacă. Prezentatorul face un gest cu mâna la cap"
+   ]
+  ],
+  [
+   "r",
+   "POVESTITORUL",
+   [
+    "Cred că e tra, la, la!",
+    "Așadar vom continua!",
+    "O capră contemporană",
+    "Ruda ,,Caprei cu trei iezi”!",
+    "Lipsită total de hrană",
+    "Lăsă iezișorii-n casă",
+    "Nu răspândiți prin livezi",
+    "Cu sfaturi care de care",
+    "C-o să le pună pe masă",
+    "Bunătățuri de mâncare",
+    "Și plecă în lumea mare,",
+    "Cu speranțele aprinse",
+    "Le făcu la iezi cântare",
+    "Dar și frica o cuprinse!..."
+   ]
+  ],
+  [
+   "d",
+   "Povestitorul pleacă, se deschide cortina și apare capra având pe umăr o desagă, îmbrăcată național și opinci. Iezii sunt la fereastră, se joacă)(o ramă)"
+  ],
+  [
+   "r",
+   "ELENA",
+   [
+    "Vedeți dragii mei eu o să plec de acasă",
+    "Să v-aduc multă verdeață",
+    "Ca să avem de mâncare",
+    "Colo-n iarna viitoare",
+    "Dragii mamei iezișori",
+    "Frumușei ca niște flori",
+    "Ghiocei de primăvară",
+    "Voi să nu ieșiți afară",
+    "Să stați cuminței în casă",
+    "Să vă jucați la fereastră",
+    "Până mama-o să sosească",
+    "Când glasu-o să auziți",
+    "Atunci ușa să-mi deschideți.",
+    "Ne-am înțeles?... da ori ba?!"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "(în cor)",
+    "Da mămucă, da, da, da!..."
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "Noi sfatul ți-l vom urma! PA, PA, PA!"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   []
+  ],
+  [
+   "d",
+   "Intră bufonul în haină colorată, pantalon în carouri mari, vestă roșie, papion verde și pantof a la circ"
+  ],
+  [
+   "r",
+   "PETRIȘOR",
+   [
+    "Se spune și-i de bon-ton",
+    "Că bufonu-n mod precis",
+    "Poate fi chiar și un râs!",
+    "Eu, sunt râsul din pădure",
+    "Nu-i de râs dar nici de plâns",
+    "Râd când spinii mă înțeapă",
+    "Când boiesc botul cu mure",
+    "Când mi-e sete și nu-i apă!",
+    "(arată în sală)",
+    "Râd de tine, de tine, de voi,",
+    "Că sunteți prea serioși sau triști,",
+    "Parcă veniți de la război!...",
+    "Văzuți de-aici, păreți a fi artiști!",
+    "Se poate? Ia să văd cum știți a bate",
+    "Nu covoare, ci din palme?! Mersii!",
+    "Râd de iepuroaica, ce umblă aiurea-n pădure",
+    "Sanchi, s-a dus să culeagă ierburi verzi",
+    "Și-a lăsat odraslele singure!...",
+    "Râd că-s râs, de capra cu trei iezi",
+    "Că le era la iezi dor de mure!?",
+    "Cine știe de ce s-a dus prin pădure?",
+    "Să găsească un țap să o… admire!",
+    "Ce ziceți nu-i adevărat? M-am înșelat?",
+    "De-aceea o țineți într-un aplaudat?!",
+    "Eu am plecat și v-am pupat",
+    "Bufonul treaba și-a gătat!..."
+   ]
+  ],
+  [
+   "d",
+   "Intră ursul foarte supărat"
+  ],
+  [
+   "r",
+   "FANE",
+   [
+    "Morr, mor, mor!",
+    "(către sală)",
+    "Îmi vine s-o omor!",
+    "(iepurașii se uită întrebători)",
+    "Salut iezișorilor, ce stați la fereastră",
+    "Vă mănâncă oare coarnele",
+    "Și vreți să vină lupul, să vă scarmene?"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "Moș Martine, pe mine mă cheamă Vali, mata de ce nu stai acasă?!"
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "Cine nu te lasă?"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   [
+    "Se vede că ești supărat!",
+    "Ce s-a întâmplat?"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "Nu stai liniștit deloc,",
+    "Parcă n-ai avea bârlog!"
+   ]
+  ],
+  [
+   "r",
+   "FANE",
+   [
+    "– Ba da dragii mei iepurași,",
+    "Însă o caut pe cumătra vulpe mintenași,",
+    "Care a umblat cu viclenie",
+    "Precum se și știe (plângăcios)",
+    "Ia priviți în ce hal a râs de mine?!",
+    "Că-mi este rușine, să mai ies la o-ntâlnire!",
+    "(își arată coada și sălii)(intră bufonul)(în scenă)"
+   ]
+  ],
+  [
+   "r",
+   "PETRIȘOR",
+   [
+    "– PUBLICITATE!",
+    "Vindem cozi de vulpe pe oriunde",
+    "Și urșilor fără cozi, de pe la noi",
+    "Corbului păcălit de vulpe",
+    "Îi dăm cașcavalul înapoi",
+    "Cumpărăm blană proaspătă de lup",
+    "Vindem tuburi de cartușe folosite",
+    "Cumpărăm și blănuri de vulpi bine dubite",
+    "Lupule și alte jivine luați aminte",
+    "Iar voi plata a face, dacă nu aveți ce face",
+    "Minte să-i învățăm!",
+    "Stocul e limitat dar încă se mai poate.",
+    "Mulțumim!...",
+    "(bufonul pleacă)"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   [
+    "– Lasă că nu-ți stă rău! Arăți ca o lucrare apusă cu lumina stinsă!...",
+    "(Toți trei) – Ha ha ha-nu-i chiar așa!"
+   ]
+  ],
+  [
+   "r",
+   "FANE",
+   [
+    "– Parcă sunt un terchea-berchea",
+    "Că m-apucă strechea!...",
+    "Cogemitea ce urs,",
+    "Să fiu de o vulpe răpus!?"
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "– Ce are a face vulpea cu ciotul de coadă? Mata ești mare cât o zi de post și ea? Cine să te creadă?"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– De cele întâmplate, ce-i drept,",
+    "Doamne, parcă e un deget!...",
+    "(Toți trei) – Ha ha ha și dai vina pe vulpe,",
+    "Și dacă te aude??"
+   ]
+  ],
+  [
+   "r",
+   "FANE",
+   [
+    "– Asta și vreau",
+    "Coada să i-o iau!...",
+    "N-ați văzut coada ce-i atârnă,",
+    "Parcă e o bârnă.",
+    "Zici că ar avea,",
+    "O remorcă după ea!"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– Și ce-i cu asta?"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   []
+  ],
+  [
+   "r",
+   "GEO",
+   []
+  ],
+  [
+   "r",
+   "FANE",
+   [
+    "– Este coada mea",
+    "Dacă nu știați acum o veți afla!"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– Ha, ha, ha, ha, ha, buturuga mică"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   [
+    "Răstoarnă carul mare"
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "Ce întâmplare?"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– Nene ursule ce să zic;",
+    "Sunteți buni de circ!..."
+   ]
+  ],
+  [
+   "r",
+   "FANE",
+   [
+    "- (lezat cumva)",
+    "-Aici e buba, de prostia din capul meu",
+    "Acum iaca-mi pare rău!",
+    "Să mă las păcălit de ea,",
+    "Chiar așa?!..."
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– Dar ce s-a întâmplat"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   [
+    "Că noi încă n-am aflat?"
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "(cortina)",
+    "(apare bufonul)"
+   ]
+  ],
+  [
+   "r",
+   "PETRIȘOR",
+   [
+    "– PUBLICITATE!...",
+    "-Vând lup cu blană de oaie",
+    "Și porc mistreț cu urechi de măgar",
+    "Vând mămăligă ce cu ața se taie",
+    "Și vulpea friptă la grătar",
+    "Pentru o viață sănătoasă",
+    "Consumați ce aveți prin casă",
+    "Zdrele pe podele",
+    "Și cai verzi pe pereți",
+    "Și golul ce există în ulcele!...",
+    "Mulțumesc la revedere!...",
+    "(bufonul pleacă)",
+    "(se deschide cortina și apar iezii în fereastră)"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– Moș Martine, am auzit ceva"
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "E chiar așa?"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   [
+    "Spune-ne și nouă ce s-a întâmplat",
+    "Căci noi încă nu am aflat?!"
+   ]
+  ],
+  [
+   "r",
+   "FANE",
+   [
+    "– Dragi iezișori, mi-a zis vulpea;",
+    "Ursule, dacă vrei să mănânci pește,",
+    "Pune coada, pescuiește!...",
+    "Și-am făcut cum m-a învățat",
+    "Până când în apă, coada mi-a înghețat!",
+    "În dureri la bârlog am plecat,",
+    "Fără măcar o coadă de pește să fi gustat,",
+    "Și m-am apucat de hibernat!",
+    "Abia acum primăvara am constatat Că de coadă-am fost furat!"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "- Și ce-i?"
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "GICĂ"
+   ]
+  ],
+  [
+   "r",
+   "FANE",
+   [
+    "– Cum și ce-i? Asta e ce vedeți. Eu fără ea,",
+    "Iar vulpea cu coada mea!",
+    "De ce m-aș bucura?",
+    "Norocul cel mare, că nu mă doare!"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   [
+    "– Dacă ar durea!...",
+    "Dar așa, vezi-ți de treaba mata!"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– Be, he, he, he, ha, ha, ha!"
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "Se spune că de prost, poți să râzi cât ai putea!"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   [
+    "Chiar adineauri a trecut vulpea",
+    "Și de coadă se mândrea!",
+    "Umbla să prindă iepurele judecător din pădure.",
+    "Ce vrea să o judece pentru faptul că obișnuiește să fure!"
+   ]
+  ],
+  [
+   "r",
+   "FANE",
+   [
+    "– (dă să plece mânios)",
+    "-O să-i dau eu judecată",
+    "De o s-o fac să umble fără coadă! (către sală)",
+    "Și acum am plecat",
+    "Și pe voi v-am salutat!"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– (cântă veverița, veverița s-a urcat în pom) (refrenul)"
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "– Vai sărmanul ursuleț",
+    "La, la, la, la, la, la, la",
+    "Cât a fost de nătăfleț",
+    "La, la, la, la, la",
+    "Mintea-n cap nu i-a venit",
+    "La, la, la, la, la, la, la, la",
+    "Și s-a lăsat păcălit",
+    "La, la, la, la, la, la, la, la, la!",
+    "(intră în scenă bufonul)"
+   ]
+  ],
+  [
+   "r",
+   "PETRIȘOR",
+   [
+    "– PUBLICITATE!",
+    "-Vând papuci cu talpă de leu",
+    "Cumpăr sobă de teracotă",
+    "De bocanci cu ținte de arici mă tem!",
+    "Vând cu roți de căruță o modernă bicicletă.",
+    "Închiriez ieftin năravul",
+    "Și vând norocul ce nu-l am!",
+    "Nici miau nu știu să zic, nici ham!",
+    "Asta ni se trage din neam",
+    "Cumpăr râs cât mai mult",
+    "Că pe cel care l-am avut l-am pierdut!",
+    "Mulțumesc!",
+    "ATENȚIE!",
+    "Pentru o viață sănătoasă fără cartușă",
+    "Nu consumați carne crudă",
+    "Sau viței luați din proțap",
+    "Aviz celor ce trebuie să audă",
+    "Nu vă mai faceți lupilor de cap",
+    "Că vânătorul vă vine de hac!",
+    "(bufonul iese)(cortina)",
+    "(după o mică pauză bufonul reapare în fața cortinei)",
+    "Cum vă spuneam, cum v-am mai spus,",
+    "Umblu aiurea prin pădure sunt de râs.",
+    "De plâns e lupul, că moare de foame,",
+    "Că nu-i plac verdețurile,",
+    "Vezi Doamne!...",
+    "Vrea tot timpul bunătățurile.",
+    "Dar a-nțărcat bălaia!",
+    "Umblă după iepuri și iezi",
+    "Că sunt fragezi",
+    "Al naibii potaia!",
+    "Dorește trufandale de nici nu visezi!",
+    "(o mică pauză)",
+    "Da, o să vedeți în continuare,",
+    "Copii, o frumoasă întâmplare.",
+    "Da, da, puțintică răbdare…",
+    "(se deschide cortina)",
+    "Am fost martor la această întâmplare!",
+    "(arată cu mâna spre culise și pleacă)",
+    "(În culise la vedere lupul dichisându-și ținuta, ajutat de cumătra vulpe, CODANA, care-i piaptănă coada, îl fardează și face vocalize cu el sub observația ei)"
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– Hau, hau, hau!... pardon, a fost probă de microfon, be, he, he, he; asta e!"
+   ]
+  ],
+  [
+   "r",
+   "CODANA",
+   [
+    "– Nu cumetre, nu e bine!",
+    "Mai bătrânește nu-ți vine?",
+    "Mai în DO major, nu cum faci pe acute!?",
+    "Parcă ești un cățeluș de curte!"
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– (ascultător face gama)",
+    "-Bine cumătro vulpe",
+    "Dar numai să mă asculte!"
+   ]
+  ],
+  [
+   "r",
+   "CODANA",
+   [
+    "– Cine?"
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– Ei, iezii! DO, RE, MI, FA, SOL, LA, SI, DO; Hauu; la, la, la, do, do! E major?! Be he he he! Acum cum e?"
+   ]
+  ],
+  [
+   "r",
+   "CODANA",
+   [
+    "– Să nu se prindă iezii că ești lupul! Te behăi neâncetat, de parcă ai fi împușcat!"
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– Be, he, he (pe un glas răgușit), e bine!?..."
+   ]
+  ],
+  [
+   "r",
+   "CODANA",
+   [
+    "– Am zis în DO major parcă ești și surd și chior! ( aranjându-i ținuta)"
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– (pițigăiat) Be, he, he, he, he! Nu e bineee! (își dă cu pumnii în cap!)(se vaită) Aoleu ce mă fac, mor de foame (acuză o durere în gât) Hau, hau, ham, ham sunt terminat."
+   ]
+  ],
+  [
+   "r",
+   "CODANA",
+   [
+    "– Nu, nu e bine, bag sama",
+    "Își vor da iezii seama!",
+    "Și atunci să vezi drama!",
+    "Și nici timbru!"
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– Or să ghicească cum că-s lupu!?...",
+    "Vai de mine, m-a apucat din nou foamea! Trebuie să mănânc ceva ca lumea. Vulpea îi face vânt pe scenă, unde iezii sunt la fereastra marcată printr-o ramă, îmbrăcați în costume naționale, se zbenguie fiecare în felul său)"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– (stând grupați la fereastră cântă)(se adresează lupului)"
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "– Be, he, he și uite-așa,"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   [
+    "Când mămuca nu-i acasă",
+    "Noi ne jucăm la fereastră",
+    "Și râdem și țopăim",
+    "Și ne-nveselim.",
+    "Be, he, he, he, he, he, he",
+    "Be, he, he, he, he!",
+    "Asta e!... (bate cineva la ușă)",
+    "Cine e??"
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– (sub fereastră, gârbovit cu un glas mieros)",
+    "-Bună nepoțeii mei!...",
+    "Ce dor mi-a fost de voi!",
+    "Hau, hau, hau, pardon probă de microfon!...",
+    "Be he, he, he, he!",
+    "(își reproșează către sală)",
+    "Ce prostie,",
+    "De cap să-mi fie!"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– (îngrijorați uitându-se unul la altul)(în cor)"
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "– Asta nu-i mămuca"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   [
+    "Nu, nu, nu!...",
+    "Ce, a apucat-o năluca?...",
+    "(Cântec – Cine stă posomorâtă)",
+    "Mămuca e la pădure",
+    "Tra, la, la, la, la, la, la",
+    "Să ne-aducă fragi și mure",
+    "Tra, la, la, la, la",
+    "Și atunci când va veni",
+    "Tra, la, la, la, la, la, la",
+    "Să vedeți ce va păți!",
+    "Tra, la, la, la, la",
+    "Peste voi îl va găsi (spre seară)",
+    "Tra, la, la, la, la",
+    "Iar voi îl veți izgoni",
+    "Tra, la, la, la, la, la"
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– (dându-și cu pumnii în cap)",
+    "-Bună, dragii mătușei",
+    "V-am adus turtă cu mei",
+    "(arată desaga cu mâncare)",
+    "Frunză verde, mugurași",
+    "Poale-n brâu și colțunași",
+    "Și lăptic de la bunica!",
+    "(cei trei se strâng speriați)",
+    "Vai, ce mă fac? I-a apucat frica! Vine",
+    "(își drege glasul)",
+    "Dragii mei, ca să vă liniștesc",
+    "Iată o să vă povestesc",
+    "Și anume:",
+    "Cică odată;",
+    "Varza s-a-ntâlnit cu-o capră",
+    "Amândouă fiind grăbite",
+    "Voiau puntea ca s-o treacă",
+    "Pe vrute și pe nevrute!",
+    "Capra că e îndreptățită",
+    "Varza vrând ca să mai crească",
+    "Puntea fiind însă îngustă",
+    "Împreună cum să treacă?",
+    "Puteau trece și prin apă",
+    "Dar era atâta grabă",
+    "Ia gândiți-vă oleacă?!",
+    "Pe capră o aștepta țapul",
+    "Iedul ce-o striga plângând",
+    "Varza o aștepta udatul",
+    "Și un iepure flămând.",
+    "S-a ajuns care pe care",
+    "Reciproc să se învingă",
+    "Reușind cine-i mai tare",
+    "Țapul așteptând la pândă.",
+    "Se pune însă-o întrebare",
+    "Cine-a rămas păgubit?",
+    "A învins care pe care?!",
+    "Iepurașul stă flămând",
+    "Capre iedul adaptând!",
+    "(către sală)",
+    "Hau, de-ai ști cât sunt de flămând",
+    "………………………………………………….",
+    "Vreau răspuns la întrebare (pauză)",
+    "Răspunsul tot baba-l are",
+    "Varza era de mâncare."
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– (își spun unul altuia)"
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "– Nu, nu și iarăși nu,"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   [
+    "Asta nu-i mămuca",
+    "O trădează glasu",
+    "Orice-ar fi nu deschidem ușa!..."
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– (către sală)",
+    "Vai, vai, am făcut-o de oaie, n-am făcut nimica",
+    "Am dat în plan cu măciuca",
+    "(revine către iezi)",
+    "Drob de sare!..."
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– Ți-l vom da drept în spinare",
+    "(se înveselesc ca la o victorie)",
+    "Ura, ura!... (cu toții) Dacă nu știi vei afla",
+    "Așa cum a pățit vulpea",
+    "Copiii pot confirma",
+    "Că ei cunosc fabula",
+    "Spuneți copii, nu-i așa?!"
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– De ce v-apucă frica",
+    "Eu sunt mătușica!",
+    "Ce-i atâta vânzoleală,",
+    "Nu vi-i milă că-s pe-afară!?"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– (cu toții în cor) - cântând"
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "– Iaca, iaca, acușica, uite-așa"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   [
+    "O să vină și mămuca",
+    "Tot așa",
+    "Cu ea și un vânător,",
+    "Poc, poc, poc!",
+    "Ce-i cu arma la picior",
+    "Au, au, au!",
+    "Și-o s-aducă fără greș",
+    "La la la",
+    "Poame de la măcieș!",
+    "Uite-așa!"
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– (ca pentru el)",
+    "-Mânca-v-aș!... Rând pe rând.",
+    "(revine)",
+    "Cine, unde, cum și când?",
+    "Micuțule!... ești flămând!?...",
+    "(ducând mâna la ureche)",
+    "Aud mațe ghiorăind!... (duce mâna la burtă îngrijorat)",
+    "Și nu cred că-s ale mele?!",
+    "Că mai am încă răbdare și putere!",
+    "(insistă rugător)",
+    "Până-o să vină mămuca",
+    "Hai deschideți-mi voi ușa!..."
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– (în cor)"
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "– Mămuca de nu-i acasă"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   [
+    "Noi ne jucăm la fereastră",
+    "Cântăm și ne-nveselim",
+    "Și afară nu ieșim.",
+    "Chiar de vine și mătușa",
+    "Noi nu mai deschidem ușa",
+    "Vrem trupa să fie-ntreagă",
+    "Nu ca iezii lui Moș Creangă!",
+    "(cântă)",
+    "Haideți să ne-nveselim",
+    "Să cântăm, să behăim",
+    "Be, he, he, he, he, he, he,",
+    "Be, he, he, he, he, he",
+    "Urlă și tu lupule",
+    "De te mâncă spatele!...",
+    "Ha, ha, ha."
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– Nene, tanti sau mătușă",
+    "N-avem cheia de la ușă",
+    "Cine știe ce-ai în gușă?"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   [
+    "– (îndoielnic)",
+    "-Te-a trimis mămuca oare",
+    "Să ne-aduci un drob de sare",
+    "Sau sunt vorbe de gargară?!"
+   ]
+  ],
+  [
+   "r",
+   "TOȚI",
+   [
+    "TREI – Mătușă, mătușă, hai te cară!",
+    "Be, he, he, he, he!",
+    "Hai șterge-o mai repede!...",
+    "Ți se văd lăbuțele",
+    "Și se-ntrec minciunile."
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– (lingușindu-se și ascunzându-și labele)",
+    "-Eroare, eroare!...",
+    "Nu, nu este cum se pare!",
+    "Ci să v-aduc de mâncare",
+    "Și să vă scot la plimbare.",
+    "(către sală)",
+    "Am o foame, ce mă doare!...",
+    "(se linge pe bot)"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– Oare!?",
+    "Asta-i o minciună mare!",
+    "Cere ceva de mâncare,",
+    "Ai tu chef să ne duci la plimbare?",
+    "Oare!?..."
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– Dar mătușa vă iubește",
+    "Când vă văd inima-mi crește",
+    "Și pofta de voi sporește",
+    "Chiar gura mea vă dorește!"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   []
+  ],
+  [
+   "r",
+   "GEO",
+   []
+  ],
+  [
+   "r",
+   "GICĂ",
+   []
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– Vai ce grijulie",
+    "Pare ca să fie",
+    "Hai s-o păcălim",
+    "Să ne-nveselim!",
+    "(o mică pauză)"
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "– Ascultă dragă mătușă",
+    "Cheia de la ușă",
+    "E în colivie",
+    "Sus la ciocârlie!"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   [
+    "– De vrei să descui",
+    "Trebuie să te sui",
+    "Acolo în cireș",
+    "Vezi să nu dai greș",
+    "Odată căzută",
+    "Moartea te ajută!..."
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– (schimbându-și vocea)",
+    "-Vai ce drăgălași",
+    "Dragii mei copilași",
+    "În cireș o babă?",
+    "Ar putea să cadă",
+    "De se rupe craca",
+    "O să moară baba!",
+    "Și chiar așa degeaba??..."
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "– Și ne vom bucura",
+    "Că nu ne vei mânca",
+    "Dar nu e rău să-ncerci",
+    "Chiar de mă repet;",
+    "Pagubă-n ciuperci",
+    "Făr’ nici un regret !"
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– (către sală)",
+    "-Unul dintre ei",
+    "M-ar scoate din nevoi",
+    "Și de-ar fi toți trei.",
+    "Dar e greu urcușul",
+    "Cât și coborâșul !",
+    "Mi-e teamă și nu degeaba",
+    "Că-mi voi rupe coada",
+    "Și-o să umblu berc ca ursu",
+    "De-o să m-apuce plânsu !"
+   ]
+  ],
+  [
+   "r",
+   "GOGU",
+   [
+    "– (iepurele polițist, cu caschetă tricolor, veston verde cu epoleți aurii, centură de giudocan și ițari cu opinci a la ,,Călușarii” !)",
+    "(Fluier din care fluieră mereu și apare pe scenă)(Lupul se ascunde în culisă la vedere și tremură)(Iezii sar în sus de bucurie)",
+    "-Ce se întmplă aici ? În sectorul meu ?",
+    "Ce-i debandada asta ? Conform articolului 1 din regulament se pedepsește vinovatul, prin priponire, adică lipsit de libertate (În loc de cătușe, arată un țăruș și o funie)",
+    "Arest la domiciliu, e clar ?..."
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– Ura, ura dom’ polițai, ați venit la timpul dorit."
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "Numai că sunteți ghinionist"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   [
+    "Este vorba despre un aventurist !"
+   ]
+  ],
+  [
+   "r",
+   "GOGU",
+   [
+    "– (dându-se mare)",
+    "-Despre ce este vorba, cetățeni ai pădurii, s-aud !... Și nu vă mai hârjoniți !"
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "– Ne deranjează o ,,mătușă, însă ea e lup sau altă bâzdâganie”, ne forțează ușa !"
+   ]
+  ],
+  [
+   "r",
+   "GOGU",
+   [
+    "– Bâzdâganie, nebâzdâganie",
+    "Eu vreau liniște.",
+    "Altfel jale cu J mare",
+    "Valabil pentru fiecare !",
+    "Doamne ce pățanie",
+    "Plină de erori.",
+    "Revin după cercetări !",
+    "(lupul se uită speriat la el)",
+    "-Ce te holbezi la mine mătușă ?",
+    "Nu ți-e bine.",
+    "Fără grijă o să mă ocup și de tine (și iese din scenă)"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– (țopăind de bucurie)(cântă în grup)"
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "– Vrem, vrem, vrem"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   [
+    "Vrem să ne distrăm",
+    "La, la, la, la, la,",
+    "La, la, la, la, la,",
+    "Mătușa s-o urca",
+    "Ca să își ia cheia !...",
+    "Și buf ea va cădea !",
+    "Ha, ha, ha, ha, (iezii se iau de mână și fac hora)",
+    "(Cântecul Batistuța)",
+    "Tra la la la la la la",
+    "Tra la la la",
+    "Tra la la la la la la",
+    "Tra la la la la",
+    "De mătușa va-ncerca",
+    "Tra la la la la",
+    "Să ne forțeze ușa",
+    "Tra la la la la",
+    "Sigur ea nu va putea",
+    "Tra la la la la",
+    "Că bine o vom bloca",
+    "Tra la la la la !"
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– (iese din culisă nervos)",
+    "-Vreți să încetați",
+    "Și să mă ascultați ?...",
+    "Și nu mă enervați ?",
+    "Toți trei – (în derâdere)",
+    "-Daaaa !",
+    "Noi te-am ascultat",
+    "Și nu ne-am speriat !"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– Mătușa nu-i mătușă",
+    "Se vede după spusă",
+    "O fi o zgripțuroaică",
+    "Sau poate o lupoaică!"
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– (legat la cap cu o bandă albă)",
+    "-Vai, mă doare capul",
+    "Vreau să vă dau sacul",
+    "Cu ale mâncării",
+    "Din raftul cămării!",
+    "(rugător)",
+    "Hai deschide-ți ușa",
+    "Vă roagă mătușa",
+    "Că o să vină mămuca",
+    "(pentru sine)",
+    "Și n-au făcut nimica!"
+   ]
+  ],
+  [
+   "r",
+   "GOGU",
+   [
+    "– (fluieră, mare gălăgie, apare vulpea legată cu mâinile la spate, protestând) (lupul din nou se ascunde în culisă la vedere)",
+    "-Hoața, hoațelor, vicleana viclenelor, mincinoasa mincinoșilor !"
+   ]
+  ],
+  [
+   "r",
+   "CODANA",
+   [
+    "– Nu, nu este adevărat! Am imunitate, sunt în parlamentul vulpilor, nu vă puteți lua de mine, mă luați pe mine veți putea să-i luați pe toți. Am dovezi !"
+   ]
+  ],
+  [
+   "r",
+   "GOGU",
+   [
+    "– Ce căutai în cotețul găinilor și de ce țineai cocoșul în cioc ? Hai răspunde protejato."
+   ]
+  ],
+  [
+   "r",
+   "CODANA",
+   [
+    "– Nu răspund decât în fața parlamentului !"
+   ]
+  ],
+  [
+   "r",
+   "GOGU",
+   [
+    "– Parlament, neparlament ești condamnată la arest la domiciliu în viziunea ta ! Și asta până vei spune adevărul !"
+   ]
+  ],
+  [
+   "r",
+   "CODANA",
+   [
+    "– Denunțătoare, asta e regula, pentru a scăpa (își spune)",
+    "Da mătușa nu-i mătușă, e altceva !",
+    "Eu l-am deghizat, este lup!...",
+    "Iar cocoșul îl țineam în dinți, că la găini ne turna!... Că vezi Doamne noi vulpile încălcăm regula!"
+   ]
+  ],
+  [
+   "r",
+   "GOGU",
+   [
+    "– (o dezleagă și-i dă drumul)(apare lupul smerit și vinovat)",
+    "-Succes, dar te aștept la proces !",
+    "(arătând cu degetul către lup)",
+    "Și de tine mă voi ocupa precis."
+   ]
+  ],
+  [
+   "r",
+   "GEO",
+   [
+    "– Mătușă, mătușă",
+    "Vorba vine (se adresează către sală)",
+    "Cheia de la ușă (îi spune lupului)",
+    "O știi bine",
+    "E sus în copac,",
+    "Ce ești grea de cap ?"
+   ]
+  ],
+  [
+   "r",
+   "GICĂ",
+   [
+    "– Vezi să nu dai greș",
+    "Colo în cireș",
+    "Că te-așteaptă jos",
+    "Un arici țepos !"
+   ]
+  ],
+  [
+   "r",
+   "VALI",
+   [
+    "– Ariciul de nu-ți convine",
+    "Vezi doamne",
+    "O să vină-un țap",
+    "Să te ia în coarne",
+    "Să-ți treacă de foame",
+    "Ai băgat la cap ?",
+    "Toți trei – Be he he he he,",
+    "Crede-ne!..."
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– Ce vă behăiți",
+    "Dar voi ce-o să pățiți",
+    "Cu-al vostru vânător",
+    "Cu pușca la picior",
+    "N-aveți habar !",
+    "O să sfârâiți colo pe grătar",
+    "Așa bucurie o să am mai rar !...",
+    "(urcându-se în cireșul imaginar, la modul comic (mimat) (jos sub el culcat, ariciul după ce povestitorul va sfârși spusa)",
+    "-Uff, uff !... și iarăși uf !...",
+    "-Sunt plin de năduf.",
+    "Hau, hauu, greu urcuș.",
+    "Și e greu de ajuns !",
+    "(alunecă pe copac, jos simte țepii ariciului și iar se urcă)",
+    "Dar de-oi reuși,",
+    "Iezii vor pieri",
+    "Rând pe rând",
+    "Asta am de gând",
+    "(dă să plângă de nereușită)",
+    "Hau, hau, ce mă fac ?",
+    "Și-au făcut iezii de cap",
+    "Mă urc în copac,",
+    "În loc să-i mănânc,",
+    "Sunt un lup flămând",
+    "Ham, ham, pardon hau, hau!",
+    "Ce lecție-o să vă dau!..."
+   ]
+  ],
+  [
+   "r",
+   "POVESTITORUL",
+   [
+    "– Vorba nu sfârși",
+    "Și rău o păți",
+    "Lupu-n focul poftei",
+    "În cireș sui",
+    "Însă două ciocârlii",
+    "Sprintene hazlii",
+    "De bot îl ciupi.",
+    "Căzu din cireș",
+    "(Lupul cade simbolic pe arici)",
+    "Mare cât un preș",
+    "Țintă fără greș."
+   ]
+  ],
+  [
+   "r",
+   "MITICĂ",
+   [
+    "– (Băgându-și simbolic țepii în el)",
+    "-Stai ușor jupâne",
+    "Ca să intru-n tine",
+    "Cu țepii de foc,",
+    "Iată-ți acul de cojoc !...",
+    "(Lupul se vaită)"
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– Hau, hau, mă-nțeapă,",
+    "Cine va face ca mine",
+    "Ca mine să pățească",
+    "Să urlu îmi vine…",
+    "Hauuuu, copii ce țineți la mine",
+    "Rămâneți cu bine !..."
+   ]
+  ],
+  [
+   "r",
+   "POVESTITORUL",
+   [
+    "– Plin de văicăreli",
+    "Lipsit de puteri",
+    "Cu ariciu-n spate",
+    "(iese din scenă cu ariciul cuplat)",
+    "A uitat de toate",
+    "Și-n pădure-a alergat",
+    "Obosit și nemâncat",
+    "Chiar și de iezi a uitat",
+    "Viața o lecție i-a dat !...",
+    "Nu poți trăi din furat !...",
+    "……………………………….....",
+    "Da copii !?... E-adevărat ??!...",
+    "În timpul aplauzelor apare iepurele fluierând zgomotos, cu lupul și vulpea de o parte și de alta duși de după ceafă cu mâinile legate în față, acoperite cu eșarfa)"
+   ]
+  ],
+  [
+   "r",
+   "IONICĂ",
+   [
+    "– Instanța porcilor mistreți din pădure, hotărăște ;",
+    "(Jenică are o mască de porc mistreț, îmbrăcat în robă, cu un ciocan mare de plastic, bate în podea de trei ori)",
+    "Articol unic:",
+    "Pentru faptele celor doi inculpați, socotiți vinovați de tentative cu urmări grave ce ar fi urmat, instanța dă verdict; nu comic cum credeți, ci strict. (bate de trei ori cu ciocanul) Atât lupul cât și vulpea sunt privați de libertate, cu arest la domiciliu neapărat până când polițaiul iepure se mută în alt loc îndepărtat!",
+    "Am terminat;",
+    "Vreau să fiu aplaudat!..."
+   ]
+  ]
+ ],
+ "colofon": [
+  "V. Groza",
+  "11 Aprilie 2017"
+ ]
+}

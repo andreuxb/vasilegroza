@@ -1,0 +1,7775 @@
+{
+ "a-doini": {
+  "fisier": "a-doini.jpg",
+  "sursa": "arhiva",
+  "original": "A DOINI.jpg",
+  "inlocuibila": true
+ },
+ "a-fi": {
+  "fisier": "a-fi.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "a-intrebat-un-copil": {
+  "fisier": "a-intrebat-un-copil.jpg",
+  "sursa": "arhiva",
+  "original": "A INTREBAT UN COPIL.png",
+  "inlocuibila": true
+ },
+ "a-venit-iarna": {
+  "fisier": "a-venit-iarna.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "a-venit-toamna": {
+  "fisier": "a-venit-toamna.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "acadeaua": {
+  "fisier": "acadeaua.jpg",
+  "sursa": "arhiva",
+  "original": "ACADEAUA.jpg",
+  "inlocuibila": true
+ },
+ "acasa": {
+  "fisier": "acasa.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "admiratorul": {
+  "fisier": "admiratorul.jpg",
+  "sursa": "arhiva",
+  "original": "ADMIRATORUL.jpg",
+  "inlocuibila": true
+ },
+ "admonestare-2": {
+  "fisier": "admonestare-2.jpg",
+  "sursa": "arhiva",
+  "original": "ADMONESTARE.jpg",
+  "inlocuibila": true
+ },
+ "admonestare": {
+  "fisier": "admonestare.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "aici-112": {
+  "fisier": "aici-112.jpg",
+  "sursa": "arhiva",
+  "original": "AICI 112.jpg",
+  "inlocuibila": true
+ },
+ "al-nimanui": {
+  "fisier": "al-nimanui.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alaptare": {
+  "fisier": "alaptare.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alb-cu-negru": {
+  "fisier": "alb-cu-negru.jpg",
+  "sursa": "arhiva",
+  "original": "ALB CU NEGRU.jpg",
+  "inlocuibila": true
+ },
+ "alb-si-negru": {
+  "fisier": "alb-si-negru.jpg",
+  "sursa": "arhiva",
+  "original": "ALB SI NEGRU.jpg",
+  "inlocuibila": true
+ },
+ "albinuta": {
+  "fisier": "albinuta.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "albinuta-2": {
+  "fisier": "albinuta-2.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "am-facut-o-cu-mana-mea": {
+  "fisier": "am-facut-o-cu-mana-mea.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "amenintare": {
+  "fisier": "amenintare.jpg",
+  "sursa": "arhiva",
+  "original": "AMENINTARE.jpg",
+  "inlocuibila": true
+ },
+ "amintire": {
+  "fisier": "amintire.jpg",
+  "sursa": "codex",
+  "stil": "risograf"
+ },
+ "amuzament": {
+  "fisier": "amuzament.jpg",
+  "sursa": "arhiva",
+  "original": "FLANIMALS/Amuzament.png",
+  "inlocuibila": true
+ },
+ "arhitectura": {
+  "fisier": "arhitectura.jpg",
+  "sursa": "codex",
+  "stil": "risograf"
+ },
+ "ariciul-grijuliu": {
+  "fisier": "ariciul-grijuliu.jpg",
+  "sursa": "arhiva",
+  "original": "Ariciul grijuliu.jpg",
+  "inlocuibila": true
+ },
+ "asteptare-2": {
+  "fisier": "asteptare-2.jpg",
+  "sursa": "arhiva",
+  "original": "ASTEPTARE.jpg",
+  "inlocuibila": true
+ },
+ "asteptare-3": {
+  "fisier": "asteptare-3.jpg",
+  "sursa": "arhiva",
+  "original": "ASTEPTARE.jpg",
+  "inlocuibila": true
+ },
+ "asteptare": {
+  "fisier": "asteptare.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "atac-esuat": {
+  "fisier": "atac-esuat.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "atac-ratat-3": {
+  "fisier": "atac-ratat-3.jpg",
+  "sursa": "arhiva",
+  "original": "ATAC RATAT.jpg",
+  "inlocuibila": true
+ },
+ "atac-ratat-4": {
+  "fisier": "atac-ratat-4.jpg",
+  "sursa": "arhiva",
+  "original": "ATAC RATAT.jpg",
+  "inlocuibila": true
+ },
+ "atac-ratat": {
+  "fisier": "atac-ratat.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "atac-ratat-2": {
+  "fisier": "atac-ratat-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "atacul": {
+  "fisier": "atacul.jpg",
+  "sursa": "codex",
+  "stil": "risograf"
+ },
+ "atacul-2": {
+  "fisier": "atacul-2.jpg",
+  "sursa": "arhiva",
+  "original": "ATACUL.jpg",
+  "inlocuibila": true
+ },
+ "atacul-leilor": {
+  "fisier": "atacul-leilor.jpg",
+  "sursa": "arhiva",
+  "original": "ATACUL LEILOR.jpg",
+  "inlocuibila": true
+ },
+ "atentie": {
+  "fisier": "atentie.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "atentie-2": {
+  "fisier": "atentie-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "atentie-3": {
+  "fisier": "atentie-3.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "atentie-4": {
+  "fisier": "atentie-4.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "atentie-5": {
+  "fisier": "atentie-5.jpg",
+  "sursa": "arhiva",
+  "original": "Vasile APRILIE 2017/ATENȚIE.png",
+  "inlocuibila": true
+ },
+ "atentie-filmam": {
+  "fisier": "atentie-filmam.jpg",
+  "sursa": "arhiva",
+  "original": "ATENTIE FILMAM.jpg",
+  "inlocuibila": true
+ },
+ "atleta": {
+  "fisier": "atleta.jpg",
+  "sursa": "arhiva",
+  "original": "ATLETA.jpg",
+  "inlocuibila": true
+ },
+ "aventura": {
+  "fisier": "aventura.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "aventura-2": {
+  "fisier": "aventura-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "aventura-3": {
+  "fisier": "aventura-3.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "azorica-si-motanel": {
+  "fisier": "azorica-si-motanel.jpg",
+  "sursa": "arhiva",
+  "original": "AZORICĂ ȘI MOTĂNEL.jpg",
+  "inlocuibila": true
+ },
+ "balerinele": {
+  "fisier": "balerinele.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/Balerinele.jpg",
+  "inlocuibila": true
+ },
+ "balerinii": {
+  "fisier": "balerinii.jpg",
+  "sursa": "arhiva",
+  "original": "BALERINII.jpg",
+  "inlocuibila": true
+ },
+ "balet": {
+  "fisier": "balet.jpg",
+  "sursa": "arhiva",
+  "original": "BALET.jpg",
+  "inlocuibila": true
+ },
+ "bancul": {
+  "fisier": "bancul.jpg",
+  "sursa": "arhiva",
+  "original": "BANCUL.jpg",
+  "inlocuibila": true
+ },
+ "banda-pisicilor": {
+  "fisier": "banda-pisicilor.jpg",
+  "sursa": "arhiva",
+  "original": "Banda pisicilor.jpg",
+  "inlocuibila": true
+ },
+ "barza": {
+  "fisier": "barza.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "bataie-frateasca": {
+  "fisier": "bataie-frateasca.jpg",
+  "sursa": "arhiva",
+  "original": "FLANIMALS/Bataie Frateasca.jpg",
+  "inlocuibila": true
+ },
+ "batranetea": {
+  "fisier": "batranetea.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "batranetea-3": {
+  "fisier": "batranetea-3.jpg",
+  "sursa": "arhiva",
+  "original": "BATRANETEA.jpg",
+  "inlocuibila": true
+ },
+ "batranetea-2": {
+  "fisier": "batranetea-2.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "batul": {
+  "fisier": "batul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "betie": {
+  "fisier": "betie.jpg",
+  "sursa": "arhiva",
+  "original": "BETIE.jpg",
+  "inlocuibila": true
+ },
+ "betie-2": {
+  "fisier": "betie-2.jpg",
+  "sursa": "arhiva",
+  "original": "BETIE.jpg",
+  "inlocuibila": true
+ },
+ "bodyguardul-curtii": {
+  "fisier": "bodyguardul-curtii.jpg",
+  "sursa": "arhiva",
+  "original": "BODYGUARDUL CURTII .jpg",
+  "inlocuibila": true
+ },
+ "box-pe-buturugi": {
+  "fisier": "box-pe-buturugi.jpg",
+  "sursa": "arhiva",
+  "original": "FLANIMALS/Box pe Buturugi.jpg",
+  "inlocuibila": true
+ },
+ "broscoiul-balerin": {
+  "fisier": "broscoiul-balerin.jpg",
+  "sursa": "arhiva",
+  "original": "FLANIMALS/Broscoiul balerin.jpg",
+  "inlocuibila": true
+ },
+ "broscoiul-fosforescent": {
+  "fisier": "broscoiul-fosforescent.jpg",
+  "sursa": "arhiva",
+  "original": "BROSCOIUL FOSFORESCENT.jpg",
+  "inlocuibila": true
+ },
+ "broscoiul-increzut": {
+  "fisier": "broscoiul-increzut.jpg",
+  "sursa": "codex",
+  "stil": "ziar"
+ },
+ "brotacul": {
+  "fisier": "brotacul.jpg",
+  "sursa": "arhiva",
+  "original": "BROTACUL.jpg",
+  "inlocuibila": true
+ },
+ "brumarel": {
+  "fisier": "brumarel.jpg",
+  "sursa": "arhiva",
+  "original": "BRUMAREL.jpg",
+  "inlocuibila": true
+ },
+ "bucatarul-ham": {
+  "fisier": "bucatarul-ham.jpg",
+  "sursa": "arhiva",
+  "original": "Bucatarul Ham.jpg",
+  "inlocuibila": true
+ },
+ "bucuria": {
+  "fisier": "bucuria.jpg",
+  "sursa": "arhiva",
+  "original": "BUCURIA.jpg",
+  "inlocuibila": true
+ },
+ "bufnita": {
+  "fisier": "bufnita.jpg",
+  "sursa": "codex",
+  "stil": "ziar"
+ },
+ "bufnita-si-vulpea": {
+  "fisier": "bufnita-si-vulpea.jpg",
+  "sursa": "arhiva",
+  "original": "BUFNITA SI VULPEA.jpg",
+  "inlocuibila": true
+ },
+ "buna-dimineata": {
+  "fisier": "buna-dimineata.jpg",
+  "sursa": "arhiva",
+  "original": "BUNA DIMINEATA.jpg",
+  "inlocuibila": true
+ },
+ "bune-maniere": {
+  "fisier": "bune-maniere.jpg",
+  "sursa": "arhiva",
+  "original": "BUNE MANIERE.jpg",
+  "inlocuibila": true
+ },
+ "ca-mamica-grija-are": {
+  "fisier": "ca-mamica-grija-are.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "cal-de-mare": {
+  "fisier": "cal-de-mare.jpg",
+  "sursa": "arhiva",
+  "original": "CAL DE MARE.jpg",
+  "inlocuibila": true
+ },
+ "calul": {
+  "fisier": "calul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "camarazi": {
+  "fisier": "camarazi.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "cameleonul": {
+  "fisier": "cameleonul.jpg",
+  "sursa": "arhiva",
+  "original": "CAMELEONUL.jpg",
+  "inlocuibila": true
+ },
+ "campioana": {
+  "fisier": "campioana.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "campionii": {
+  "fisier": "campionii.jpg",
+  "sursa": "arhiva",
+  "original": "CAMPIONII.jpg",
+  "inlocuibila": true
+ },
+ "cand-nici-nu-te-astepti": {
+  "fisier": "cand-nici-nu-te-astepti.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/Cand nici nu te-astepti.jpg",
+  "inlocuibila": true
+ },
+ "cand-ti-o-faci-cu-mana-ta": {
+  "fisier": "cand-ti-o-faci-cu-mana-ta.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "cand-vei-fi-mare": {
+  "fisier": "cand-vei-fi-mare.jpg",
+  "sursa": "arhiva",
+  "original": "CAND VEI FI MARE.jpg",
+  "inlocuibila": true
+ },
+ "cangurul-biciclist": {
+  "fisier": "cangurul-biciclist.jpg",
+  "sursa": "arhiva",
+  "original": "Cangurul biciclist.jpg",
+  "inlocuibila": true
+ },
+ "caprita": {
+  "fisier": "caprita.jpg",
+  "sursa": "arhiva",
+  "original": "FLANIMALS/Caprita.jpg",
+  "inlocuibila": true
+ },
+ "caravana": {
+  "fisier": "caravana.jpg",
+  "sursa": "arhiva",
+  "original": "CARAVANA copy.jpg",
+  "inlocuibila": true
+ },
+ "caravana-2": {
+  "fisier": "caravana-2.jpg",
+  "sursa": "arhiva",
+  "original": "CARAVANA copy.jpg",
+  "inlocuibila": true
+ },
+ "caravane": {
+  "fisier": "caravane.jpg",
+  "sursa": "arhiva",
+  "original": "CARAVANE.jpg",
+  "inlocuibila": true
+ },
+ "care-pe-care-2": {
+  "fisier": "care-pe-care-2.jpg",
+  "sursa": "arhiva",
+  "original": "CARE PE CARE 1.jpg",
+  "inlocuibila": true
+ },
+ "care-pe-care-3": {
+  "fisier": "care-pe-care-3.jpg",
+  "sursa": "arhiva",
+  "original": "CARE PE CARE 1.jpg",
+  "inlocuibila": true
+ },
+ "care-pe-care": {
+  "fisier": "care-pe-care.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "casatorie": {
+  "fisier": "casatorie.jpg",
+  "sursa": "arhiva",
+  "original": "CASATORIE.jpg",
+  "inlocuibila": true
+ },
+ "casatorie-2": {
+  "fisier": "casatorie-2.jpg",
+  "sursa": "arhiva",
+  "original": "CASATORIE.jpg",
+  "inlocuibila": true
+ },
+ "catarul": {
+  "fisier": "catarul.jpg",
+  "sursa": "arhiva",
+  "original": "FLANIMALS/Catarul.jpg",
+  "inlocuibila": true
+ },
+ "catelul-si-pisicuta": {
+  "fisier": "catelul-si-pisicuta.jpg",
+  "sursa": "arhiva",
+  "original": "CATELUL SI PISICUTA.jpg",
+  "inlocuibila": true
+ },
+ "catelusul": {
+  "fisier": "catelusul.jpg",
+  "sursa": "arhiva",
+  "original": "CATELUSUL.jpg",
+  "inlocuibila": true
+ },
+ "catelusul-si-pisica": {
+  "fisier": "catelusul-si-pisica.jpg",
+  "sursa": "arhiva",
+  "original": "CATELUSUL SI PISICA.jpg",
+  "inlocuibila": true
+ },
+ "cautatorii-de-miere": {
+  "fisier": "cautatorii-de-miere.jpg",
+  "sursa": "arhiva",
+  "original": "CAUTATORII DE MIERE.jpg",
+  "inlocuibila": true
+ },
+ "cavalerul": {
+  "fisier": "cavalerul.jpg",
+  "sursa": "arhiva",
+  "original": "CAVALERUL.jpeg",
+  "inlocuibila": true
+ },
+ "ce-ma-fac": {
+  "fisier": "ce-ma-fac.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "ce-sa-fie": {
+  "fisier": "ce-sa-fie.jpg",
+  "sursa": "codex",
+  "stil": "galerie"
+ },
+ "ceasul-din-turn": {
+  "fisier": "ceasul-din-turn.jpg",
+  "sursa": "codex",
+  "stil": "ziar"
+ },
+ "cer-iertare": {
+  "fisier": "cer-iertare.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "cerand-lunii": {
+  "fisier": "cerand-lunii.jpg",
+  "sursa": "arhiva",
+  "original": "CERAND LUNII.jpg",
+  "inlocuibila": true
+ },
+ "cerbul": {
+  "fisier": "cerbul.jpg",
+  "sursa": "arhiva",
+  "original": "FLANIMALS/Cerbul.jpg",
+  "inlocuibila": true
+ },
+ "chef": {
+  "fisier": "chef.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "chef-de-joaca": {
+  "fisier": "chef-de-joaca.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/Chef de Joaca.jpeg",
+  "inlocuibila": true
+ },
+ "chemarea-mierlei": {
+  "fisier": "chemarea-mierlei.jpg",
+  "sursa": "arhiva",
+  "original": "FLANIMALS/Chemarea mierlei.jpg",
+  "inlocuibila": true
+ },
+ "chemarea-speciei": {
+  "fisier": "chemarea-speciei.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "cinci-puisori": {
+  "fisier": "cinci-puisori.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/Cinci puisori.jpg",
+  "inlocuibila": true
+ },
+ "cine-sunt": {
+  "fisier": "cine-sunt.jpg",
+  "sursa": "arhiva",
+  "original": "CINE SUNT.jpg",
+  "inlocuibila": true
+ },
+ "ciocanitoarea": {
+  "fisier": "ciocanitoarea.jpg",
+  "sursa": "arhiva",
+  "original": "Vasile Ianuarie/CIOCANITOAREA.jpg",
+  "inlocuibila": true
+ },
+ "circul-broscutelor": {
+  "fisier": "circul-broscutelor.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "clipa": {
+  "fisier": "clipa.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "clipa-2": {
+  "fisier": "clipa-2.jpg",
+  "sursa": "arhiva",
+  "original": "CLIPA.jpg",
+  "inlocuibila": true
+ },
+ "closca-cu-pui": {
+  "fisier": "closca-cu-pui.jpg",
+  "sursa": "arhiva",
+  "original": "CLOSCA CU PUI.jpg",
+  "inlocuibila": true
+ },
+ "coada-scurta": {
+  "fisier": "coada-scurta.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "cochilia": {
+  "fisier": "cochilia.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "colinda-2": {
+  "fisier": "colinda-2.jpg",
+  "sursa": "arhiva",
+  "original": "COLINDA.jpg",
+  "inlocuibila": true
+ },
+ "colinda": {
+  "fisier": "colinda.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "colindam": {
+  "fisier": "colindam.jpg",
+  "sursa": "arhiva",
+  "original": "COLINDAM.jpg",
+  "inlocuibila": true
+ },
+ "colindatorii": {
+  "fisier": "colindatorii.jpg",
+  "sursa": "arhiva",
+  "original": "COLINDATORII.jpg",
+  "inlocuibila": true
+ },
+ "colindul-animalelor": {
+  "fisier": "colindul-animalelor.jpg",
+  "sursa": "arhiva",
+  "original": "COLINDUL ANIMALELOR.jpg",
+  "inlocuibila": true
+ },
+ "colorata": {
+  "fisier": "colorata.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "compozitie": {
+  "fisier": "compozitie.jpg",
+  "sursa": "arhiva",
+  "original": "Compozitie.jpg",
+  "inlocuibila": true
+ },
+ "concert": {
+  "fisier": "concert.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "concurs-3": {
+  "fisier": "concurs-3.jpg",
+  "sursa": "arhiva",
+  "original": "CONCURS.jpg",
+  "inlocuibila": true
+ },
+ "concurs-2": {
+  "fisier": "concurs-2.jpg",
+  "sursa": "arhiva",
+  "original": "CONCURS.jpg",
+  "inlocuibila": true
+ },
+ "concurs": {
+  "fisier": "concurs.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "congresul-reptilelor": {
+  "fisier": "congresul-reptilelor.jpg",
+  "sursa": "arhiva",
+  "original": "CONGRESUL REPTILELOR.jpg",
+  "inlocuibila": true
+ },
+ "contemplare-2": {
+  "fisier": "contemplare-2.jpg",
+  "sursa": "arhiva",
+  "original": "CONTEMPLARE.jpg",
+  "inlocuibila": true
+ },
+ "contemplare": {
+  "fisier": "contemplare.jpg",
+  "sursa": "arhiva",
+  "original": "CONTEMPLARE.jpg",
+  "inlocuibila": true
+ },
+ "copilaria": {
+  "fisier": "copilaria.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "copilaria-2": {
+  "fisier": "copilaria-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "copile-2": {
+  "fisier": "copile-2.jpg",
+  "sursa": "codex",
+  "stil": "gradinita"
+ },
+ "copile-3": {
+  "fisier": "copile-3.jpg",
+  "sursa": "codex",
+  "stil": "crem"
+ },
+ "copile": {
+  "fisier": "copile.jpg",
+  "sursa": "arhiva",
+  "original": "Copile.jpg",
+  "inlocuibila": true
+ },
+ "corabia-testoasei": {
+  "fisier": "corabia-testoasei.jpg",
+  "sursa": "arhiva",
+  "original": "CORABIA TESTOASEI.jpg",
+  "inlocuibila": true
+ },
+ "cormoranii": {
+  "fisier": "cormoranii.jpg",
+  "sursa": "arhiva",
+  "original": "CORMORANII.jpg",
+  "inlocuibila": true
+ },
+ "corul-pisicilor": {
+  "fisier": "corul-pisicilor.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "cotofana": {
+  "fisier": "cotofana.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "cotofana-increzuta": {
+  "fisier": "cotofana-increzuta.jpg",
+  "sursa": "arhiva",
+  "original": "New Vasile/Cotofana increzuta.jpg",
+  "inlocuibila": true
+ },
+ "crabul": {
+  "fisier": "crabul.jpg",
+  "sursa": "arhiva",
+  "original": "CRABUL.jpg",
+  "inlocuibila": true
+ },
+ "craiul-muntilor": {
+  "fisier": "craiul-muntilor.jpg",
+  "sursa": "arhiva",
+  "original": "CRAIUL MUNTILOR.jpg",
+  "inlocuibila": true
+ },
+ "crocodilul": {
+  "fisier": "crocodilul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "cros": {
+  "fisier": "cros.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "cu-parere-de-rau": {
+  "fisier": "cu-parere-de-rau.jpg",
+  "sursa": "arhiva",
+  "original": "CU PARERE DE RAU.jpg",
+  "inlocuibila": true
+ },
+ "cucuveaua-2": {
+  "fisier": "cucuveaua-2.jpg",
+  "sursa": "arhiva",
+  "original": "CUCUVEAUA.jpg",
+  "inlocuibila": true
+ },
+ "cucuveaua": {
+  "fisier": "cucuveaua.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "cucuveaua-mica": {
+  "fisier": "cucuveaua-mica.jpg",
+  "sursa": "arhiva",
+  "original": "Cucuveaua Mica.jpg",
+  "inlocuibila": true
+ },
+ "curiozitate": {
+  "fisier": "curiozitate.jpg",
+  "sursa": "arhiva",
+  "original": "CURIOZITATE.jpg",
+  "inlocuibila": true
+ },
+ "cursa": {
+  "fisier": "cursa.jpg",
+  "sursa": "arhiva",
+  "original": "CURSA.jpeg",
+  "inlocuibila": true
+ },
+ "daca": {
+  "fisier": "daca.jpg",
+  "sursa": "arhiva",
+  "original": "DACA.jpg",
+  "inlocuibila": true
+ },
+ "dalmatianul": {
+  "fisier": "dalmatianul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dalmatienii": {
+  "fisier": "dalmatienii.jpg",
+  "sursa": "arhiva",
+  "original": "Dalmatienii.jpg",
+  "inlocuibila": true
+ },
+ "dar-dumnezeiesc": {
+  "fisier": "dar-dumnezeiesc.jpg",
+  "sursa": "arhiva",
+  "original": "DAR DUMNEZEIESC.jpg",
+  "inlocuibila": true
+ },
+ "de-a-ascunselea-2": {
+  "fisier": "de-a-ascunselea-2.jpg",
+  "sursa": "codex",
+  "stil": "crem"
+ },
+ "de-a-ascunselea": {
+  "fisier": "de-a-ascunselea.jpg",
+  "sursa": "arhiva",
+  "original": "DE-A ASCUNSELEA.jpg",
+  "inlocuibila": true
+ },
+ "de-cand-e-lumea": {
+  "fisier": "de-cand-e-lumea.jpg",
+  "sursa": "arhiva",
+  "original": "DE CAND E LUMEA.jpg",
+  "inlocuibila": true
+ },
+ "de-ce-oare": {
+  "fisier": "de-ce-oare.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "de-cine-ti-faci-mila": {
+  "fisier": "de-cine-ti-faci-mila.jpg",
+  "sursa": "arhiva",
+  "original": "De cine-ți faci mila.jpg",
+  "inlocuibila": true
+ },
+ "de-craciun-2": {
+  "fisier": "de-craciun-2.jpg",
+  "sursa": "arhiva",
+  "original": "DE CRACIUN.jpg",
+  "inlocuibila": true
+ },
+ "de-craciun-3": {
+  "fisier": "de-craciun-3.jpg",
+  "sursa": "arhiva",
+  "original": "DE CRACIUN.jpg",
+  "inlocuibila": true
+ },
+ "de-craciun": {
+  "fisier": "de-craciun.jpg",
+  "sursa": "arhiva",
+  "original": "DE CRACIUN.jpg",
+  "inlocuibila": true
+ },
+ "de-dragoste-2": {
+  "fisier": "de-dragoste-2.jpg",
+  "sursa": "arhiva",
+  "original": "DE DRAGOSTE copy.jpg",
+  "inlocuibila": true
+ },
+ "de-dragoste": {
+  "fisier": "de-dragoste.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "de-la-cine": {
+  "fisier": "de-la-cine.jpg",
+  "sursa": "arhiva",
+  "original": "DE LA CINE.jpg",
+  "inlocuibila": true
+ },
+ "de-veghe": {
+  "fisier": "de-veghe.jpg",
+  "sursa": "arhiva",
+  "original": "DE VEGHE.jpg",
+  "inlocuibila": true
+ },
+ "deghizarea": {
+  "fisier": "deghizarea.jpg",
+  "sursa": "arhiva",
+  "original": "Deghizarea.jpg",
+  "inlocuibila": true
+ },
+ "descurcaretul": {
+  "fisier": "descurcaretul.jpg",
+  "sursa": "arhiva",
+  "original": "DESCURCARETUL.jpg",
+  "inlocuibila": true
+ },
+ "destainuire": {
+  "fisier": "destainuire.jpg",
+  "sursa": "arhiva",
+  "original": "DESTAINUIRE.jpg",
+  "inlocuibila": true
+ },
+ "destindere": {
+  "fisier": "destindere.jpg",
+  "sursa": "arhiva",
+  "original": "Destindere.jpg",
+  "inlocuibila": true
+ },
+ "diamantul": {
+  "fisier": "diamantul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dihorul-necredincios": {
+  "fisier": "dihorul-necredincios.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/Dihorul necredincios.jpg",
+  "inlocuibila": true
+ },
+ "dimineata-de-cu-zori": {
+  "fisier": "dimineata-de-cu-zori.jpg",
+  "sursa": "arhiva",
+  "original": "DIMINEATA DE CU ZORI.jpg",
+  "inlocuibila": true
+ },
+ "din-spuma-marii": {
+  "fisier": "din-spuma-marii.jpg",
+  "sursa": "arhiva",
+  "original": "Din SPUMA MARII.jpg",
+  "inlocuibila": true
+ },
+ "doar-pescarusii": {
+  "fisier": "doar-pescarusii.jpg",
+  "sursa": "arhiva",
+  "original": "New Vasile/Doar Pescarusii.JPG",
+  "inlocuibila": true
+ },
+ "doi-amici": {
+  "fisier": "doi-amici.jpg",
+  "sursa": "arhiva",
+  "original": "DOI AMICI.jpg",
+  "inlocuibila": true
+ },
+ "doi-copii-nevinovati": {
+  "fisier": "doi-copii-nevinovati.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "dojana": {
+  "fisier": "dojana.jpg",
+  "sursa": "arhiva",
+  "original": "DOJANA.jpg",
+  "inlocuibila": true
+ },
+ "domnule-ratoi": {
+  "fisier": "domnule-ratoi.jpg",
+  "sursa": "arhiva",
+  "original": "DOMNULE RĂTOI.jpg",
+  "inlocuibila": true
+ },
+ "dorinta-2": {
+  "fisier": "dorinta-2.jpg",
+  "sursa": "arhiva",
+  "original": "Dorinta.jpg",
+  "inlocuibila": true
+ },
+ "dorinta": {
+  "fisier": "dorinta.jpg",
+  "sursa": "arhiva",
+  "original": "Dorinta.jpg",
+  "inlocuibila": true
+ },
+ "dormi-in-pace": {
+  "fisier": "dormi-in-pace.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dorul": {
+  "fisier": "dorul.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "dorul-de-copilarie": {
+  "fisier": "dorul-de-copilarie.jpg",
+  "sursa": "arhiva",
+  "original": "DORUL DE COPILARIE.jpg",
+  "inlocuibila": true
+ },
+ "draga-motanel": {
+  "fisier": "draga-motanel.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "draga-musetel": {
+  "fisier": "draga-musetel.jpg",
+  "sursa": "arhiva",
+  "original": "DRAGA MUSETEL.jpg",
+  "inlocuibila": true
+ },
+ "dragii-mei": {
+  "fisier": "dragii-mei.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dragii-mei-2": {
+  "fisier": "dragii-mei-2.jpg",
+  "sursa": "arhiva",
+  "original": "DRAGII MEI.jpg",
+  "inlocuibila": true
+ },
+ "dragoste": {
+  "fisier": "dragoste.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dragoste-de-mama-2": {
+  "fisier": "dragoste-de-mama-2.jpg",
+  "sursa": "arhiva",
+  "original": "DRAGOSTE DE MAMA copy 3.jpg",
+  "inlocuibila": true
+ },
+ "dragoste-de-mama-3": {
+  "fisier": "dragoste-de-mama-3.jpg",
+  "sursa": "arhiva",
+  "original": "DRAGOSTE DE MAMA copy 3.jpg",
+  "inlocuibila": true
+ },
+ "dragoste-de-mama-4": {
+  "fisier": "dragoste-de-mama-4.jpg",
+  "sursa": "arhiva",
+  "original": "DRAGOSTE DE MAMA copy 3.jpg",
+  "inlocuibila": true
+ },
+ "dragoste-de-mama": {
+  "fisier": "dragoste-de-mama.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dragoste-la-prima-vedere": {
+  "fisier": "dragoste-la-prima-vedere.jpg",
+  "sursa": "arhiva",
+  "original": "DRAgOSTE LA PRIMA VEDERE.jpeg",
+  "inlocuibila": true
+ },
+ "dragostea-nu-are-hotare": {
+  "fisier": "dragostea-nu-are-hotare.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/Dragostea nu are hotare.jpg",
+  "inlocuibila": true
+ },
+ "dragul-meu": {
+  "fisier": "dragul-meu.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "drumul-furnicilor": {
+  "fisier": "drumul-furnicilor.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "duet-2": {
+  "fisier": "duet-2.jpg",
+  "sursa": "arhiva",
+  "original": "DUET.png",
+  "inlocuibila": true
+ },
+ "duet": {
+  "fisier": "duet.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "duminica-floriilor": {
+  "fisier": "duminica-floriilor.jpg",
+  "sursa": "arhiva",
+  "original": "New Vasile/Duminica Floriilor.jpg",
+  "inlocuibila": true
+ },
+ "e-primavara": {
+  "fisier": "e-primavara.jpg",
+  "sursa": "arhiva",
+  "original": "New Vasile/E PRIMAVARA.jpg",
+  "inlocuibila": true
+ },
+ "e-semn-de-primavara": {
+  "fisier": "e-semn-de-primavara.jpg",
+  "sursa": "arhiva",
+  "original": "New Vasile/E SEMN DE PRIMAVARA.jpg",
+  "inlocuibila": true
+ },
+ "ea-toamna": {
+  "fisier": "ea-toamna.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "echilibru-ecologic": {
+  "fisier": "echilibru-ecologic.jpg",
+  "sursa": "arhiva",
+  "original": "Echilibru ecologic.jpg",
+  "inlocuibila": true
+ },
+ "echitatie": {
+  "fisier": "echitatie.jpg",
+  "sursa": "arhiva",
+  "original": "ECHITATIE.jpg",
+  "inlocuibila": true
+ },
+ "elefantul": {
+  "fisier": "elefantul.jpg",
+  "sursa": "arhiva",
+  "original": "Elefantul.jpg",
+  "inlocuibila": true
+ },
+ "elvis": {
+  "fisier": "elvis.jpg",
+  "sursa": "arhiva",
+  "original": "Elvis.jpg",
+  "inlocuibila": true
+ },
+ "eroul": {
+  "fisier": "eroul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "esecul": {
+  "fisier": "esecul.jpg",
+  "sursa": "arhiva",
+  "original": "ESECUL.jpg",
+  "inlocuibila": true
+ },
+ "evadare": {
+  "fisier": "evadare.jpg",
+  "sursa": "arhiva",
+  "original": "EVADARE.jpg",
+  "inlocuibila": true
+ },
+ "evitare": {
+  "fisier": "evitare.jpg",
+  "sursa": "arhiva",
+  "original": "EVITARE.jpg",
+  "inlocuibila": true
+ },
+ "evolutie-2": {
+  "fisier": "evolutie-2.jpg",
+  "sursa": "codex",
+  "stil": "galerie"
+ },
+ "evolutie": {
+  "fisier": "evolutie.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "fantastic": {
+  "fisier": "fantastic.jpg",
+  "sursa": "arhiva",
+  "original": "FANTASTIC.jpg",
+  "inlocuibila": true
+ },
+ "fazanul-auriu": {
+  "fisier": "fazanul-auriu.jpg",
+  "sursa": "arhiva",
+  "original": "Fazanul Auriu.jpg",
+  "inlocuibila": true
+ },
+ "fereste-te-de-ea": {
+  "fisier": "fereste-te-de-ea.jpg",
+  "sursa": "arhiva",
+  "original": "FERESTE-TE DE EA.jpg",
+  "inlocuibila": true
+ },
+ "filozofare": {
+  "fisier": "filozofare.jpg",
+  "sursa": "arhiva",
+  "original": "FILOZOFARE.jpg",
+  "inlocuibila": true
+ },
+ "floriile": {
+  "fisier": "floriile.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "fluturasul": {
+  "fisier": "fluturasul.jpg",
+  "sursa": "arhiva",
+  "original": "FLUTURASUL.jpg",
+  "inlocuibila": true
+ },
+ "fluturasul-2": {
+  "fisier": "fluturasul-2.jpg",
+  "sursa": "arhiva",
+  "original": "FLUTURASUL.jpg",
+  "inlocuibila": true
+ },
+ "forta": {
+  "fisier": "forta.jpg",
+  "sursa": "arhiva",
+  "original": "Fortă.jpg",
+  "inlocuibila": true
+ },
+ "fotbal": {
+  "fisier": "fotbal.jpg",
+  "sursa": "arhiva",
+  "original": "Fotbal.jpg",
+  "inlocuibila": true
+ },
+ "fotbalistii": {
+  "fisier": "fotbalistii.jpg",
+  "sursa": "arhiva",
+  "original": "FOTBALIȘTII.jpg",
+  "inlocuibila": true
+ },
+ "fotbalistul": {
+  "fisier": "fotbalistul.jpg",
+  "sursa": "arhiva",
+  "original": "FOTBALISTUL.jpg",
+  "inlocuibila": true
+ },
+ "fotografia": {
+  "fisier": "fotografia.jpg",
+  "sursa": "arhiva",
+  "original": "FOTOGRAFIA.jpg",
+  "inlocuibila": true
+ },
+ "fratie": {
+  "fisier": "fratie.jpg",
+  "sursa": "arhiva",
+  "original": "FRATIE.jpg",
+  "inlocuibila": true
+ },
+ "fratiorii": {
+  "fisier": "fratiorii.jpg",
+  "sursa": "arhiva",
+  "original": "FRATIORII.jpg",
+  "inlocuibila": true
+ },
+ "frumoasa-mea": {
+  "fisier": "frumoasa-mea.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "frumusete-2": {
+  "fisier": "frumusete-2.jpg",
+  "sursa": "arhiva",
+  "original": "FRUMUSETE.jpg",
+  "inlocuibila": true
+ },
+ "frumusete": {
+  "fisier": "frumusete.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "frumusetea-2": {
+  "fisier": "frumusetea-2.jpg",
+  "sursa": "arhiva",
+  "original": "Frumusetea.jpg",
+  "inlocuibila": true
+ },
+ "frumusetea": {
+  "fisier": "frumusetea.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "gargarita": {
+  "fisier": "gargarita.jpg",
+  "sursa": "arhiva",
+  "original": "FLANIMALS/Gargarita.jpg",
+  "inlocuibila": true
+ },
+ "gazduire": {
+  "fisier": "gazduire.jpg",
+  "sursa": "arhiva",
+  "original": "GAZDUIRE.jpg",
+  "inlocuibila": true
+ },
+ "gelozie-2": {
+  "fisier": "gelozie-2.jpg",
+  "sursa": "codex",
+  "stil": "risograf"
+ },
+ "gelozie": {
+  "fisier": "gelozie.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "ghici": {
+  "fisier": "ghici.jpg",
+  "sursa": "arhiva",
+  "original": "FLANIMALS/Ghici.jpeg",
+  "inlocuibila": true
+ },
+ "ghinda": {
+  "fisier": "ghinda.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "gimnasta": {
+  "fisier": "gimnasta.jpg",
+  "sursa": "arhiva",
+  "original": "GIMNASTA.jpg",
+  "inlocuibila": true
+ },
+ "gingasie": {
+  "fisier": "gingasie.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "girafa-2": {
+  "fisier": "girafa-2.jpg",
+  "sursa": "arhiva",
+  "original": "GIRAFA.png",
+  "inlocuibila": true
+ },
+ "girafa": {
+  "fisier": "girafa.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "girafele": {
+  "fisier": "girafele.jpg",
+  "sursa": "arhiva",
+  "original": "Girafele.jpg",
+  "inlocuibila": true
+ },
+ "grandomanul": {
+  "fisier": "grandomanul.jpg",
+  "sursa": "arhiva",
+  "original": "GRANDOMANUL.jpg",
+  "inlocuibila": true
+ },
+ "grangurul": {
+  "fisier": "grangurul.jpg",
+  "sursa": "arhiva",
+  "original": "FLANIMALS/GRANGURUL.jpg",
+  "inlocuibila": true
+ },
+ "greierasii": {
+  "fisier": "greierasii.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "greierasul-tup": {
+  "fisier": "greierasul-tup.jpg",
+  "sursa": "arhiva",
+  "original": "New Vasile/Greierasul Tup.PNG",
+  "inlocuibila": true
+ },
+ "grija-de-mama-2": {
+  "fisier": "grija-de-mama-2.jpg",
+  "sursa": "arhiva",
+  "original": "GRIJA DE MAMA.jpg",
+  "inlocuibila": true
+ },
+ "grija-de-mama": {
+  "fisier": "grija-de-mama.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "grija-mare-2": {
+  "fisier": "grija-mare-2.jpg",
+  "sursa": "arhiva",
+  "original": "GRIJA MARE.jpg",
+  "inlocuibila": true
+ },
+ "grija-mare": {
+  "fisier": "grija-mare.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "grija-parinteasca": {
+  "fisier": "grija-parinteasca.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "grija-parinteasca-2": {
+  "fisier": "grija-parinteasca-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "grijulia-mieunica": {
+  "fisier": "grijulia-mieunica.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "grijuliul": {
+  "fisier": "grijuliul.jpg",
+  "sursa": "arhiva",
+  "original": "GRIJULIUL.jpg",
+  "inlocuibila": true
+ },
+ "grupul-veseliei": {
+  "fisier": "grupul-veseliei.jpg",
+  "sursa": "arhiva",
+  "original": "New Vasile/Grupul veseliei.jpg",
+  "inlocuibila": true
+ },
+ "hai-la-mine": {
+  "fisier": "hai-la-mine.jpg",
+  "sursa": "arhiva",
+  "original": "HAI LA MINE.jpg",
+  "inlocuibila": true
+ },
+ "haz-de-necaz": {
+  "fisier": "haz-de-necaz.jpg",
+  "sursa": "arhiva",
+  "original": "HAZ DE NECAZ.png",
+  "inlocuibila": true
+ },
+ "herghelia-acvatica": {
+  "fisier": "herghelia-acvatica.jpg",
+  "sursa": "arhiva",
+  "original": "HERGHELIA ACVATICĂ.jpg",
+  "inlocuibila": true
+ },
+ "hipopotamul": {
+  "fisier": "hipopotamul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "hora": {
+  "fisier": "hora.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "hotomana": {
+  "fisier": "hotomana.jpg",
+  "sursa": "arhiva",
+  "original": "Hotomana.jpg",
+  "inlocuibila": true
+ },
+ "hotul-si-curcanii": {
+  "fisier": "hotul-si-curcanii.jpg",
+  "sursa": "arhiva",
+  "original": "HOTUL SI CURCANII.jpg",
+  "inlocuibila": true
+ },
+ "iara-puiul-a-scapat": {
+  "fisier": "iara-puiul-a-scapat.jpg",
+  "sursa": "arhiva",
+  "original": "New Vasile/Iara puiul a scapat.jpg",
+  "inlocuibila": true
+ },
+ "idila-2": {
+  "fisier": "idila-2.jpg",
+  "sursa": "codex",
+  "stil": "galerie"
+ },
+ "idila": {
+  "fisier": "idila.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "iepurele": {
+  "fisier": "iepurele.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "iguana": {
+  "fisier": "iguana.jpg",
+  "sursa": "arhiva",
+  "original": "IGUANA.jpg",
+  "inlocuibila": true
+ },
+ "imigrantii": {
+  "fisier": "imigrantii.jpg",
+  "sursa": "arhiva",
+  "original": "IMIGRANTII.jpg",
+  "inlocuibila": true
+ },
+ "impacarea": {
+  "fisier": "impacarea.jpg",
+  "sursa": "arhiva",
+  "original": "IMPACAREA.jpg",
+  "inlocuibila": true
+ },
+ "imparatul": {
+  "fisier": "imparatul.jpg",
+  "sursa": "arhiva",
+  "original": "IMPARATUL.jpg",
+  "inlocuibila": true
+ },
+ "imperechere": {
+  "fisier": "imperechere.jpg",
+  "sursa": "arhiva",
+  "original": "IMPERECHERE.jpg",
+  "inlocuibila": true
+ },
+ "impreuna": {
+  "fisier": "impreuna.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "impreuna-in-gradina": {
+  "fisier": "impreuna-in-gradina.jpg",
+  "sursa": "arhiva",
+  "original": "IMPREUNA IN GRADINA.jpeg",
+  "inlocuibila": true
+ },
+ "in-ajun": {
+  "fisier": "in-ajun.jpg",
+  "sursa": "arhiva",
+  "original": "IN AJUN.jpg",
+  "inlocuibila": true
+ },
+ "in-asteptare-4": {
+  "fisier": "in-asteptare-4.jpg",
+  "sursa": "arhiva",
+  "original": "IN ASTEPTARE copy 3.jpg",
+  "inlocuibila": true
+ },
+ "in-asteptare-5": {
+  "fisier": "in-asteptare-5.jpg",
+  "sursa": "arhiva",
+  "original": "IN ASTEPTARE copy 3.jpg",
+  "inlocuibila": true
+ },
+ "in-asteptare-6": {
+  "fisier": "in-asteptare-6.jpg",
+  "sursa": "arhiva",
+  "original": "IN ASTEPTARE copy 3.jpg",
+  "inlocuibila": true
+ },
+ "in-asteptare-7": {
+  "fisier": "in-asteptare-7.jpg",
+  "sursa": "arhiva",
+  "original": "IN ASTEPTARE copy 3.jpg",
+  "inlocuibila": true
+ },
+ "in-asteptare": {
+  "fisier": "in-asteptare.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "in-asteptare-2": {
+  "fisier": "in-asteptare-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "in-asteptare-3": {
+  "fisier": "in-asteptare-3.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "in-concediu": {
+  "fisier": "in-concediu.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "in-delta": {
+  "fisier": "in-delta.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "in-delta-2": {
+  "fisier": "in-delta-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "in-delta-3": {
+  "fisier": "in-delta-3.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "in-oglinda-2": {
+  "fisier": "in-oglinda-2.jpg",
+  "sursa": "arhiva",
+  "original": "IN OGLINDĂ copy.jpg",
+  "inlocuibila": true
+ },
+ "in-oglinda": {
+  "fisier": "in-oglinda.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "in-ograda": {
+  "fisier": "in-ograda.jpg",
+  "sursa": "arhiva",
+  "original": "IN OGRADA.jpg",
+  "inlocuibila": true
+ },
+ "in-parc": {
+  "fisier": "in-parc.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "in-parc-3": {
+  "fisier": "in-parc-3.jpg",
+  "sursa": "arhiva",
+  "original": "IN PARC.jpg",
+  "inlocuibila": true
+ },
+ "in-parc-4": {
+  "fisier": "in-parc-4.jpg",
+  "sursa": "arhiva",
+  "original": "IN PARC.jpg",
+  "inlocuibila": true
+ },
+ "in-parc-2": {
+  "fisier": "in-parc-2.jpg",
+  "sursa": "arhiva",
+  "original": "IN PARC.jpg",
+  "inlocuibila": true
+ },
+ "in-picaj": {
+  "fisier": "in-picaj.jpg",
+  "sursa": "arhiva",
+  "original": "IN PICAJ.jpg",
+  "inlocuibila": true
+ },
+ "in-pijamale": {
+  "fisier": "in-pijamale.jpg",
+  "sursa": "arhiva",
+  "original": "IN PIJAMALE.jpg",
+  "inlocuibila": true
+ },
+ "in-poza": {
+  "fisier": "in-poza.jpg",
+  "sursa": "arhiva",
+  "original": "IN POZA.jpg",
+  "inlocuibila": true
+ },
+ "in-ritm-de-tango": {
+  "fisier": "in-ritm-de-tango.jpg",
+  "sursa": "arhiva",
+  "original": "IN RITM DE TANGO.jpg",
+  "inlocuibila": true
+ },
+ "in-vizita-4": {
+  "fisier": "in-vizita-4.jpg",
+  "sursa": "arhiva",
+  "original": "IN VIZITA copy.jpg",
+  "inlocuibila": true
+ },
+ "in-vizita-5": {
+  "fisier": "in-vizita-5.jpg",
+  "sursa": "arhiva",
+  "original": "IN VIZITA copy.jpg",
+  "inlocuibila": true
+ },
+ "in-vizita": {
+  "fisier": "in-vizita.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "in-vizita-2": {
+  "fisier": "in-vizita-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "in-vizita-3": {
+  "fisier": "in-vizita-3.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "in-zadar": {
+  "fisier": "in-zadar.jpg",
+  "sursa": "arhiva",
+  "original": "IN ZADAR.jpg",
+  "inlocuibila": true
+ },
+ "incalzire-globala": {
+  "fisier": "incalzire-globala.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "incercare": {
+  "fisier": "incercare.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "incurajare": {
+  "fisier": "incurajare.jpg",
+  "sursa": "arhiva",
+  "original": "Incurajare.jpg",
+  "inlocuibila": true
+ },
+ "indoiala-2": {
+  "fisier": "indoiala-2.jpg",
+  "sursa": "arhiva",
+  "original": "INDOIALA.png",
+  "inlocuibila": true
+ },
+ "indoiala": {
+  "fisier": "indoiala.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "indragostitii-3": {
+  "fisier": "indragostitii-3.jpg",
+  "sursa": "arhiva",
+  "original": "INDRAGOSTIȚII.jpg",
+  "inlocuibila": true
+ },
+ "indragostitii-4": {
+  "fisier": "indragostitii-4.jpg",
+  "sursa": "arhiva",
+  "original": "INDRAGOSTIȚII.jpg",
+  "inlocuibila": true
+ },
+ "indragostitii-5": {
+  "fisier": "indragostitii-5.jpg",
+  "sursa": "arhiva",
+  "original": "INDRAGOSTIȚII.jpg",
+  "inlocuibila": true
+ },
+ "indragostitii-6": {
+  "fisier": "indragostitii-6.jpg",
+  "sursa": "arhiva",
+  "original": "INDRAGOSTIȚII.jpg",
+  "inlocuibila": true
+ },
+ "indragostitii": {
+  "fisier": "indragostitii.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "indragostitii-2": {
+  "fisier": "indragostitii-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "indragostitul": {
+  "fisier": "indragostitul.jpg",
+  "sursa": "arhiva",
+  "original": "INDRAGOSTITUL.jpg",
+  "inlocuibila": true
+ },
+ "indragostitul-2": {
+  "fisier": "indragostitul-2.jpg",
+  "sursa": "arhiva",
+  "original": "INDRAGOSTITUL.jpg",
+  "inlocuibila": true
+ },
+ "initiativa": {
+  "fisier": "initiativa.jpg",
+  "sursa": "arhiva",
+  "original": "INITIATIVA.jpg",
+  "inlocuibila": true
+ },
+ "intalnire-2": {
+  "fisier": "intalnire-2.jpg",
+  "sursa": "arhiva",
+  "original": "INTALNIRE.gif",
+  "inlocuibila": true
+ },
+ "intalnire-3": {
+  "fisier": "intalnire-3.jpg",
+  "sursa": "arhiva",
+  "original": "INTALNIRE.gif",
+  "inlocuibila": true
+ },
+ "intalnire-4": {
+  "fisier": "intalnire-4.jpg",
+  "sursa": "arhiva",
+  "original": "INTALNIRE.gif",
+  "inlocuibila": true
+ },
+ "intalnire": {
+  "fisier": "intalnire.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "intalnire-diplomatica": {
+  "fisier": "intalnire-diplomatica.jpg",
+  "sursa": "arhiva",
+  "original": "FLANIMALS/Intalnire diplomatica.jpg",
+  "inlocuibila": true
+ },
+ "intalnire-insolita": {
+  "fisier": "intalnire-insolita.jpg",
+  "sursa": "arhiva",
+  "original": "INTALNIRE INSOLITA.jpg",
+  "inlocuibila": true
+ },
+ "intalnire-la-zero-grade": {
+  "fisier": "intalnire-la-zero-grade.jpg",
+  "sursa": "arhiva",
+  "original": "INTALNIRE LA ZERO GRADE.jpg",
+  "inlocuibila": true
+ },
+ "intelegere": {
+  "fisier": "intelegere.jpg",
+  "sursa": "arhiva",
+  "original": "INTELEGERE.jpeg",
+  "inlocuibila": true
+ },
+ "intelegere-2": {
+  "fisier": "intelegere-2.jpg",
+  "sursa": "arhiva",
+  "original": "INTELEGERE.jpeg",
+  "inlocuibila": true
+ },
+ "inteligenta": {
+  "fisier": "inteligenta.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/Inteligenta.jpg",
+  "inlocuibila": true
+ },
+ "intre-papagali": {
+  "fisier": "intre-papagali.jpg",
+  "sursa": "arhiva",
+  "original": "INTRE PAPAGALI.jpg",
+  "inlocuibila": true
+ },
+ "intre-prieteni-2": {
+  "fisier": "intre-prieteni-2.jpg",
+  "sursa": "arhiva",
+  "original": "INTRE PRIETENI.png",
+  "inlocuibila": true
+ },
+ "intre-prieteni": {
+  "fisier": "intre-prieteni.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "intre-pui": {
+  "fisier": "intre-pui.jpg",
+  "sursa": "arhiva",
+  "original": "INTRE PUI.jpg",
+  "inlocuibila": true
+ },
+ "intre-purcelusi": {
+  "fisier": "intre-purcelusi.jpg",
+  "sursa": "arhiva",
+  "original": "INTRE PURCELUSI.jpg",
+  "inlocuibila": true
+ },
+ "intre-vecine": {
+  "fisier": "intre-vecine.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "intrecerea": {
+  "fisier": "intrecerea.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "invatare-de-minte-2": {
+  "fisier": "invatare-de-minte-2.jpg",
+  "sursa": "arhiva",
+  "original": "Invatare de minte.jpg",
+  "inlocuibila": true
+ },
+ "invatare-de-minte": {
+  "fisier": "invatare-de-minte.jpg",
+  "sursa": "arhiva",
+  "original": "Invatare de minte.jpg",
+  "inlocuibila": true
+ },
+ "invatatura-de-minte": {
+  "fisier": "invatatura-de-minte.jpg",
+  "sursa": "codex",
+  "stil": "galerie"
+ },
+ "invingatorul": {
+  "fisier": "invingatorul.jpg",
+  "sursa": "arhiva",
+  "original": "INVINGATORUL.jpg",
+  "inlocuibila": true
+ },
+ "iubire-de-mama": {
+  "fisier": "iubire-de-mama.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "jocul": {
+  "fisier": "jocul.jpg",
+  "sursa": "arhiva",
+  "original": "JOCUL.jpg",
+  "inlocuibila": true
+ },
+ "jocul-2": {
+  "fisier": "jocul-2.jpg",
+  "sursa": "arhiva",
+  "original": "JOCUL.jpg",
+  "inlocuibila": true
+ },
+ "jocul-cu-bule": {
+  "fisier": "jocul-cu-bule.jpg",
+  "sursa": "arhiva",
+  "original": "JOCUL CU BULE.jpg",
+  "inlocuibila": true
+ },
+ "jucaria-2": {
+  "fisier": "jucaria-2.jpg",
+  "sursa": "codex",
+  "stil": "crem"
+ },
+ "jucaria": {
+  "fisier": "jucaria.jpg",
+  "sursa": "arhiva",
+  "original": "JUCARIA.jpg",
+  "inlocuibila": true
+ },
+ "jucatorul": {
+  "fisier": "jucatorul.jpg",
+  "sursa": "arhiva",
+  "original": "JUCĂTORUL.jpg",
+  "inlocuibila": true
+ },
+ "la-adapatoare": {
+  "fisier": "la-adapatoare.jpg",
+  "sursa": "arhiva",
+  "original": "LA ADAPATOARE.jpg",
+  "inlocuibila": true
+ },
+ "la-alune": {
+  "fisier": "la-alune.jpg",
+  "sursa": "arhiva",
+  "original": "LA ALUNE.jpg",
+  "inlocuibila": true
+ },
+ "la-balta": {
+  "fisier": "la-balta.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-circ": {
+  "fisier": "la-circ.jpg",
+  "sursa": "arhiva",
+  "original": "LA CIRC.jpg",
+  "inlocuibila": true
+ },
+ "la-doctor-2": {
+  "fisier": "la-doctor-2.jpg",
+  "sursa": "arhiva",
+  "original": "LA DOCTOR.jpg",
+  "inlocuibila": true
+ },
+ "la-doctor-3": {
+  "fisier": "la-doctor-3.jpg",
+  "sursa": "arhiva",
+  "original": "LA DOCTOR.jpg",
+  "inlocuibila": true
+ },
+ "la-doctor": {
+  "fisier": "la-doctor.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-fotografie": {
+  "fisier": "la-fotografie.jpg",
+  "sursa": "arhiva",
+  "original": "LA FOTOGRAFIE.jpg",
+  "inlocuibila": true
+ },
+ "la-furat-3": {
+  "fisier": "la-furat-3.jpg",
+  "sursa": "arhiva",
+  "original": "LA FURAT.png",
+  "inlocuibila": true
+ },
+ "la-furat": {
+  "fisier": "la-furat.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-furat-2": {
+  "fisier": "la-furat-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-gradinita-3": {
+  "fisier": "la-gradinita-3.jpg",
+  "sursa": "codex",
+  "stil": "gradinita"
+ },
+ "la-gradinita": {
+  "fisier": "la-gradinita.jpg",
+  "sursa": "arhiva",
+  "original": "LA GRADINITA.jpg",
+  "inlocuibila": true
+ },
+ "la-gradinita-2": {
+  "fisier": "la-gradinita-2.jpg",
+  "sursa": "arhiva",
+  "original": "LA GRADINITA.jpg",
+  "inlocuibila": true
+ },
+ "la-iarba-verde-2": {
+  "fisier": "la-iarba-verde-2.jpg",
+  "sursa": "arhiva",
+  "original": "LA IARBA VERDE.jpg",
+  "inlocuibila": true
+ },
+ "la-iarba-verde": {
+  "fisier": "la-iarba-verde.jpg",
+  "sursa": "arhiva",
+  "original": "LA IARBA VERDE.jpg",
+  "inlocuibila": true
+ },
+ "la-imperecheri": {
+  "fisier": "la-imperecheri.jpg",
+  "sursa": "arhiva",
+  "original": "LA IMPERECHERI.jpg",
+  "inlocuibila": true
+ },
+ "la-nunta": {
+  "fisier": "la-nunta.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-odihna": {
+  "fisier": "la-odihna.jpg",
+  "sursa": "arhiva",
+  "original": "LA ODIHNA.jpg",
+  "inlocuibila": true
+ },
+ "la-oglinda-2": {
+  "fisier": "la-oglinda-2.jpg",
+  "sursa": "arhiva",
+  "original": "Vasile Ianuarie/LA OGLINDA.jpg",
+  "inlocuibila": true
+ },
+ "la-oglinda": {
+  "fisier": "la-oglinda.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-panda-3": {
+  "fisier": "la-panda-3.jpg",
+  "sursa": "arhiva",
+  "original": "LA PÂNDĂ.jpg",
+  "inlocuibila": true
+ },
+ "la-panda-4": {
+  "fisier": "la-panda-4.jpg",
+  "sursa": "arhiva",
+  "original": "LA PÂNDĂ.jpg",
+  "inlocuibila": true
+ },
+ "la-panda-5": {
+  "fisier": "la-panda-5.jpg",
+  "sursa": "arhiva",
+  "original": "LA PÂNDĂ.jpg",
+  "inlocuibila": true
+ },
+ "la-panda-6": {
+  "fisier": "la-panda-6.jpg",
+  "sursa": "arhiva",
+  "original": "LA PÂNDĂ.jpg",
+  "inlocuibila": true
+ },
+ "la-panda": {
+  "fisier": "la-panda.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-panda-2": {
+  "fisier": "la-panda-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-pieptul-mamei": {
+  "fisier": "la-pieptul-mamei.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-pinguini": {
+  "fisier": "la-pinguini.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-plaja-3": {
+  "fisier": "la-plaja-3.jpg",
+  "sursa": "arhiva",
+  "original": "LA PLAJA.jpg",
+  "inlocuibila": true
+ },
+ "la-plaja": {
+  "fisier": "la-plaja.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-plaja-2": {
+  "fisier": "la-plaja-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-plimbare-5": {
+  "fisier": "la-plimbare-5.jpg",
+  "sursa": "arhiva",
+  "original": "LA PLIMBARE.jpg",
+  "inlocuibila": true
+ },
+ "la-plimbare-6": {
+  "fisier": "la-plimbare-6.jpg",
+  "sursa": "arhiva",
+  "original": "LA PLIMBARE.jpg",
+  "inlocuibila": true
+ },
+ "la-plimbare": {
+  "fisier": "la-plimbare.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-plimbare-2": {
+  "fisier": "la-plimbare-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-plimbare-3": {
+  "fisier": "la-plimbare-3.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-plimbare-4": {
+  "fisier": "la-plimbare-4.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "la-polul-nord": {
+  "fisier": "la-polul-nord.jpg",
+  "sursa": "arhiva",
+  "original": "LA POLUL NORD.jpg",
+  "inlocuibila": true
+ },
+ "la-prajina": {
+  "fisier": "la-prajina.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-prima-vedere": {
+  "fisier": "la-prima-vedere.jpg",
+  "sursa": "arhiva",
+  "original": "LA PRIMA VEDERE.jpg",
+  "inlocuibila": true
+ },
+ "la-pubela": {
+  "fisier": "la-pubela.jpg",
+  "sursa": "arhiva",
+  "original": "La pubela.jpg",
+  "inlocuibila": true
+ },
+ "la-rand": {
+  "fisier": "la-rand.jpg",
+  "sursa": "codex",
+  "stil": "risograf"
+ },
+ "la-scaldat": {
+  "fisier": "la-scaldat.jpg",
+  "sursa": "arhiva",
+  "original": "LA SCALDAT.jpg",
+  "inlocuibila": true
+ },
+ "la-stana": {
+  "fisier": "la-stana.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/La stana.jpg",
+  "inlocuibila": true
+ },
+ "la-stana-2": {
+  "fisier": "la-stana-2.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/La stana.jpg",
+  "inlocuibila": true
+ },
+ "la-trambulina": {
+  "fisier": "la-trambulina.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-vanat": {
+  "fisier": "la-vanat.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-vanatoare-2": {
+  "fisier": "la-vanatoare-2.jpg",
+  "sursa": "arhiva",
+  "original": "LA VANATOARE copy.jpg",
+  "inlocuibila": true
+ },
+ "la-vanatoare-3": {
+  "fisier": "la-vanatoare-3.jpg",
+  "sursa": "arhiva",
+  "original": "LA VANATOARE copy.jpg",
+  "inlocuibila": true
+ },
+ "la-vanatoare": {
+  "fisier": "la-vanatoare.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "lebada": {
+  "fisier": "lebada.jpg",
+  "sursa": "arhiva",
+  "original": "LEBADA.jpg",
+  "inlocuibila": true
+ },
+ "lectia-de-zbor": {
+  "fisier": "lectia-de-zbor.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "lemurul": {
+  "fisier": "lemurul.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/Lemurul.jpg",
+  "inlocuibila": true
+ },
+ "leopardul": {
+  "fisier": "leopardul.jpg",
+  "sursa": "arhiva",
+  "original": "LEOPARDUL.jpg",
+  "inlocuibila": true
+ },
+ "leul": {
+  "fisier": "leul.jpg",
+  "sursa": "arhiva",
+  "original": "LEUL.jpg",
+  "inlocuibila": true
+ },
+ "licuriciul-orator": {
+  "fisier": "licuriciul-orator.jpg",
+  "sursa": "arhiva",
+  "original": "VGX/Vasile select/Licuriciul Orator.jpg",
+  "inlocuibila": true
+ },
+ "locuinta-mea": {
+  "fisier": "locuinta-mea.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "lopatarul": {
+  "fisier": "lopatarul.jpg",
+  "sursa": "arhiva",
+  "original": "GrandVASILE/LOPĂTARUL.jpg",
+  "inlocuibila": true
+ },
+ "love-story": {
+  "fisier": "love-story.jpg",
+  "sursa": "arhiva",
+  "original": "LOVE STORY.jpg",
+  "inlocuibila": true
+ },
+ "lumi-diferite": {
+  "fisier": "lumi-diferite.jpg",
+  "sursa": "arhiva",
+  "original": "LUMI DIFERITE.jpg",
+  "inlocuibila": true
+ },
+ "lupii-la-stana": {
+  "fisier": "lupii-la-stana.jpg",
+  "sursa": "arhiva",
+  "original": "LUPII LA STANA.jpg",
+  "inlocuibila": true
+ },
+ "lupta-cu-greierasul": {
+  "fisier": "lupta-cu-greierasul.jpg",
+  "sursa": "arhiva",
+  "original": "LUPTA CU GREIERASUL.jpg",
+  "inlocuibila": true
+ },
+ "luptatorii": {
+  "fisier": "luptatorii.jpg",
+  "sursa": "arhiva",
+  "original": "LUPTATORII.jpg",
+  "inlocuibila": true
+ },
+ "ma-gandesc": {
+  "fisier": "ma-gandesc.jpg",
+  "sursa": "arhiva",
+  "original": "MA GANDESC.jpg",
+  "inlocuibila": true
+ },
+ "madam": {
+  "fisier": "madam.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "madmoiselle": {
+  "fisier": "madmoiselle.jpg",
+  "sursa": "arhiva",
+  "original": "MADMOISELLE.jpg",
+  "inlocuibila": true
+ },
+ "magarul": {
+  "fisier": "magarul.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "maiestrie-2": {
+  "fisier": "maiestrie-2.jpg",
+  "sursa": "arhiva",
+  "original": "MAIESTRIE.jpg",
+  "inlocuibila": true
+ },
+ "maiestrie": {
+  "fisier": "maiestrie.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "maimutica": {
+  "fisier": "maimutica.jpg",
+  "sursa": "arhiva",
+  "original": "MAIMUTICA.jpg",
+  "inlocuibila": true
+ },
+ "maimutoii": {
+  "fisier": "maimutoii.jpg",
+  "sursa": "arhiva",
+  "original": "MAIMUTOII.jpg",
+  "inlocuibila": true
+ },
+ "mama": {
+  "fisier": "mama.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "mama-2": {
+  "fisier": "mama-2.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "mama-3": {
+  "fisier": "mama-3.jpg",
+  "sursa": "arhiva",
+  "original": "MAMA.jpg",
+  "inlocuibila": true
+ },
+ "mama-4": {
+  "fisier": "mama-4.jpg",
+  "sursa": "arhiva",
+  "original": "MAMA.jpg",
+  "inlocuibila": true
+ },
+ "mama-grijulie-2": {
+  "fisier": "mama-grijulie-2.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/Mama grijulie.jpg",
+  "inlocuibila": true
+ },
+ "mama-grijulie": {
+  "fisier": "mama-grijulie.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "mama-si-fiica": {
+  "fisier": "mama-si-fiica.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "mama-si-fiica-2": {
+  "fisier": "mama-si-fiica-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "mama-si-manzul": {
+  "fisier": "mama-si-manzul.jpg",
+  "sursa": "arhiva",
+  "original": "MAMA SI MANZUL.jpg",
+  "inlocuibila": true
+ },
+ "mama-si-pisicul": {
+  "fisier": "mama-si-pisicul.jpg",
+  "sursa": "arhiva",
+  "original": "MAMA ȘI PISICUL.jpg",
+  "inlocuibila": true
+ },
+ "mami": {
+  "fisier": "mami.jpg",
+  "sursa": "arhiva",
+  "original": "MAMI!.jpg",
+  "inlocuibila": true
+ },
+ "mandria-de-a-fi": {
+  "fisier": "mandria-de-a-fi.jpg",
+  "sursa": "arhiva",
+  "original": "MANDRIA DE_A FI.jpg",
+  "inlocuibila": true
+ },
+ "mandrul-cerb": {
+  "fisier": "mandrul-cerb.jpg",
+  "sursa": "arhiva",
+  "original": "MANDRUL CERB.jpg",
+  "inlocuibila": true
+ },
+ "marea-oracaiala": {
+  "fisier": "marea-oracaiala.jpg",
+  "sursa": "arhiva",
+  "original": "MAREA ORACAIALA.jpg",
+  "inlocuibila": true
+ },
+ "marele-sfat": {
+  "fisier": "marele-sfat.jpg",
+  "sursa": "arhiva",
+  "original": "MARELE SFAT.jpg",
+  "inlocuibila": true
+ },
+ "martisor": {
+  "fisier": "martisor.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "marturisire": {
+  "fisier": "marturisire.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "marturisire-2": {
+  "fisier": "marturisire-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "marturisire-3": {
+  "fisier": "marturisire-3.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "marturisire-4": {
+  "fisier": "marturisire-4.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "marturisire-5": {
+  "fisier": "marturisire-5.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "marul-blestemat": {
+  "fisier": "marul-blestemat.jpg",
+  "sursa": "arhiva",
+  "original": "MARUL BLESTEMAT.jpg",
+  "inlocuibila": true
+ },
+ "mascatii": {
+  "fisier": "mascatii.jpg",
+  "sursa": "arhiva",
+  "original": "MASCATII.jpg",
+  "inlocuibila": true
+ },
+ "medaliat": {
+  "fisier": "medaliat.jpg",
+  "sursa": "arhiva",
+  "original": "MEDALIAT.jpg",
+  "inlocuibila": true
+ },
+ "meditatie-4": {
+  "fisier": "meditatie-4.jpg",
+  "sursa": "arhiva",
+  "original": "MEDITAȚIE.jpg",
+  "inlocuibila": true
+ },
+ "meditatie-5": {
+  "fisier": "meditatie-5.jpg",
+  "sursa": "arhiva",
+  "original": "MEDITAȚIE.jpg",
+  "inlocuibila": true
+ },
+ "meditatie-6": {
+  "fisier": "meditatie-6.jpg",
+  "sursa": "arhiva",
+  "original": "MEDITAȚIE.jpg",
+  "inlocuibila": true
+ },
+ "meditatie": {
+  "fisier": "meditatie.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "meditatie-2": {
+  "fisier": "meditatie-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "meditatie-3": {
+  "fisier": "meditatie-3.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "meditatie-in-doi": {
+  "fisier": "meditatie-in-doi.jpg",
+  "sursa": "arhiva",
+  "original": "MEDITATIE IN DOI.jpg",
+  "inlocuibila": true
+ },
+ "melomana": {
+  "fisier": "melomana.jpg",
+  "sursa": "arhiva",
+  "original": "MELOMANA.jpg",
+  "inlocuibila": true
+ },
+ "melomanii": {
+  "fisier": "melomanii.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "mierla": {
+  "fisier": "mierla.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/Mierla.jpeg",
+  "inlocuibila": true
+ },
+ "mieunam": {
+  "fisier": "mieunam.jpg",
+  "sursa": "arhiva",
+  "original": "MIEUNAM.jpg",
+  "inlocuibila": true
+ },
+ "mija": {
+  "fisier": "mija.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "mireasa-2": {
+  "fisier": "mireasa-2.jpg",
+  "sursa": "arhiva",
+  "original": "MIREASA.jpg",
+  "inlocuibila": true
+ },
+ "mireasa": {
+  "fisier": "mireasa.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "mocheta": {
+  "fisier": "mocheta.jpg",
+  "sursa": "arhiva",
+  "original": "MOCHETA.jpg",
+  "inlocuibila": true
+ },
+ "mod-de-viata": {
+  "fisier": "mod-de-viata.jpg",
+  "sursa": "arhiva",
+  "original": "MOD DE VIATA.jpg",
+  "inlocuibila": true
+ },
+ "modernizare": {
+  "fisier": "modernizare.jpg",
+  "sursa": "arhiva",
+  "original": "MODERNIZARE.jpg",
+  "inlocuibila": true
+ },
+ "mor-mor-mor-de-foame": {
+  "fisier": "mor-mor-mor-de-foame.jpg",
+  "sursa": "arhiva",
+  "original": "MOR MOR MOR DE FOAME.jpg",
+  "inlocuibila": true
+ },
+ "mos-martin": {
+  "fisier": "mos-martin.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "mos-martin-2": {
+  "fisier": "mos-martin-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "mos-martin-3": {
+  "fisier": "mos-martin-3.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "mos-nicolae-3": {
+  "fisier": "mos-nicolae-3.jpg",
+  "sursa": "arhiva",
+  "original": "MOS NICOLAE.jpg",
+  "inlocuibila": true
+ },
+ "mos-nicolae": {
+  "fisier": "mos-nicolae.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "mos-nicolae-2": {
+  "fisier": "mos-nicolae-2.jpg",
+  "sursa": "arhiva",
+  "original": "MOS NICOLAE.jpg",
+  "inlocuibila": true
+ },
+ "motanelul": {
+  "fisier": "motanelul.jpg",
+  "sursa": "arhiva",
+  "original": "MOTANELUL.jpg",
+  "inlocuibila": true
+ },
+ "motanelul-cezarel": {
+  "fisier": "motanelul-cezarel.jpg",
+  "sursa": "codex",
+  "stil": "ziar"
+ },
+ "motanul-cel-mahmur": {
+  "fisier": "motanul-cel-mahmur.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/Motanul cel mahmur.jpg",
+  "inlocuibila": true
+ },
+ "motanul-infometat": {
+  "fisier": "motanul-infometat.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "motanul-jucaus": {
+  "fisier": "motanul-jucaus.jpg",
+  "sursa": "arhiva",
+  "original": "MOTANUL JUCAUS.jpg",
+  "inlocuibila": true
+ },
+ "musafirul": {
+  "fisier": "musafirul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "naravul-din-fire": {
+  "fisier": "naravul-din-fire.jpg",
+  "sursa": "arhiva",
+  "original": "NARAVUL DIN FIRE.jpg",
+  "inlocuibila": true
+ },
+ "nataraii": {
+  "fisier": "nataraii.jpg",
+  "sursa": "arhiva",
+  "original": "NATARAII.jpg",
+  "inlocuibila": true
+ },
+ "nedreptate": {
+  "fisier": "nedreptate.jpg",
+  "sursa": "arhiva",
+  "original": "NEDREPTATE.jpg",
+  "inlocuibila": true
+ },
+ "noiembrie": {
+  "fisier": "noiembrie.jpg",
+  "sursa": "arhiva",
+  "original": "GrandVASILE/NOIEMBRIE.jpg",
+  "inlocuibila": true
+ },
+ "norocul": {
+  "fisier": "norocul.jpg",
+  "sursa": "arhiva",
+  "original": "Norocul.jpg",
+  "inlocuibila": true
+ },
+ "norocul-2": {
+  "fisier": "norocul-2.jpg",
+  "sursa": "arhiva",
+  "original": "Norocul.jpg",
+  "inlocuibila": true
+ },
+ "nostalgie-3": {
+  "fisier": "nostalgie-3.jpg",
+  "sursa": "arhiva",
+  "original": "NOSTALGIE.jpeg",
+  "inlocuibila": true
+ },
+ "nostalgie-4": {
+  "fisier": "nostalgie-4.jpg",
+  "sursa": "arhiva",
+  "original": "NOSTALGIE.jpeg",
+  "inlocuibila": true
+ },
+ "nostalgie": {
+  "fisier": "nostalgie.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "nostalgie-2": {
+  "fisier": "nostalgie-2.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "noutate": {
+  "fisier": "noutate.jpg",
+  "sursa": "arhiva",
+  "original": "NOUTATE.jpg",
+  "inlocuibila": true
+ },
+ "noutati": {
+  "fisier": "noutati.jpg",
+  "sursa": "arhiva",
+  "original": "NOUTATI.jpg",
+  "inlocuibila": true
+ },
+ "nu-e-poveste": {
+  "fisier": "nu-e-poveste.jpg",
+  "sursa": "arhiva",
+  "original": "NU E POVESTE.jpg",
+  "inlocuibila": true
+ },
+ "nu-i-asa": {
+  "fisier": "nu-i-asa.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "nu-i-statuie": {
+  "fisier": "nu-i-statuie.jpg",
+  "sursa": "arhiva",
+  "original": "NU-I STATUIE.jpg",
+  "inlocuibila": true
+ },
+ "nunta-mare": {
+  "fisier": "nunta-mare.jpg",
+  "sursa": "arhiva",
+  "original": "NUNTA MARE.png",
+  "inlocuibila": true
+ },
+ "nunta-mare-2": {
+  "fisier": "nunta-mare-2.jpg",
+  "sursa": "arhiva",
+  "original": "NUNTA MARE.png",
+  "inlocuibila": true
+ },
+ "oare-de-ce": {
+  "fisier": "oare-de-ce.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "oare-de-ce-2": {
+  "fisier": "oare-de-ce-2.jpg",
+  "sursa": "arhiva",
+  "original": "OARE DE CE.jpg",
+  "inlocuibila": true
+ },
+ "oaspete-de-onoare": {
+  "fisier": "oaspete-de-onoare.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/Oaspete de onoare.jpg",
+  "inlocuibila": true
+ },
+ "observator": {
+  "fisier": "observator.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "ochelarista": {
+  "fisier": "ochelarista.jpg",
+  "sursa": "arhiva",
+  "original": "FLANIMALS/Ochelarista.jpg",
+  "inlocuibila": true
+ },
+ "odihna-2": {
+  "fisier": "odihna-2.jpg",
+  "sursa": "arhiva",
+  "original": "ODIHNA.jpg",
+  "inlocuibila": true
+ },
+ "odihna": {
+  "fisier": "odihna.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "omida": {
+  "fisier": "omida.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "optimism": {
+  "fisier": "optimism.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "orice-dus-are-intors": {
+  "fisier": "orice-dus-are-intors.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "pacat": {
+  "fisier": "pacat.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "panda": {
+  "fisier": "panda.jpg",
+  "sursa": "arhiva",
+  "original": "PANDA copy.jpg",
+  "inlocuibila": true
+ },
+ "pandarii-2": {
+  "fisier": "pandarii-2.jpg",
+  "sursa": "arhiva",
+  "original": "VGX/Vasile select/Pandarii.jpg",
+  "inlocuibila": true
+ },
+ "pandarii": {
+  "fisier": "pandarii.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "papucii-lui-grivei": {
+  "fisier": "papucii-lui-grivei.jpg",
+  "sursa": "arhiva",
+  "original": "PAPUCII LUI GRIVEI.jpg",
+  "inlocuibila": true
+ },
+ "parada": {
+  "fisier": "parada.jpg",
+  "sursa": "arhiva",
+  "original": "PARADA.jpg",
+  "inlocuibila": true
+ },
+ "parasutistul": {
+  "fisier": "parasutistul.jpg",
+  "sursa": "arhiva",
+  "original": "PARASUTISTUL.jpg",
+  "inlocuibila": true
+ },
+ "pasare-rara": {
+  "fisier": "pasare-rara.jpg",
+  "sursa": "arhiva",
+  "original": "PASARE RARA.jpg",
+  "inlocuibila": true
+ },
+ "pasarea-maiastra": {
+  "fisier": "pasarea-maiastra.jpg",
+  "sursa": "arhiva",
+  "original": "Pasarea maiastra.jpg",
+  "inlocuibila": true
+ },
+ "paza-buna": {
+  "fisier": "paza-buna.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "pazea": {
+  "fisier": "pazea.jpg",
+  "sursa": "arhiva",
+  "original": "PAZEA.jpg",
+  "inlocuibila": true
+ },
+ "pe-amazon": {
+  "fisier": "pe-amazon.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "pe-fotolii": {
+  "fisier": "pe-fotolii.jpg",
+  "sursa": "arhiva",
+  "original": "PE FOTOLII.jpg",
+  "inlocuibila": true
+ },
+ "pe-lac-2": {
+  "fisier": "pe-lac-2.jpg",
+  "sursa": "arhiva",
+  "original": "Vasile Pox/PISICI GROZAVE/PE LAC.jpg",
+  "inlocuibila": true
+ },
+ "pe-lac": {
+  "fisier": "pe-lac.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "pe-linistea-apelor": {
+  "fisier": "pe-linistea-apelor.jpg",
+  "sursa": "arhiva",
+  "original": "PE LINISTEA APELOR.jpg",
+  "inlocuibila": true
+ },
+ "pe-urmele-destinului": {
+  "fisier": "pe-urmele-destinului.jpg",
+  "sursa": "arhiva",
+  "original": "GrandVASILE/PE URMELE DESTINULUI.jpg",
+  "inlocuibila": true
+ },
+ "pentru-ce-atata-ura": {
+  "fisier": "pentru-ce-atata-ura.jpg",
+  "sursa": "arhiva",
+  "original": "PENTRU CE ATATA URA.jpg",
+  "inlocuibila": true
+ },
+ "pentru-ce-ne-batem": {
+  "fisier": "pentru-ce-ne-batem.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "pescarul": {
+  "fisier": "pescarul.jpg",
+  "sursa": "arhiva",
+  "original": "PESCARUL.jpg",
+  "inlocuibila": true
+ },
+ "pescarusii-2": {
+  "fisier": "pescarusii-2.jpg",
+  "sursa": "arhiva",
+  "original": "PESCARUȘII.jpg",
+  "inlocuibila": true
+ },
+ "pescarusii": {
+  "fisier": "pescarusii.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "pescarusul": {
+  "fisier": "pescarusul.jpg",
+  "sursa": "arhiva",
+  "original": "PESCARUSUL.jpg",
+  "inlocuibila": true
+ },
+ "pestisorul-de-aur-2": {
+  "fisier": "pestisorul-de-aur-2.jpg",
+  "sursa": "arhiva",
+  "original": "PESTISORUL DE AUR.jpg",
+  "inlocuibila": true
+ },
+ "pestisorul-de-aur": {
+  "fisier": "pestisorul-de-aur.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "pianistul": {
+  "fisier": "pianistul.jpg",
+  "sursa": "arhiva",
+  "original": "PIANISTUL.jpg",
+  "inlocuibila": true
+ },
+ "piei-de-aicea": {
+  "fisier": "piei-de-aicea.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "pisica": {
+  "fisier": "pisica.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "pisica-2": {
+  "fisier": "pisica-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "pisica-de-mare": {
+  "fisier": "pisica-de-mare.jpg",
+  "sursa": "arhiva",
+  "original": "PISICA DE MARE.jpg",
+  "inlocuibila": true
+ },
+ "pisica-pe-barna": {
+  "fisier": "pisica-pe-barna.jpg",
+  "sursa": "arhiva",
+  "original": "PISICA PE BARNA.jpg",
+  "inlocuibila": true
+ },
+ "pisicuta": {
+  "fisier": "pisicuta.jpg",
+  "sursa": "arhiva",
+  "original": "PISICUTA.jpg",
+  "inlocuibila": true
+ },
+ "pisicuta-jucausa": {
+  "fisier": "pisicuta-jucausa.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "pisicuta-jucausa-2": {
+  "fisier": "pisicuta-jucausa-2.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "pisicuta-mea": {
+  "fisier": "pisicuta-mea.jpg",
+  "sursa": "arhiva",
+  "original": "FLANIMALS/Pisicuta mea.jpg",
+  "inlocuibila": true
+ },
+ "pisicuta-pescarita": {
+  "fisier": "pisicuta-pescarita.jpg",
+  "sursa": "codex",
+  "stil": "galerie"
+ },
+ "pisicutii": {
+  "fisier": "pisicutii.jpg",
+  "sursa": "arhiva",
+  "original": "PISICUTII.jpg",
+  "inlocuibila": true
+ },
+ "pisicutul": {
+  "fisier": "pisicutul.jpg",
+  "sursa": "arhiva",
+  "original": "FLANIMALS/Pisicutul.jpg",
+  "inlocuibila": true
+ },
+ "pisoiasul-pianist": {
+  "fisier": "pisoiasul-pianist.jpg",
+  "sursa": "arhiva",
+  "original": "PISOIASUL PIANIST.jpg",
+  "inlocuibila": true
+ },
+ "pisoiul-derutat": {
+  "fisier": "pisoiul-derutat.jpg",
+  "sursa": "arhiva",
+  "original": "PISOIUL DERUTAT.jpg",
+  "inlocuibila": true
+ },
+ "pisoiul-si-veverita": {
+  "fisier": "pisoiul-si-veverita.jpg",
+  "sursa": "arhiva",
+  "original": "Pisoiul si veverita.jpg",
+  "inlocuibila": true
+ },
+ "plan-de-bataie": {
+  "fisier": "plan-de-bataie.jpg",
+  "sursa": "arhiva",
+  "original": "PLAN DE BATAIE.jpg",
+  "inlocuibila": true
+ },
+ "plugusorul-2": {
+  "fisier": "plugusorul-2.jpg",
+  "sursa": "codex",
+  "stil": "risograf"
+ },
+ "plugusorul": {
+  "fisier": "plugusorul.jpg",
+  "sursa": "arhiva",
+  "original": "plugusorul.jpg",
+  "inlocuibila": true
+ },
+ "plugusorul-2020": {
+  "fisier": "plugusorul-2020.jpg",
+  "sursa": "arhiva",
+  "original": "plugusorul.jpg",
+  "inlocuibila": true
+ },
+ "pofticiosul": {
+  "fisier": "pofticiosul.jpg",
+  "sursa": "arhiva",
+  "original": "POFTICIOSUL.jpg",
+  "inlocuibila": true
+ },
+ "poiana-florilor": {
+  "fisier": "poiana-florilor.jpg",
+  "sursa": "arhiva",
+  "original": "POIANA FLORILOR.jpg",
+  "inlocuibila": true
+ },
+ "popandaii": {
+  "fisier": "popandaii.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "popas": {
+  "fisier": "popas.jpg",
+  "sursa": "arhiva",
+  "original": "POPAS.jpg",
+  "inlocuibila": true
+ },
+ "porumbeii-voiajori": {
+  "fisier": "porumbeii-voiajori.jpg",
+  "sursa": "codex",
+  "stil": "galerie"
+ },
+ "poveste": {
+  "fisier": "poveste.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "povestea-vulpitei": {
+  "fisier": "povestea-vulpitei.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "preambulul": {
+  "fisier": "preambulul.jpg",
+  "sursa": "arhiva",
+  "original": "PREAMBULUL.jpg",
+  "inlocuibila": true
+ },
+ "prevazatorul": {
+  "fisier": "prevazatorul.jpg",
+  "sursa": "arhiva",
+  "original": "Prevazatorul.jpg",
+  "inlocuibila": true
+ },
+ "prieten-adevarat": {
+  "fisier": "prieten-adevarat.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "prieten-drag": {
+  "fisier": "prieten-drag.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "prieten-la-nevoie": {
+  "fisier": "prieten-la-nevoie.jpg",
+  "sursa": "arhiva",
+  "original": "PRIETEN LA NEVOIE.jpg",
+  "inlocuibila": true
+ },
+ "prietenele": {
+  "fisier": "prietenele.jpg",
+  "sursa": "arhiva",
+  "original": "PRIETENELE.jpg",
+  "inlocuibila": true
+ },
+ "prietenie-3": {
+  "fisier": "prietenie-3.jpg",
+  "sursa": "arhiva",
+  "original": "PRIETENIE2.jpg",
+  "inlocuibila": true
+ },
+ "prietenie-4": {
+  "fisier": "prietenie-4.jpg",
+  "sursa": "arhiva",
+  "original": "PRIETENIE2.jpg",
+  "inlocuibila": true
+ },
+ "prietenie": {
+  "fisier": "prietenie.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "prietenie-2": {
+  "fisier": "prietenie-2.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "prietenii": {
+  "fisier": "prietenii.jpg",
+  "sursa": "arhiva",
+  "original": "PRIETENII.jpg",
+  "inlocuibila": true
+ },
+ "prietenul-la-nevoie-se-cunoaste": {
+  "fisier": "prietenul-la-nevoie-se-cunoaste.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/Prietenul la nevoie se cunoaste.jpg",
+  "inlocuibila": true
+ },
+ "primii-pasi": {
+  "fisier": "primii-pasi.jpg",
+  "sursa": "arhiva",
+  "original": "PRIMII PAȘI.jpg",
+  "inlocuibila": true
+ },
+ "prin-jungla": {
+  "fisier": "prin-jungla.jpg",
+  "sursa": "arhiva",
+  "original": "PRIN JUNGLA.jpg",
+  "inlocuibila": true
+ },
+ "printesa-3": {
+  "fisier": "printesa-3.jpg",
+  "sursa": "codex",
+  "stil": "gradinita"
+ },
+ "printesa": {
+  "fisier": "printesa.jpg",
+  "sursa": "arhiva",
+  "original": "PRINTESA.jpg",
+  "inlocuibila": true
+ },
+ "printesa-2": {
+  "fisier": "printesa-2.jpg",
+  "sursa": "arhiva",
+  "original": "PRINTESA.jpg",
+  "inlocuibila": true
+ },
+ "printre-papadii": {
+  "fisier": "printre-papadii.jpg",
+  "sursa": "arhiva",
+  "original": "Printre papadii.jpg",
+  "inlocuibila": true
+ },
+ "printre-zapezi": {
+  "fisier": "printre-zapezi.jpg",
+  "sursa": "arhiva",
+  "original": "PRINTRE ZĂPEZI.jpg",
+  "inlocuibila": true
+ },
+ "promisiuni": {
+  "fisier": "promisiuni.jpg",
+  "sursa": "arhiva",
+  "original": "PROMISIUNI.jpg",
+  "inlocuibila": true
+ },
+ "protectorul": {
+  "fisier": "protectorul.jpg",
+  "sursa": "arhiva",
+  "original": "Protectorul.jpg",
+  "inlocuibila": true
+ },
+ "protest-2": {
+  "fisier": "protest-2.jpg",
+  "sursa": "arhiva",
+  "original": "Protest.jpg",
+  "inlocuibila": true
+ },
+ "protest": {
+  "fisier": "protest.jpg",
+  "sursa": "arhiva",
+  "original": "Protest.jpg",
+  "inlocuibila": true
+ },
+ "pufulete": {
+  "fisier": "pufulete.jpg",
+  "sursa": "arhiva",
+  "original": "PUFULETE.jpg",
+  "inlocuibila": true
+ },
+ "puisorii-buclucasi": {
+  "fisier": "puisorii-buclucasi.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/Puisorii buclucasi.jpg",
+  "inlocuibila": true
+ },
+ "pupaza": {
+  "fisier": "pupaza.jpg",
+  "sursa": "arhiva",
+  "original": "FLANIMALS/Pupaza.jpg",
+  "inlocuibila": true
+ },
+ "puricele-si-elefantul": {
+  "fisier": "puricele-si-elefantul.jpg",
+  "sursa": "arhiva",
+  "original": "PURICELE SI ELEFANTUL.jpg",
+  "inlocuibila": true
+ },
+ "rafuiala": {
+  "fisier": "rafuiala.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "randunelele-2": {
+  "fisier": "randunelele-2.jpg",
+  "sursa": "arhiva",
+  "original": "RANDUNELELE.jpg",
+  "inlocuibila": true
+ },
+ "randunelele": {
+  "fisier": "randunelele.jpg",
+  "sursa": "arhiva",
+  "original": "RANDUNELELE.jpg",
+  "inlocuibila": true
+ },
+ "ratare": {
+  "fisier": "ratare.jpg",
+  "sursa": "arhiva",
+  "original": "RATARE copy.jpg",
+  "inlocuibila": true
+ },
+ "ratare-2": {
+  "fisier": "ratare-2.jpg",
+  "sursa": "arhiva",
+  "original": "RATARE copy.jpg",
+  "inlocuibila": true
+ },
+ "ratustele": {
+  "fisier": "ratustele.jpg",
+  "sursa": "arhiva",
+  "original": "Ratustele.jpg",
+  "inlocuibila": true
+ },
+ "reclama-2": {
+  "fisier": "reclama-2.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/Reclama.jpg",
+  "inlocuibila": true
+ },
+ "reclama": {
+  "fisier": "reclama.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "recunostinta": {
+  "fisier": "recunostinta.jpg",
+  "sursa": "arhiva",
+  "original": "RECUNOSTINTA.jpg",
+  "inlocuibila": true
+ },
+ "regasirea-3": {
+  "fisier": "regasirea-3.jpg",
+  "sursa": "arhiva",
+  "original": "REGASIREA copy 2.jpg",
+  "inlocuibila": true
+ },
+ "regasirea": {
+  "fisier": "regasirea.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "regasirea-2": {
+  "fisier": "regasirea-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "regina-florilor": {
+  "fisier": "regina-florilor.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "replica": {
+  "fisier": "replica.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "reporterul-2": {
+  "fisier": "reporterul-2.jpg",
+  "sursa": "arhiva",
+  "original": "REPORTERUL.jpg",
+  "inlocuibila": true
+ },
+ "reporterul": {
+  "fisier": "reporterul.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "rivalii": {
+  "fisier": "rivalii.jpg",
+  "sursa": "arhiva",
+  "original": "RIVALII.jpg",
+  "inlocuibila": true
+ },
+ "rockerii": {
+  "fisier": "rockerii.jpg",
+  "sursa": "arhiva",
+  "original": "ROCKERII.jpg",
+  "inlocuibila": true
+ },
+ "ruga": {
+  "fisier": "ruga.jpg",
+  "sursa": "arhiva",
+  "original": "New Vasile/RUGA.jpg",
+  "inlocuibila": true
+ },
+ "rugaminte-2": {
+  "fisier": "rugaminte-2.jpg",
+  "sursa": "arhiva",
+  "original": "RUGAMINTE.jpg",
+  "inlocuibila": true
+ },
+ "rugaminte": {
+  "fisier": "rugaminte.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "s-a-pierdut": {
+  "fisier": "s-a-pierdut.jpg",
+  "sursa": "arhiva",
+  "original": "S-A PIERDUT.jpg",
+  "inlocuibila": true
+ },
+ "sa-fie-clar": {
+  "fisier": "sa-fie-clar.jpg",
+  "sursa": "codex",
+  "stil": "risograf"
+ },
+ "sa-prinzi-un-crocodil": {
+  "fisier": "sa-prinzi-un-crocodil.jpg",
+  "sursa": "arhiva",
+  "original": "SA PRINZI UN CROCODIL.jpg",
+  "inlocuibila": true
+ },
+ "salvatorul-2": {
+  "fisier": "salvatorul-2.jpg",
+  "sursa": "arhiva",
+  "original": "SALVATORUL.jpg",
+  "inlocuibila": true
+ },
+ "salvatorul-3": {
+  "fisier": "salvatorul-3.jpg",
+  "sursa": "arhiva",
+  "original": "SALVATORUL.jpg",
+  "inlocuibila": true
+ },
+ "salvatorul": {
+  "fisier": "salvatorul.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "sapte-vieti": {
+  "fisier": "sapte-vieti.jpg",
+  "sursa": "arhiva",
+  "original": "SAPTE VIETI.jpg",
+  "inlocuibila": true
+ },
+ "saracutul": {
+  "fisier": "saracutul.jpg",
+  "sursa": "arhiva",
+  "original": "SARACUTUL.jpg",
+  "inlocuibila": true
+ },
+ "sarbatoare": {
+  "fisier": "sarbatoare.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "sarbatoare-2": {
+  "fisier": "sarbatoare-2.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "sarbatoare-4": {
+  "fisier": "sarbatoare-4.jpg",
+  "sursa": "arhiva",
+  "original": "Sarbatoare.jpg",
+  "inlocuibila": true
+ },
+ "sarbatoare-5": {
+  "fisier": "sarbatoare-5.jpg",
+  "sursa": "arhiva",
+  "original": "Sarbatoare.jpg",
+  "inlocuibila": true
+ },
+ "sarbatoare-3": {
+  "fisier": "sarbatoare-3.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "sarutul": {
+  "fisier": "sarutul.jpg",
+  "sursa": "arhiva",
+  "original": "SARUTUL.jpg",
+  "inlocuibila": true
+ },
+ "scafandrul": {
+  "fisier": "scafandrul.jpg",
+  "sursa": "arhiva",
+  "original": "SCAFANDRUL.jpg",
+  "inlocuibila": true
+ },
+ "schimbare-de-mediu": {
+  "fisier": "schimbare-de-mediu.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "scoala-de-zbor": {
+  "fisier": "scoala-de-zbor.jpg",
+  "sursa": "arhiva",
+  "original": "SCOALA DE ZBOR.jpg",
+  "inlocuibila": true
+ },
+ "sedinta-foto-2": {
+  "fisier": "sedinta-foto-2.jpg",
+  "sursa": "codex",
+  "stil": "risograf"
+ },
+ "sedinta-foto-3": {
+  "fisier": "sedinta-foto-3.jpg",
+  "sursa": "arhiva",
+  "original": "SEDINTA FOTO copy.jpg",
+  "inlocuibila": true
+ },
+ "sedinta-foto": {
+  "fisier": "sedinta-foto.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "serenada": {
+  "fisier": "serenada.jpg",
+  "sursa": "arhiva",
+  "original": "SERENADA.jpg",
+  "inlocuibila": true
+ },
+ "servici-contra-servici": {
+  "fisier": "servici-contra-servici.jpg",
+  "sursa": "arhiva",
+  "original": "SERVICI CONTRA SERVICI.jpg",
+  "inlocuibila": true
+ },
+ "setea": {
+  "fisier": "setea.jpg",
+  "sursa": "arhiva",
+  "original": "SETEA.jpg",
+  "inlocuibila": true
+ },
+ "sfat": {
+  "fisier": "sfat.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "sfat-6": {
+  "fisier": "sfat-6.jpg",
+  "sursa": "arhiva",
+  "original": "VASILESeptembrie 2017/SFAT.jpg",
+  "inlocuibila": true
+ },
+ "sfat-7": {
+  "fisier": "sfat-7.jpg",
+  "sursa": "arhiva",
+  "original": "VASILESeptembrie 2017/SFAT.jpg",
+  "inlocuibila": true
+ },
+ "sfat-2": {
+  "fisier": "sfat-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "sfat-3": {
+  "fisier": "sfat-3.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "sfat-4": {
+  "fisier": "sfat-4.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "sfat-5": {
+  "fisier": "sfat-5.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "si-de-ce-nu": {
+  "fisier": "si-de-ce-nu.jpg",
+  "sursa": "arhiva",
+  "original": "SI DE CE NU.jpg",
+  "inlocuibila": true
+ },
+ "siesta-2": {
+  "fisier": "siesta-2.jpg",
+  "sursa": "arhiva",
+  "original": "SIESTA.jpg",
+  "inlocuibila": true
+ },
+ "siesta": {
+  "fisier": "siesta.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "singur": {
+  "fisier": "singur.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "singuratate-2": {
+  "fisier": "singuratate-2.jpg",
+  "sursa": "arhiva",
+  "original": "SINGURATATE.jpg",
+  "inlocuibila": true
+ },
+ "singuratate-3": {
+  "fisier": "singuratate-3.jpg",
+  "sursa": "arhiva",
+  "original": "SINGURATATE.jpg",
+  "inlocuibila": true
+ },
+ "singuratate": {
+  "fisier": "singuratate.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "singure-acasa": {
+  "fisier": "singure-acasa.jpg",
+  "sursa": "arhiva",
+  "original": "SINGURE ACASA.jpg",
+  "inlocuibila": true
+ },
+ "singurel": {
+  "fisier": "singurel.jpg",
+  "sursa": "arhiva",
+  "original": "SINGUREL.jpeg",
+  "inlocuibila": true
+ },
+ "smecherul": {
+  "fisier": "smecherul.jpg",
+  "sursa": "arhiva",
+  "original": "SMECHERUL.jpg",
+  "inlocuibila": true
+ },
+ "solistii": {
+  "fisier": "solistii.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "somn-usor-3": {
+  "fisier": "somn-usor-3.jpg",
+  "sursa": "arhiva",
+  "original": "SOMN UȘOR.jpg",
+  "inlocuibila": true
+ },
+ "somn-usor-4": {
+  "fisier": "somn-usor-4.jpg",
+  "sursa": "arhiva",
+  "original": "SOMN UȘOR.jpg",
+  "inlocuibila": true
+ },
+ "somn-usor-5": {
+  "fisier": "somn-usor-5.jpg",
+  "sursa": "arhiva",
+  "original": "SOMN UȘOR.jpg",
+  "inlocuibila": true
+ },
+ "somn-usor": {
+  "fisier": "somn-usor.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "somn-usor-2": {
+  "fisier": "somn-usor-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "somnoroasa": {
+  "fisier": "somnoroasa.jpg",
+  "sursa": "arhiva",
+  "original": "SOMNOROASA.jpg",
+  "inlocuibila": true
+ },
+ "sondaj": {
+  "fisier": "sondaj.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "sorcova": {
+  "fisier": "sorcova.jpg",
+  "sursa": "codex",
+  "stil": "risograf"
+ },
+ "spectacol": {
+  "fisier": "spectacol.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "spectatorii": {
+  "fisier": "spectatorii.jpg",
+  "sursa": "arhiva",
+  "original": "SPECTATORII.jpg",
+  "inlocuibila": true
+ },
+ "speranta": {
+  "fisier": "speranta.jpg",
+  "sursa": "arhiva",
+  "original": "SPERANTA.jpg",
+  "inlocuibila": true
+ },
+ "stapana": {
+  "fisier": "stapana.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/Stapana.jpg",
+  "inlocuibila": true
+ },
+ "starcul": {
+  "fisier": "starcul.jpg",
+  "sursa": "arhiva",
+  "original": "STARCUL.jpg",
+  "inlocuibila": true
+ },
+ "statuia-2": {
+  "fisier": "statuia-2.jpg",
+  "sursa": "arhiva",
+  "original": "STATUIA.jpg",
+  "inlocuibila": true
+ },
+ "statuia-3": {
+  "fisier": "statuia-3.jpg",
+  "sursa": "arhiva",
+  "original": "STATUIA.jpg",
+  "inlocuibila": true
+ },
+ "statuia": {
+  "fisier": "statuia.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "statuile": {
+  "fisier": "statuile.jpg",
+  "sursa": "arhiva",
+  "original": "STATUILE.jpg",
+  "inlocuibila": true
+ },
+ "strategia-de-aparare": {
+  "fisier": "strategia-de-aparare.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "strengarul": {
+  "fisier": "strengarul.jpg",
+  "sursa": "arhiva",
+  "original": "STRENGARUL.jpg",
+  "inlocuibila": true
+ },
+ "strutul": {
+  "fisier": "strutul.jpg",
+  "sursa": "arhiva",
+  "original": "STRUTUL.jpg",
+  "inlocuibila": true
+ },
+ "submarinul": {
+  "fisier": "submarinul.jpg",
+  "sursa": "arhiva",
+  "original": "SUBMARINUL.jpg",
+  "inlocuibila": true
+ },
+ "sunt-catelul-pufulet": {
+  "fisier": "sunt-catelul-pufulet.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "sunt-pregatit": {
+  "fisier": "sunt-pregatit.jpg",
+  "sursa": "arhiva",
+  "original": "SUNT PREGATIT.jpg",
+  "inlocuibila": true
+ },
+ "suntem-impreuna": {
+  "fisier": "suntem-impreuna.jpg",
+  "sursa": "arhiva",
+  "original": "SUNTEM IMPREUNA.jpg",
+  "inlocuibila": true
+ },
+ "supravietuire": {
+  "fisier": "supravietuire.jpg",
+  "sursa": "arhiva",
+  "original": "SUPRAVIETUIRE.jpg",
+  "inlocuibila": true
+ },
+ "sus-in-zmeuris": {
+  "fisier": "sus-in-zmeuris.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "sus-la-munte": {
+  "fisier": "sus-la-munte.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "sus-pe-deal": {
+  "fisier": "sus-pe-deal.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "tataie": {
+  "fisier": "tataie.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "tatal-si-fiul": {
+  "fisier": "tatal-si-fiul.jpg",
+  "sursa": "arhiva",
+  "original": "TATAL SI FIUL.jpg",
+  "inlocuibila": true
+ },
+ "taurul-2": {
+  "fisier": "taurul-2.jpg",
+  "sursa": "arhiva",
+  "original": "TAURUL.jpg",
+  "inlocuibila": true
+ },
+ "taurul": {
+  "fisier": "taurul.jpg",
+  "sursa": "arhiva",
+  "original": "TAURUL.jpg",
+  "inlocuibila": true
+ },
+ "tenis": {
+  "fisier": "tenis.jpg",
+  "sursa": "arhiva",
+  "original": "TENIS.jpg",
+  "inlocuibila": true
+ },
+ "ti-e-frica-de-un-soricel": {
+  "fisier": "ti-e-frica-de-un-soricel.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "toto-si-pisicel": {
+  "fisier": "toto-si-pisicel.jpg",
+  "sursa": "arhiva",
+  "original": "TOTO SI PISICEL.jpg",
+  "inlocuibila": true
+ },
+ "tragand-cu-urechea": {
+  "fisier": "tragand-cu-urechea.jpg",
+  "sursa": "arhiva",
+  "original": "TRAGAND CU URECHEA.jpg",
+  "inlocuibila": true
+ },
+ "trei-cocostarci": {
+  "fisier": "trei-cocostarci.jpg",
+  "sursa": "arhiva",
+  "original": "TREI COCOSTARCI.jpg",
+  "inlocuibila": true
+ },
+ "trompetistii": {
+  "fisier": "trompetistii.jpg",
+  "sursa": "arhiva",
+  "original": "TROMPETISTII.jpg",
+  "inlocuibila": true
+ },
+ "truda-mierei": {
+  "fisier": "truda-mierei.jpg",
+  "sursa": "arhiva",
+  "original": "TRUDA MIEREI.jpg",
+  "inlocuibila": true
+ },
+ "turista": {
+  "fisier": "turista.jpg",
+  "sursa": "arhiva",
+  "original": "TURISTA.jpg",
+  "inlocuibila": true
+ },
+ "uite-asa": {
+  "fisier": "uite-asa.jpg",
+  "sursa": "arhiva",
+  "original": "UITE_ASA.jpg",
+  "inlocuibila": true
+ },
+ "uite-cat-sunt-eu-de-mic": {
+  "fisier": "uite-cat-sunt-eu-de-mic.jpg",
+  "sursa": "arhiva",
+  "original": "FLANIMALS/Uite cat sunt eu de mic.jpg",
+  "inlocuibila": true
+ },
+ "uliul": {
+  "fisier": "uliul.jpg",
+  "sursa": "arhiva",
+  "original": "AugustVasile/Uliul.jpg",
+  "inlocuibila": true
+ },
+ "unde-nu-i-cap": {
+  "fisier": "unde-nu-i-cap.jpg",
+  "sursa": "arhiva",
+  "original": "UNDE NU-I CAP.jpg",
+  "inlocuibila": true
+ },
+ "urangutanul": {
+  "fisier": "urangutanul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "urmarire-generala": {
+  "fisier": "urmarire-generala.jpg",
+  "sursa": "arhiva",
+  "original": "URMARIRE GENERALA.jpg",
+  "inlocuibila": true
+ },
+ "ursii-albi": {
+  "fisier": "ursii-albi.jpg",
+  "sursa": "arhiva",
+  "original": "URSII ALBI.jpg",
+  "inlocuibila": true
+ },
+ "ursul": {
+  "fisier": "ursul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "ursul-norocos": {
+  "fisier": "ursul-norocos.jpg",
+  "sursa": "arhiva",
+  "original": "URSUL NOROCOS.jpg",
+  "inlocuibila": true
+ },
+ "va-rog-2": {
+  "fisier": "va-rog-2.jpg",
+  "sursa": "arhiva",
+  "original": "VA ROG.jpg",
+  "inlocuibila": true
+ },
+ "va-rog": {
+  "fisier": "va-rog.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "vai-maseaua": {
+  "fisier": "vai-maseaua.jpg",
+  "sursa": "arhiva",
+  "original": "VAI MASEAUA.jpg",
+  "inlocuibila": true
+ },
+ "venit-special": {
+  "fisier": "venit-special.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "veselie-in-livada": {
+  "fisier": "veselie-in-livada.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/Veselie in livada.jpg",
+  "inlocuibila": true
+ },
+ "veverita-2": {
+  "fisier": "veverita-2.jpg",
+  "sursa": "arhiva",
+  "original": "VGTseleX/Veverita.jpg",
+  "inlocuibila": true
+ },
+ "veverita": {
+  "fisier": "veverita.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "veverita-bolnavioara": {
+  "fisier": "veverita-bolnavioara.jpg",
+  "sursa": "arhiva",
+  "original": "VEVERITA BOLNAVIOARA.jpeg",
+  "inlocuibila": true
+ },
+ "viitorul": {
+  "fisier": "viitorul.jpg",
+  "sursa": "arhiva",
+  "original": "VIITORUL.jpg",
+  "inlocuibila": true
+ },
+ "vin-cocorii": {
+  "fisier": "vin-cocorii.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "vinerea-mare-2": {
+  "fisier": "vinerea-mare-2.jpg",
+  "sursa": "arhiva",
+  "original": "New Vasile/Vinerea Mare.jpg",
+  "inlocuibila": true
+ },
+ "vinerea-mare": {
+  "fisier": "vinerea-mare.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "vis-de-iarna": {
+  "fisier": "vis-de-iarna.jpg",
+  "sursa": "arhiva",
+  "original": "VIS DE IARNA.jpg",
+  "inlocuibila": true
+ },
+ "vis-de-vulpe": {
+  "fisier": "vis-de-vulpe.jpg",
+  "sursa": "arhiva",
+  "original": "VIS DE VULPE.jpg",
+  "inlocuibila": true
+ },
+ "vis-implinit-2": {
+  "fisier": "vis-implinit-2.jpg",
+  "sursa": "arhiva",
+  "original": "VIS IMPLINIT.jpg",
+  "inlocuibila": true
+ },
+ "vis-implinit": {
+  "fisier": "vis-implinit.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "visatorul": {
+  "fisier": "visatorul.jpg",
+  "sursa": "arhiva",
+  "original": "VISATORUL.jpg",
+  "inlocuibila": true
+ },
+ "vise-2": {
+  "fisier": "vise-2.jpg",
+  "sursa": "arhiva",
+  "original": "VISE.jpg",
+  "inlocuibila": true
+ },
+ "vise-3": {
+  "fisier": "vise-3.jpg",
+  "sursa": "arhiva",
+  "original": "VISE.jpg",
+  "inlocuibila": true
+ },
+ "vise": {
+  "fisier": "vise.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "vizita": {
+  "fisier": "vizita.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "vocalize": {
+  "fisier": "vocalize.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "voiniceii": {
+  "fisier": "voiniceii.jpg",
+  "sursa": "arhiva",
+  "original": "VOINICEII.jpg",
+  "inlocuibila": true
+ },
+ "vrabiutele": {
+  "fisier": "vrabiutele.jpg",
+  "sursa": "arhiva",
+  "original": "VRABIUTELE.jpg",
+  "inlocuibila": true
+ },
+ "vraja-serii": {
+  "fisier": "vraja-serii.jpg",
+  "sursa": "arhiva",
+  "original": "Vraja serii.jpg",
+  "inlocuibila": true
+ },
+ "vreau-si-eu": {
+  "fisier": "vreau-si-eu.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "vulpea-pacalita": {
+  "fisier": "vulpea-pacalita.jpg",
+  "sursa": "arhiva",
+  "original": "VULPEA PACALITA.jpg",
+  "inlocuibila": true
+ },
+ "vulpita": {
+  "fisier": "vulpita.jpg",
+  "sursa": "arhiva",
+  "original": "Vulpita copy.jpg",
+  "inlocuibila": true
+ },
+ "vulpita-2": {
+  "fisier": "vulpita-2.jpg",
+  "sursa": "arhiva",
+  "original": "Vulpita copy.jpg",
+  "inlocuibila": true
+ },
+ "vulturul-balerin": {
+  "fisier": "vulturul-balerin.jpg",
+  "sursa": "arhiva",
+  "original": "VULTURUL BALERIN.jpg",
+  "inlocuibila": true
+ },
+ "zbor-paralel": {
+  "fisier": "zbor-paralel.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "zburatorul": {
+  "fisier": "zburatorul.jpg",
+  "sursa": "arhiva",
+  "original": "ZBURATORUL.jpg",
+  "inlocuibila": true
+ },
+ "zicere": {
+  "fisier": "zicere.jpg",
+  "sursa": "arhiva",
+  "original": "ZICERE.jpeg",
+  "inlocuibila": true
+ },
+ "david-si-lorina": {
+  "fisier": "david-si-lorina.jpg",
+  "sursa": "codex",
+  "stil": "cosmic"
+ },
+ "e-bine-de-stiut-poveste-de-sarbatori": {
+  "fisier": "e-bine-de-stiut-poveste-de-sarbatori.jpg",
+  "sursa": "codex",
+  "stil": "cosmic"
+ },
+ "catelusul-par-de-urs": {
+  "fisier": "catelusul-par-de-urs.jpg",
+  "sursa": "codex",
+  "stil": "cosmic"
+ },
+ "o-seara-de-basm": {
+  "fisier": "o-seara-de-basm.jpg",
+  "sursa": "codex",
+  "stil": "cosmic"
+ },
+ "unde-i-iarna": {
+  "fisier": "unde-i-iarna.jpg",
+  "sursa": "codex",
+  "stil": "cosmic"
+ },
+ "suna-sirena-a-moarte": {
+  "fisier": "suna-sirena-a-moarte.jpg",
+  "sursa": "codex",
+  "stil": "cosmic"
+ },
+ "copii": {
+  "fisier": "copii.jpg",
+  "sursa": "codex",
+  "stil": "cosmic"
+ },
+ "bafto-delo": {
+  "fisier": "bafto-delo.jpg",
+  "sursa": "codex",
+  "stil": "cosmic"
+ },
+ "suferinta-comuna": {
+  "fisier": "suferinta-comuna.jpg",
+  "sursa": "codex",
+  "stil": "cosmic"
+ },
+ "eu-sunt": {
+  "fisier": "eu-sunt.jpg",
+  "sursa": "codex",
+  "stil": "cosmic"
+ },
+ "in-memoriam-liviu-oros": {
+  "fisier": "in-memoriam-liviu-oros.jpg",
+  "sursa": "codex",
+  "stil": "stergar"
+ },
+ "cine-sunt-eu": {
+  "fisier": "cine-sunt-eu.jpg",
+  "sursa": "codex",
+  "stil": "stergar"
+ },
+ "vasalie": {
+  "fisier": "vasalie.jpg",
+  "sursa": "codex",
+  "stil": "stergar"
+ },
+ "marie": {
+  "fisier": "marie.jpg",
+  "sursa": "codex",
+  "stil": "stergar"
+ },
+ "el-si-ea-3": {
+  "fisier": "el-si-ea-3.jpg",
+  "sursa": "codex",
+  "stil": "stergar"
+ },
+ "vasalie-spune-drept": {
+  "fisier": "vasalie-spune-drept.jpg",
+  "sursa": "codex",
+  "stil": "stergar"
+ },
+ "vasalie-banuieste": {
+  "fisier": "vasalie-banuieste.jpg",
+  "sursa": "codex",
+  "stil": "stergar"
+ },
+ "marie-o-mars-la-popa": {
+  "fisier": "marie-o-mars-la-popa.jpg",
+  "sursa": "codex",
+  "stil": "stergar"
+ },
+ "vasalie-s-o-fo-dus": {
+  "fisier": "vasalie-s-o-fo-dus.jpg",
+  "sursa": "codex",
+  "stil": "stergar"
+ },
+ "vasalie-2": {
+  "fisier": "vasalie-2.jpg",
+  "sursa": "codex",
+  "stil": "stergar"
+ },
+ "mostenirea-anilor": {
+  "fisier": "mostenirea-anilor.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "dimineata-de-ianuarie": {
+  "fisier": "dimineata-de-ianuarie.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "istoria": {
+  "fisier": "istoria.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "sfantul-ioan": {
+  "fisier": "sfantul-ioan.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "sarbatorile": {
+  "fisier": "sarbatorile.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "de-a-joaca": {
+  "fisier": "de-a-joaca.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "iarna-nu-i": {
+  "fisier": "iarna-nu-i.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "bate-cineva-la-poarta": {
+  "fisier": "bate-cineva-la-poarta.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "amintiri": {
+  "fisier": "amintiri.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "de-sfant-vasile": {
+  "fisier": "de-sfant-vasile.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "traditie": {
+  "fisier": "traditie.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "mos-cocos": {
+  "fisier": "mos-cocos.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "la-zebra": {
+  "fisier": "la-zebra.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "la-strunga": {
+  "fisier": "la-strunga.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "la-jurizare": {
+  "fisier": "la-jurizare.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "pe-scaunel": {
+  "fisier": "pe-scaunel.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "zimbrul": {
+  "fisier": "zimbrul.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "mosia-mea": {
+  "fisier": "mosia-mea.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "82-de-ani": {
+  "fisier": "82-de-ani.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "doar-ea": {
+  "fisier": "doar-ea.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "pruna": {
+  "fisier": "pruna.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "te-am-asteptat": {
+  "fisier": "te-am-asteptat.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "david": {
+  "fisier": "david.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "baiatul-meu": {
+  "fisier": "baiatul-meu.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "dorul-la-romani": {
+  "fisier": "dorul-la-romani.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "cocosul-candva": {
+  "fisier": "cocosul-candva.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "de-ziua-mamei-2": {
+  "fisier": "de-ziua-mamei-2.jpg",
+  "sursa": "codex",
+  "stil": "gradinita"
+ },
+ "bunicuta-2": {
+  "fisier": "bunicuta-2.jpg",
+  "sursa": "codex",
+  "stil": "gradinita"
+ },
+ "dialog-iernos": {
+  "fisier": "dialog-iernos.jpg",
+  "sursa": "codex",
+  "stil": "gradinita"
+ },
+ "povata": {
+  "fisier": "povata.jpg",
+  "sursa": "codex",
+  "stil": "gradinita"
+ },
+ "cowboyul": {
+  "fisier": "cowboyul.jpg",
+  "sursa": "codex",
+  "stil": "gradinita"
+ },
+ "papagalul-motanel-2": {
+  "fisier": "papagalul-motanel-2.jpg",
+  "sursa": "codex",
+  "stil": "gradinita"
+ },
+ "supararea-lui-cri": {
+  "fisier": "supararea-lui-cri.jpg",
+  "sursa": "codex",
+  "stil": "gradinita"
+ },
+ "omule-2": {
+  "fisier": "omule-2.jpg",
+  "sursa": "codex",
+  "stil": "crem"
+ },
+ "crocodilul-pacalit-2": {
+  "fisier": "crocodilul-pacalit-2.jpg",
+  "sursa": "codex",
+  "stil": "crem"
+ },
+ "moda-2": {
+  "fisier": "moda-2.jpg",
+  "sursa": "codex",
+  "stil": "crem"
+ },
+ "calul-singuratic": {
+  "fisier": "calul-singuratic.jpg",
+  "sursa": "codex",
+  "stil": "crem"
+ },
+ "curtea-cu-oratanii": {
+  "fisier": "curtea-cu-oratanii.jpg",
+  "sursa": "codex",
+  "stil": "crem"
+ },
+ "corul-orataniilor": {
+  "fisier": "corul-orataniilor.jpg",
+  "sursa": "codex",
+  "stil": "crem"
+ },
+ "mos-martine": {
+  "fisier": "mos-martine.jpg",
+  "sursa": "codex",
+  "stil": "crem"
+ },
+ "trenul-tau": {
+  "fisier": "trenul-tau.jpg",
+  "sursa": "codex",
+  "stil": "ziar"
+ },
+ "sarut-de-fata-mare": {
+  "fisier": "sarut-de-fata-mare.jpg",
+  "sursa": "codex",
+  "stil": "ziar"
+ },
+ "sunt-trubadur-2": {
+  "fisier": "sunt-trubadur-2.jpg",
+  "sursa": "codex",
+  "stil": "ziar"
+ },
+ "caierul-timpului": {
+  "fisier": "caierul-timpului.jpg",
+  "sursa": "codex",
+  "stil": "ziar"
+ },
+ "ard-in-jar": {
+  "fisier": "ard-in-jar.jpg",
+  "sursa": "codex",
+  "stil": "ziar"
+ },
+ "soricelul-tic-pitic": {
+  "fisier": "soricelul-tic-pitic.jpg",
+  "sursa": "codex",
+  "stil": "ziar"
+ },
+ "iubita-mea-3": {
+  "fisier": "iubita-mea-3.jpg",
+  "sursa": "codex",
+  "stil": "suflet"
+ },
+ "da-mi-mana-ta": {
+  "fisier": "da-mi-mana-ta.jpg",
+  "sursa": "codex",
+  "stil": "suflet"
+ },
+ "noi": {
+  "fisier": "noi.jpg",
+  "sursa": "codex",
+  "stil": "suflet"
+ },
+ "zapada-palmei-tale": {
+  "fisier": "zapada-palmei-tale.jpg",
+  "sursa": "codex",
+  "stil": "suflet"
+ },
+ "casa-in-care-m-am-nascut": {
+  "fisier": "casa-in-care-m-am-nascut.jpg",
+  "sursa": "codex",
+  "stil": "suflet"
+ },
+ "e-o-specie-anume": {
+  "fisier": "e-o-specie-anume.jpg",
+  "sursa": "codex",
+  "stil": "galerie"
+ },
+ "povata-2": {
+  "fisier": "povata-2.jpg",
+  "sursa": "codex",
+  "stil": "galerie"
+ },
+ "indragostitii-magarusi": {
+  "fisier": "indragostitii-magarusi.jpg",
+  "sursa": "codex",
+  "stil": "galerie"
+ },
+ "libelula-colorata": {
+  "fisier": "libelula-colorata.jpg",
+  "sursa": "codex",
+  "stil": "galerie"
+ },
+ "dincolo-de-geam": {
+  "fisier": "dincolo-de-geam.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "iarna-iarna": {
+  "fisier": "iarna-iarna.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "un-copil-si-o-floare": {
+  "fisier": "un-copil-si-o-floare.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "copilul-bufnitei": {
+  "fisier": "copilul-bufnitei.jpg",
+  "sursa": "codex",
+  "stil": "risograf"
+ },
+ "lui-andrei-boncea": {
+  "fisier": "lui-andrei-boncea.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "de-o-sa-mor-c-asa-e-cazul": {
+  "fisier": "de-o-sa-mor-c-asa-e-cazul.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "de-ce": {
+  "fisier": "de-ce.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "de-ce-doamne": {
+  "fisier": "de-ce-doamne.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "ziua-noastra": {
+  "fisier": "ziua-noastra.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "micul": {
+  "fisier": "micul.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "undeva-in-muntele-randunelelor": {
+  "fisier": "undeva-in-muntele-randunelelor.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "trecut-au-anii": {
+  "fisier": "trecut-au-anii.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "in-prag-de-seara": {
+  "fisier": "in-prag-de-seara.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "armonie": {
+  "fisier": "armonie.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "dilema": {
+  "fisier": "dilema.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "incotro": {
+  "fisier": "incotro.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "pescarul-si-marea": {
+  "fisier": "pescarul-si-marea.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "genunchiul-doamnei": {
+  "fisier": "genunchiul-doamnei.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "unde-sunt-pescarusii": {
+  "fisier": "unde-sunt-pescarusii.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "la-pelion": {
+  "fisier": "la-pelion.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "la-voloz": {
+  "fisier": "la-voloz.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "si-totusi": {
+  "fisier": "si-totusi.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "primavara-nu-se-moare": {
+  "fisier": "primavara-nu-se-moare.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "mandrie-pentru-noi": {
+  "fisier": "mandrie-pentru-noi.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "mi-e-dor-de-mama": {
+  "fisier": "mi-e-dor-de-mama.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "o-singura-inima": {
+  "fisier": "o-singura-inima.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "razvratitul": {
+  "fisier": "razvratitul.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "adie-vantul": {
+  "fisier": "adie-vantul.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "sa-stam-de-vorba-iubito": {
+  "fisier": "sa-stam-de-vorba-iubito.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "muza": {
+  "fisier": "muza.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "dedicatie": {
+  "fisier": "dedicatie.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "dincolo-de-nori": {
+  "fisier": "dincolo-de-nori.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "la-fereastra": {
+  "fisier": "la-fereastra.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "zevzecul": {
+  "fisier": "zevzecul.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "in-prag-de-iarna": {
+  "fisier": "in-prag-de-iarna.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "cantul-ierbii": {
+  "fisier": "cantul-ierbii.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "iubiti-pietrele": {
+  "fisier": "iubiti-pietrele.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "scanteia": {
+  "fisier": "scanteia.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "pomana-porcului": {
+  "fisier": "pomana-porcului.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "arabela": {
+  "fisier": "arabela.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "daca-vii": {
+  "fisier": "daca-vii.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "minunea": {
+  "fisier": "minunea.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "azi-lumea": {
+  "fisier": "azi-lumea.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "in-noii-ani": {
+  "fisier": "in-noii-ani.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "fericirea": {
+  "fisier": "fericirea.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "fericirea-2": {
+  "fisier": "fericirea-2.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "te-astept": {
+  "fisier": "te-astept.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "iubirea-nu-i-un-vis": {
+  "fisier": "iubirea-nu-i-un-vis.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "in-cautarea-iubitei": {
+  "fisier": "in-cautarea-iubitei.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "unde-vara-ai-plecat": {
+  "fisier": "unde-vara-ai-plecat.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "timpul": {
+  "fisier": "timpul.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "geo-calugaru-la-75-de-ani": {
+  "fisier": "geo-calugaru-la-75-de-ani.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "ce-bine-i": {
+  "fisier": "ce-bine-i.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "el-si-ea": {
+  "fisier": "el-si-ea.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "sperlongo": {
+  "fisier": "sperlongo.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "turneu-national-2017": {
+  "fisier": "turneu-national-2017.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "din-nou-la-vintileasca": {
+  "fisier": "din-nou-la-vintileasca.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "cand-primavara": {
+  "fisier": "cand-primavara.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "asa-a-fost": {
+  "fisier": "asa-a-fost.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "doamna-ghica": {
+  "fisier": "doamna-ghica.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "la-constanta": {
+  "fisier": "la-constanta.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "sentimente-la-galati": {
+  "fisier": "sentimente-la-galati.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "la-poiana-brasov": {
+  "fisier": "la-poiana-brasov.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "geamatul-marii": {
+  "fisier": "geamatul-marii.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "positano": {
+  "fisier": "positano.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "cand-vin-copiii-n-positano": {
+  "fisier": "cand-vin-copiii-n-positano.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "capri": {
+  "fisier": "capri.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "de-ce-plang-stancile-la-positano": {
+  "fisier": "de-ce-plang-stancile-la-positano.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "sunt-pasa-neam-de-beduin": {
+  "fisier": "sunt-pasa-neam-de-beduin.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "versul": {
+  "fisier": "versul.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "la-marea-moarta": {
+  "fisier": "la-marea-moarta.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "ghiocelul": {
+  "fisier": "ghiocelul.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "intre-soacra-si-nora": {
+  "fisier": "intre-soacra-si-nora.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "dragoste-cu-nabadai": {
+  "fisier": "dragoste-cu-nabadai.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "clopotele-la-positano": {
+  "fisier": "clopotele-la-positano.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "echilibru": {
+  "fisier": "echilibru.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "doamna-cu-catelul": {
+  "fisier": "doamna-cu-catelul.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "apoi-tine-te-badie": {
+  "fisier": "apoi-tine-te-badie.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "cat-o-fi": {
+  "fisier": "cat-o-fi.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "poezie-de-noapte": {
+  "fisier": "poezie-de-noapte.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "din-nou-acasa": {
+  "fisier": "din-nou-acasa.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "omule": {
+  "fisier": "omule.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "flori": {
+  "fisier": "flori.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "predicatorul": {
+  "fisier": "predicatorul.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "pe-aripa-vantului": {
+  "fisier": "pe-aripa-vantului.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "fabula": {
+  "fisier": "fabula.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "copilul-strazii": {
+  "fisier": "copilul-strazii.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "vaduvele-vesele": {
+  "fisier": "vaduvele-vesele.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "atac-la-eminescu": {
+  "fisier": "atac-la-eminescu.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "codrul": {
+  "fisier": "codrul.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "primavara-bine-ai-venit": {
+  "fisier": "primavara-bine-ai-venit.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "ea-iarna": {
+  "fisier": "ea-iarna.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "vaduva-vesela": {
+  "fisier": "vaduva-vesela.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "seceta-din-46": {
+  "fisier": "seceta-din-46.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "la-pamantul-sfant": {
+  "fisier": "la-pamantul-sfant.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "bucuria-ciorchinilor": {
+  "fisier": "bucuria-ciorchinilor.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "in-drumul-spre-delta": {
+  "fisier": "in-drumul-spre-delta.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "la-cules-de-papusoi": {
+  "fisier": "la-cules-de-papusoi.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "iubita-mea": {
+  "fisier": "iubita-mea.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "florar": {
+  "fisier": "florar.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "prima-sarutare": {
+  "fisier": "prima-sarutare.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "zdreanta": {
+  "fisier": "zdreanta.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "cand-nucile-se-coc": {
+  "fisier": "cand-nucile-se-coc.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "e-ziua-mea-e-ziua-ta": {
+  "fisier": "e-ziua-mea-e-ziua-ta.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "s-o-crezi-mata-cucoana": {
+  "fisier": "s-o-crezi-mata-cucoana.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "si-toate-vin-si-toate-trec": {
+  "fisier": "si-toate-vin-si-toate-trec.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "unde-dai-si-unde-crapa": {
+  "fisier": "unde-dai-si-unde-crapa.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "vai-noua-efemerii": {
+  "fisier": "vai-noua-efemerii.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "a-cata-oara": {
+  "fisier": "a-cata-oara.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "cascadorul-rasului": {
+  "fisier": "cascadorul-rasului.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "de-la-flori-am-invatat": {
+  "fisier": "de-la-flori-am-invatat.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "adam-si-eva": {
+  "fisier": "adam-si-eva.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "haide-iubito": {
+  "fisier": "haide-iubito.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "elena": {
+  "fisier": "elena.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "spre-anapoda": {
+  "fisier": "spre-anapoda.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "print-si-cersetor": {
+  "fisier": "print-si-cersetor.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "ionele-ionele": {
+  "fisier": "ionele-ionele.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "de-doi-bani-speranta": {
+  "fisier": "de-doi-bani-speranta.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "romania": {
+  "fisier": "romania.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "tanti-veta": {
+  "fisier": "tanti-veta.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "rusaliile": {
+  "fisier": "rusaliile.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "fratelui-meu-toader-1935-2012": {
+  "fisier": "fratelui-meu-toader-1935-2012.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "tinte-minte": {
+  "fisier": "tinte-minte.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "majoratul": {
+  "fisier": "majoratul.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "de-necrezut": {
+  "fisier": "de-necrezut.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "ana": {
+  "fisier": "ana.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "este-firesc": {
+  "fisier": "este-firesc.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "de-acum": {
+  "fisier": "de-acum.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "traiasca-regele": {
+  "fisier": "traiasca-regele.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "bichestiul": {
+  "fisier": "bichestiul.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "la-bichesti": {
+  "fisier": "la-bichesti.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "dami": {
+  "fisier": "dami.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "angela": {
+  "fisier": "angela.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "des-uitata-poezie": {
+  "fisier": "des-uitata-poezie.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "prea-fericite": {
+  "fisier": "prea-fericite.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "de-ziua-ei-a-loredanei": {
+  "fisier": "de-ziua-ei-a-loredanei.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "cina-cea-de-taina": {
+  "fisier": "cina-cea-de-taina.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "balti-albastre": {
+  "fisier": "balti-albastre.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "raiul-este-aici": {
+  "fisier": "raiul-este-aici.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "cautator-de-lumina": {
+  "fisier": "cautator-de-lumina.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "doamne": {
+  "fisier": "doamne.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "muza-microbista": {
+  "fisier": "muza-microbista.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "minunea-2": {
+  "fisier": "minunea-2.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "la-busteni": {
+  "fisier": "la-busteni.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "si-toamna": {
+  "fisier": "si-toamna.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "cutezanta": {
+  "fisier": "cutezanta.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "cerebelul": {
+  "fisier": "cerebelul.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "la-carnatarie": {
+  "fisier": "la-carnatarie.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "iubirea": {
+  "fisier": "iubirea.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "la-merdenele": {
+  "fisier": "la-merdenele.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "piata-amzei": {
+  "fisier": "piata-amzei.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "nichita-stanescu": {
+  "fisier": "nichita-stanescu.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "din-toamna-n-toamna": {
+  "fisier": "din-toamna-n-toamna.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "lui-grigore-vieru": {
+  "fisier": "lui-grigore-vieru.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "tavi": {
+  "fisier": "tavi.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "de-fericire": {
+  "fisier": "de-fericire.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "criza": {
+  "fisier": "criza.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "la-puturoasa": {
+  "fisier": "la-puturoasa.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "viata-ca-un-sah": {
+  "fisier": "viata-ca-un-sah.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "truditorii": {
+  "fisier": "truditorii.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "in-memoriam": {
+  "fisier": "in-memoriam.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "fabula-2": {
+  "fisier": "fabula-2.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "visez": {
+  "fisier": "visez.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "maxime": {
+  "fisier": "maxime.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "vreme-buna": {
+  "fisier": "vreme-buna.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "celibatarul": {
+  "fisier": "celibatarul.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "celibatarul-2": {
+  "fisier": "celibatarul-2.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "dragostea-mea": {
+  "fisier": "dragostea-mea.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "reflectie": {
+  "fisier": "reflectie.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "de-cand-te-astept": {
+  "fisier": "de-cand-te-astept.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "nelu-incornoratul": {
+  "fisier": "nelu-incornoratul.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "natura": {
+  "fisier": "natura.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "anotimpurile-poeziei": {
+  "fisier": "anotimpurile-poeziei.jpg",
+  "sursa": "codex",
+  "stil": "aerograma"
+ },
+ "omuletul-de-zapada": {
+  "fisier": "omuletul-de-zapada.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "bradutule-te-iubesc": {
+  "fisier": "bradutule-te-iubesc.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "ia-mai-pune-ti-pofta-n-cui": {
+  "fisier": "ia-mai-pune-ti-pofta-n-cui.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "ciocanitoarea-paza": {
+  "fisier": "ciocanitoarea-paza.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "un-copil": {
+  "fisier": "un-copil.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "de-ascunselea": {
+  "fisier": "de-ascunselea.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "in-delfinariu": {
+  "fisier": "in-delfinariu.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "de-a-taxiul": {
+  "fisier": "de-a-taxiul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "in-petit": {
+  "fisier": "in-petit.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "fluturasii": {
+  "fisier": "fluturasii.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "intre-pisoi": {
+  "fisier": "intre-pisoi.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "am-sosit-e-primavara": {
+  "fisier": "am-sosit-e-primavara.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "ruga-catre-dumnezeu": {
+  "fisier": "ruga-catre-dumnezeu.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "a-facut-de-ras": {
+  "fisier": "a-facut-de-ras.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "manzul": {
+  "fisier": "manzul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "de-a-mija": {
+  "fisier": "de-a-mija.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "in-lumea-viselor": {
+  "fisier": "in-lumea-viselor.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "s-a-pacalit": {
+  "fisier": "s-a-pacalit.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "capriorul": {
+  "fisier": "capriorul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alergatorul-de-cursa-lunga": {
+  "fisier": "alergatorul-de-cursa-lunga.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "cifra-0": {
+  "fisier": "cifra-0.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "spovedanie": {
+  "fisier": "spovedanie.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "porumbelul": {
+  "fisier": "porumbelul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "oul-sau-gaina": {
+  "fisier": "oul-sau-gaina.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "curcubeul": {
+  "fisier": "curcubeul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "poetului-ii-place": {
+  "fisier": "poetului-ii-place.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "prostia": {
+  "fisier": "prostia.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "perpetuum": {
+  "fisier": "perpetuum.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-literele-s-la-ndemana": {
+  "fisier": "alfabetul-literele-s-la-ndemana.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-aa": {
+  "fisier": "alfabetul-aa.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dictionarul-cuvintelor-frumoase-ador": {
+  "fisier": "dictionarul-cuvintelor-frumoase-ador.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dictionarul-cuvintelor-frumoase-bucuria": {
+  "fisier": "dictionarul-cuvintelor-frumoase-bucuria.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-bb": {
+  "fisier": "alfabetul-bb.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-cc": {
+  "fisier": "alfabetul-cc.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-dd": {
+  "fisier": "alfabetul-dd.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dictionarul-cuvintelor-frumoase-dorinta": {
+  "fisier": "dictionarul-cuvintelor-frumoase-dorinta.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-ee": {
+  "fisier": "alfabetul-ee.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dictionarul-cuvintelor-frumoase-existenta": {
+  "fisier": "dictionarul-cuvintelor-frumoase-existenta.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-ff": {
+  "fisier": "alfabetul-ff.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dictionarul-cuvintelor-frumoase-flori": {
+  "fisier": "dictionarul-cuvintelor-frumoase-flori.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-gg": {
+  "fisier": "alfabetul-gg.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dictionarul-cuvintelor-frumoase-ganduri": {
+  "fisier": "dictionarul-cuvintelor-frumoase-ganduri.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-hh": {
+  "fisier": "alfabetul-hh.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-ii": {
+  "fisier": "alfabetul-ii.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-cuvintelor-frumoase-iasomie": {
+  "fisier": "alfabetul-cuvintelor-frumoase-iasomie.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-jj": {
+  "fisier": "alfabetul-jj.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dictionarul-cuvintelor-frumoase-jaratec": {
+  "fisier": "dictionarul-cuvintelor-frumoase-jaratec.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-kk": {
+  "fisier": "alfabetul-kk.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dictionarul-cuvintelor-frumoase-karate": {
+  "fisier": "dictionarul-cuvintelor-frumoase-karate.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-ll": {
+  "fisier": "alfabetul-ll.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dictionarul-cuvintelor-frumoase-libertate": {
+  "fisier": "dictionarul-cuvintelor-frumoase-libertate.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dictionarul": {
+  "fisier": "dictionarul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dictionarul-cuvintelor-frumoase-memoria": {
+  "fisier": "dictionarul-cuvintelor-frumoase-memoria.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-nn": {
+  "fisier": "alfabetul-nn.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dictionarul-cuvintelor-frumoase-nufarul": {
+  "fisier": "dictionarul-cuvintelor-frumoase-nufarul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-oo": {
+  "fisier": "alfabetul-oo.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dictionarul-cuvintelor-frumoase-orizonturi": {
+  "fisier": "dictionarul-cuvintelor-frumoase-orizonturi.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-pp": {
+  "fisier": "alfabetul-pp.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dictionarul-cuvintelor-frumoase-prognoza": {
+  "fisier": "dictionarul-cuvintelor-frumoase-prognoza.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-rr": {
+  "fisier": "alfabetul-rr.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dictionarul-cuvintelor-frumoase-recreatie": {
+  "fisier": "dictionarul-cuvintelor-frumoase-recreatie.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-ss": {
+  "fisier": "alfabetul-ss.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dictionarul-cuvintelor-frumoase-sanatate": {
+  "fisier": "dictionarul-cuvintelor-frumoase-sanatate.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-ss-2": {
+  "fisier": "alfabetul-ss-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-cuvintelor-frumoase-sansa": {
+  "fisier": "alfabetul-cuvintelor-frumoase-sansa.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-tt": {
+  "fisier": "alfabetul-tt.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dictionarul-cuvintelor-frumoase-trainicie": {
+  "fisier": "dictionarul-cuvintelor-frumoase-trainicie.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-tt-2": {
+  "fisier": "alfabetul-tt-2.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-uu": {
+  "fisier": "alfabetul-uu.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-vv": {
+  "fisier": "alfabetul-vv.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-xx": {
+  "fisier": "alfabetul-xx.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "alfabetul-zz": {
+  "fisier": "alfabetul-zz.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "la-coada": {
+  "fisier": "la-coada.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "iupurasul-grijuliu": {
+  "fisier": "iupurasul-grijuliu.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "nesabuinta": {
+  "fisier": "nesabuinta.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "s-o-s": {
+  "fisier": "s-o-s.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "o-fapta-buna": {
+  "fisier": "o-fapta-buna.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "pokeras": {
+  "fisier": "pokeras.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "ghiceste": {
+  "fisier": "ghiceste.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "ratacitul": {
+  "fisier": "ratacitul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "suparare": {
+  "fisier": "suparare.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "confuzie": {
+  "fisier": "confuzie.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "rapire": {
+  "fisier": "rapire.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "dar-tu-ce-cauti-aici": {
+  "fisier": "dar-tu-ce-cauti-aici.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "frica": {
+  "fisier": "frica.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "mandrie": {
+  "fisier": "mandrie.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "mos-craciune": {
+  "fisier": "mos-craciune.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "colindul": {
+  "fisier": "colindul.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "mos-craciun-la-el-acasa": {
+  "fisier": "mos-craciun-la-el-acasa.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "anul-nou": {
+  "fisier": "anul-nou.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "intre-ani": {
+  "fisier": "intre-ani.jpg",
+  "sursa": "codex",
+  "stil": "abecedar"
+ },
+ "o-ramai": {
+  "fisier": "o-ramai.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "iarna-bine-ai-venit": {
+  "fisier": "iarna-bine-ai-venit.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "la-busteni-2": {
+  "fisier": "la-busteni-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "lungul-nasului": {
+  "fisier": "lungul-nasului.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "disputa": {
+  "fisier": "disputa.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "lectia-de-inot": {
+  "fisier": "lectia-de-inot.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "c-s-b": {
+  "fisier": "c-s-b.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "cand-se-naste-o-carte": {
+  "fisier": "cand-se-naste-o-carte.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "caramidarul": {
+  "fisier": "caramidarul.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "dor-nebun": {
+  "fisier": "dor-nebun.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "oare-cine-i": {
+  "fisier": "oare-cine-i.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "februarie": {
+  "fisier": "februarie.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "puisorul-se-intreaba": {
+  "fisier": "puisorul-se-intreaba.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "ata": {
+  "fisier": "ata.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "cupa-bondar": {
+  "fisier": "cupa-bondar.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "bunicuta": {
+  "fisier": "bunicuta.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "semn-de-primavara": {
+  "fisier": "semn-de-primavara.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "omul": {
+  "fisier": "omul.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "prin-timp": {
+  "fisier": "prin-timp.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "rama-si-pestele": {
+  "fisier": "rama-si-pestele.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "nichi": {
+  "fisier": "nichi.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "tu-iarna": {
+  "fisier": "tu-iarna.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "pitigoiul": {
+  "fisier": "pitigoiul.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "puiul-de-leu": {
+  "fisier": "puiul-de-leu.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "nici-pe-cer-nu-e-dreptate": {
+  "fisier": "nici-pe-cer-nu-e-dreptate.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "denis-mare-luptator": {
+  "fisier": "denis-mare-luptator.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "de-martisor": {
+  "fisier": "de-martisor.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "iepurele-si-motanul": {
+  "fisier": "iepurele-si-motanul.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "in-fostul-sat": {
+  "fisier": "in-fostul-sat.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "avertisment": {
+  "fisier": "avertisment.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "la-potcovar": {
+  "fisier": "la-potcovar.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "dimineti-de-martie": {
+  "fisier": "dimineti-de-martie.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "de-ziua-ta": {
+  "fisier": "de-ziua-ta.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "babele": {
+  "fisier": "babele.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "daca-vrei-poti": {
+  "fisier": "daca-vrei-poti.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "magarul-incaltat": {
+  "fisier": "magarul-incaltat.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "boul-si-vaca": {
+  "fisier": "boul-si-vaca.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "david-2": {
+  "fisier": "david-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "muza-2": {
+  "fisier": "muza-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "serenada-la-chitara": {
+  "fisier": "serenada-la-chitara.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "bunicule": {
+  "fisier": "bunicule.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "zarva-mare": {
+  "fisier": "zarva-mare.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "sapte-ani": {
+  "fisier": "sapte-ani.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "stare": {
+  "fisier": "stare.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "cand-pasarile-cerului": {
+  "fisier": "cand-pasarile-cerului.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "huta-vrabiuta": {
+  "fisier": "huta-vrabiuta.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "pasari-migratoare": {
+  "fisier": "pasari-migratoare.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "si-totusi-2": {
+  "fisier": "si-totusi-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "printre-ghiocei": {
+  "fisier": "printre-ghiocei.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "ce-credeati": {
+  "fisier": "ce-credeati.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "de-florii": {
+  "fisier": "de-florii.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "huta-vrabiuta-si-toi-vrabioi": {
+  "fisier": "huta-vrabiuta-si-toi-vrabioi.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "matur-emur": {
+  "fisier": "matur-emur.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "e-timpul": {
+  "fisier": "e-timpul.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "ninge-cu-fulgi-de-petale": {
+  "fisier": "ninge-cu-fulgi-de-petale.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "hristos-a-inviat": {
+  "fisier": "hristos-a-inviat.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "regina-pantofilor-cu-toc": {
+  "fisier": "regina-pantofilor-cu-toc.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "da": {
+  "fisier": "da.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "un-tur-cu-matur-emur": {
+  "fisier": "un-tur-cu-matur-emur.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "la-prisaca": {
+  "fisier": "la-prisaca.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "randunicile": {
+  "fisier": "randunicile.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "iata-ma": {
+  "fisier": "iata-ma.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "as-vrea-sa-fiu": {
+  "fisier": "as-vrea-sa-fiu.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "un-cocos-si-o-puicuta": {
+  "fisier": "un-cocos-si-o-puicuta.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "pe-albastrul-raului": {
+  "fisier": "pe-albastrul-raului.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "de-ziua-ta-2": {
+  "fisier": "de-ziua-ta-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "a-plecat-gheorghe-la-moara": {
+  "fisier": "a-plecat-gheorghe-la-moara.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "sfantul-gheorghe": {
+  "fisier": "sfantul-gheorghe.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "poezia-de-azi": {
+  "fisier": "poezia-de-azi.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "tie-doamne": {
+  "fisier": "tie-doamne.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "braconaj": {
+  "fisier": "braconaj.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "acasa-la-mos-martin": {
+  "fisier": "acasa-la-mos-martin.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "tom-porumbel-povestea": {
+  "fisier": "tom-porumbel-povestea.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "de-1-mai": {
+  "fisier": "de-1-mai.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "inca-una-de-1-mai": {
+  "fisier": "inca-una-de-1-mai.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "maimutoiul-gim": {
+  "fisier": "maimutoiul-gim.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "cercetarile-continua": {
+  "fisier": "cercetarile-continua.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "roba-cobra": {
+  "fisier": "roba-cobra.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "rila-iepurila": {
+  "fisier": "rila-iepurila.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "chemare": {
+  "fisier": "chemare.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "spre-noua-zari": {
+  "fisier": "spre-noua-zari.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "hristos-s-a-inaltat": {
+  "fisier": "hristos-s-a-inaltat.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "gandacul-de-colorado": {
+  "fisier": "gandacul-de-colorado.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "frica-de-cucuvea": {
+  "fisier": "frica-de-cucuvea.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "zbor-de-cuci": {
+  "fisier": "zbor-de-cuci.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "se-intampla": {
+  "fisier": "se-intampla.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "ploua": {
+  "fisier": "ploua.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "e-ziua-ta-copile": {
+  "fisier": "e-ziua-ta-copile.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "vulpea-la-gaini": {
+  "fisier": "vulpea-la-gaini.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "gasca-si-rata": {
+  "fisier": "gasca-si-rata.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "loredana": {
+  "fisier": "loredana.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "de-ar-fi": {
+  "fisier": "de-ar-fi.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "despre-anumite-iubiri": {
+  "fisier": "despre-anumite-iubiri.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "in-fiecare-seara": {
+  "fisier": "in-fiecare-seara.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "prostul": {
+  "fisier": "prostul.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "nu": {
+  "fisier": "nu.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "nesabuinta-2": {
+  "fisier": "nesabuinta-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "capul-face-capul-trage": {
+  "fisier": "capul-face-capul-trage.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "o-baba-surda-m-a-ntrebat": {
+  "fisier": "o-baba-surda-m-a-ntrebat.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "din-doi-in-doi": {
+  "fisier": "din-doi-in-doi.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "inainte": {
+  "fisier": "inainte.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "cica": {
+  "fisier": "cica.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "mica-veverita": {
+  "fisier": "mica-veverita.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "luna": {
+  "fisier": "luna.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "cui-ii-pasa": {
+  "fisier": "cui-ii-pasa.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "la-pescuit": {
+  "fisier": "la-pescuit.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "norocosul": {
+  "fisier": "norocosul.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "icoana-de-acasa": {
+  "fisier": "icoana-de-acasa.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "spectacolul-norilor": {
+  "fisier": "spectacolul-norilor.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "vazduhul-imaginatiei": {
+  "fisier": "vazduhul-imaginatiei.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "iarba-vede-de-acasa": {
+  "fisier": "iarba-vede-de-acasa.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "animal-de-companie": {
+  "fisier": "animal-de-companie.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "pardon": {
+  "fisier": "pardon.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "porcii": {
+  "fisier": "porcii.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "prietenul-meu-gelu": {
+  "fisier": "prietenul-meu-gelu.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "delfinii": {
+  "fisier": "delfinii.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "pinguinii-indragostiti": {
+  "fisier": "pinguinii-indragostiti.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "moda": {
+  "fisier": "moda.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "dragoste-uitata": {
+  "fisier": "dragoste-uitata.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "scanteia-2": {
+  "fisier": "scanteia-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "sunt-si-eu-un-om": {
+  "fisier": "sunt-si-eu-un-om.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "puisorul-se-intreaba-2": {
+  "fisier": "puisorul-se-intreaba-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "din-amazon": {
+  "fisier": "din-amazon.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "mama-adevarata": {
+  "fisier": "mama-adevarata.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "semn-de-intrebare": {
+  "fisier": "semn-de-intrebare.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "de-ce-nu": {
+  "fisier": "de-ce-nu.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "motanel": {
+  "fisier": "motanel.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "armasarul": {
+  "fisier": "armasarul.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "bal-mascat": {
+  "fisier": "bal-mascat.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "catelusa-pufi": {
+  "fisier": "catelusa-pufi.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "iubito": {
+  "fisier": "iubito.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "iubesc": {
+  "fisier": "iubesc.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "gazele": {
+  "fisier": "gazele.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "radasca": {
+  "fisier": "radasca.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "tantarul": {
+  "fisier": "tantarul.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "noaptea": {
+  "fisier": "noaptea.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "cerbul-de-aur": {
+  "fisier": "cerbul-de-aur.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "cerere": {
+  "fisier": "cerere.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "de-ce-plang-viorile": {
+  "fisier": "de-ce-plang-viorile.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "intre-cotofene": {
+  "fisier": "intre-cotofene.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "prima-zi-de-scoala": {
+  "fisier": "prima-zi-de-scoala.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "ea-frunza": {
+  "fisier": "ea-frunza.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "cine-e": {
+  "fisier": "cine-e.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "mofturila": {
+  "fisier": "mofturila.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "puricele-si-un-tantar": {
+  "fisier": "puricele-si-un-tantar.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "se-culeg-viile": {
+  "fisier": "se-culeg-viile.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "frunza": {
+  "fisier": "frunza.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "de-toamna": {
+  "fisier": "de-toamna.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "iarasi-toamna": {
+  "fisier": "iarasi-toamna.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "pe-aripile-visului": {
+  "fisier": "pe-aripile-visului.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "generatiile": {
+  "fisier": "generatiile.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "bun-venit": {
+  "fisier": "bun-venit.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "sfantul-ilie": {
+  "fisier": "sfantul-ilie.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "fierbe-mustul": {
+  "fisier": "fierbe-mustul.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "urma": {
+  "fisier": "urma.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "iata-ma-2": {
+  "fisier": "iata-ma-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "ca-sa-vezi": {
+  "fisier": "ca-sa-vezi.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "cad-frunzele": {
+  "fisier": "cad-frunzele.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "minunea-3": {
+  "fisier": "minunea-3.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "luna-noua": {
+  "fisier": "luna-noua.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "sarbatoare-n-costereata": {
+  "fisier": "sarbatoare-n-costereata.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "cred-in-tine": {
+  "fisier": "cred-in-tine.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "cand-vanturile": {
+  "fisier": "cand-vanturile.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "vantule-ce-e-cu-tine": {
+  "fisier": "vantule-ce-e-cu-tine.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "radasca-si-rinocerul": {
+  "fisier": "radasca-si-rinocerul.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "ploua-2": {
+  "fisier": "ploua-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "gargarita-draga-mea": {
+  "fisier": "gargarita-draga-mea.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "printesa-girafa": {
+  "fisier": "printesa-girafa.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "coada-mea": {
+  "fisier": "coada-mea.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "turma": {
+  "fisier": "turma.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "ce-o-fi-asta": {
+  "fisier": "ce-o-fi-asta.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "ca-la-inceputuri": {
+  "fisier": "ca-la-inceputuri.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "la-munca": {
+  "fisier": "la-munca.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "fita": {
+  "fisier": "fita.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "cautati-l-pe-dumnezeu": {
+  "fisier": "cautati-l-pe-dumnezeu.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "de-ce-2": {
+  "fisier": "de-ce-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "poetul-noptilor-pierdute": {
+  "fisier": "poetul-noptilor-pierdute.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "patanii": {
+  "fisier": "patanii.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "nepotica-mea": {
+  "fisier": "nepotica-mea.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "intr-o-zi": {
+  "fisier": "intr-o-zi.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "babele-2": {
+  "fisier": "babele-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "trenul": {
+  "fisier": "trenul.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "buruiana-vesela": {
+  "fisier": "buruiana-vesela.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "hotul": {
+  "fisier": "hotul.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "doua-babe": {
+  "fisier": "doua-babe.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "doi-pazeste": {
+  "fisier": "doi-pazeste.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "da-2": {
+  "fisier": "da-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "prima-zi": {
+  "fisier": "prima-zi.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "la-cine-latra-cainii": {
+  "fisier": "la-cine-latra-cainii.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "cand-eram-copil": {
+  "fisier": "cand-eram-copil.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "caterina": {
+  "fisier": "caterina.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "veselie-in-padure": {
+  "fisier": "veselie-in-padure.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "mult-asteptata": {
+  "fisier": "mult-asteptata.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "da-3": {
+  "fisier": "da-3.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "intrebare": {
+  "fisier": "intrebare.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "doar-un-ceas-a-mai-ramas": {
+  "fisier": "doar-un-ceas-a-mai-ramas.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "calul-de-lemn": {
+  "fisier": "calul-de-lemn.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "meheheca-si-beheheca": {
+  "fisier": "meheheca-si-beheheca.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "ninge-la-brasov": {
+  "fisier": "ninge-la-brasov.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "salutare": {
+  "fisier": "salutare.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "sansa": {
+  "fisier": "sansa.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "cu-penelul-pe-hartie": {
+  "fisier": "cu-penelul-pe-hartie.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "doua-pitulici": {
+  "fisier": "doua-pitulici.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "la-derdelus": {
+  "fisier": "la-derdelus.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "calul-balan": {
+  "fisier": "calul-balan.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "mandrie-2": {
+  "fisier": "mandrie-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "cand-eram-copil-2": {
+  "fisier": "cand-eram-copil-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "in-satul-meu": {
+  "fisier": "in-satul-meu.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "doamne-ce-bine-i-aici": {
+  "fisier": "doamne-ce-bine-i-aici.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "copiii": {
+  "fisier": "copiii.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "prichindeii": {
+  "fisier": "prichindeii.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "anul-nou-2": {
+  "fisier": "anul-nou-2.jpg",
+  "sursa": "codex",
+  "stil": "caiet"
+ },
+ "priveste": {
+  "fisier": "priveste.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "carul-cu-boi": {
+  "fisier": "carul-cu-boi.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "cine-i-eminescu": {
+  "fisier": "cine-i-eminescu.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "cand-se-naste-o-carte-2": {
+  "fisier": "cand-se-naste-o-carte-2.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "bietul-tata": {
+  "fisier": "bietul-tata.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "stafeta": {
+  "fisier": "stafeta.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "glasul-oceanului": {
+  "fisier": "glasul-oceanului.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "spaima-crocodililor": {
+  "fisier": "spaima-crocodililor.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "ninge": {
+  "fisier": "ninge.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "iepurasul-si-copilul": {
+  "fisier": "iepurasul-si-copilul.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "maresalul": {
+  "fisier": "maresalul.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "unirea": {
+  "fisier": "unirea.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "ma-marit": {
+  "fisier": "ma-marit.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "a-venit-timpul": {
+  "fisier": "a-venit-timpul.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "coala-alba": {
+  "fisier": "coala-alba.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "cerbul-carpatin": {
+  "fisier": "cerbul-carpatin.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "am-onoarea": {
+  "fisier": "am-onoarea.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "da-4": {
+  "fisier": "da-4.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "regele": {
+  "fisier": "regele.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "gica": {
+  "fisier": "gica.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "zebra": {
+  "fisier": "zebra.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "au-maseaua": {
+  "fisier": "au-maseaua.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "in-casa": {
+  "fisier": "in-casa.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "calare-pe-timp": {
+  "fisier": "calare-pe-timp.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "pe-acoperis": {
+  "fisier": "pe-acoperis.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "melancolie": {
+  "fisier": "melancolie.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "mandra-mea": {
+  "fisier": "mandra-mea.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "tu-chitara-mea": {
+  "fisier": "tu-chitara-mea.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "zig-zaga": {
+  "fisier": "zig-zaga.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "cocosul": {
+  "fisier": "cocosul.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "iat-o-iat-o-c-a-venit": {
+  "fisier": "iat-o-iat-o-c-a-venit.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "sapte-purici": {
+  "fisier": "sapte-purici.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "deschizator-de-vreme": {
+  "fisier": "deschizator-de-vreme.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "desteptarea": {
+  "fisier": "desteptarea.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "unde-i-nelu": {
+  "fisier": "unde-i-nelu.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "intre-copii": {
+  "fisier": "intre-copii.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "de-martisor-2": {
+  "fisier": "de-martisor-2.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "de-1-martie": {
+  "fisier": "de-1-martie.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "frunza-frunza": {
+  "fisier": "frunza-frunza.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "obicei": {
+  "fisier": "obicei.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "dac-o-cauti-o-gasesti": {
+  "fisier": "dac-o-cauti-o-gasesti.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "mofturila-2": {
+  "fisier": "mofturila-2.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "de-8-martie": {
+  "fisier": "de-8-martie.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "bucuria-parintilor": {
+  "fisier": "bucuria-parintilor.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "boul-si-vaca-2": {
+  "fisier": "boul-si-vaca-2.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "zice-mama": {
+  "fisier": "zice-mama.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "in-familie": {
+  "fisier": "in-familie.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "puiutul-mamei": {
+  "fisier": "puiutul-mamei.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "musafirul-nepoftit": {
+  "fisier": "musafirul-nepoftit.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "puisorul-curajos": {
+  "fisier": "puisorul-curajos.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "nu-nu": {
+  "fisier": "nu-nu.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "papadia": {
+  "fisier": "papadia.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "cina-cea-de-taina-2": {
+  "fisier": "cina-cea-de-taina-2.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "de-sarbatori": {
+  "fisier": "de-sarbatori.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "sherlock-holmes": {
+  "fisier": "sherlock-holmes.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "doua-randunici": {
+  "fisier": "doua-randunici.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "pentru-o-floare": {
+  "fisier": "pentru-o-floare.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "mie": {
+  "fisier": "mie.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "bunicule-2": {
+  "fisier": "bunicule-2.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "zarurile": {
+  "fisier": "zarurile.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "beduinul": {
+  "fisier": "beduinul.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "lacul-lebedelor": {
+  "fisier": "lacul-lebedelor.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "bun-venit-2": {
+  "fisier": "bun-venit-2.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "cand": {
+  "fisier": "cand.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "pisicuta-alcoolista": {
+  "fisier": "pisicuta-alcoolista.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "cip-cirip": {
+  "fisier": "cip-cirip.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "oscar-brazilianul": {
+  "fisier": "oscar-brazilianul.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "canta-pasarile-n-lunca": {
+  "fisier": "canta-pasarile-n-lunca.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "mendy": {
+  "fisier": "mendy.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "de-ce-3": {
+  "fisier": "de-ce-3.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "tiribomba": {
+  "fisier": "tiribomba.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "la-post": {
+  "fisier": "la-post.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "bob-de-grau": {
+  "fisier": "bob-de-grau.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "vestitoarea-primaverii": {
+  "fisier": "vestitoarea-primaverii.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "caprioara-si-o-albina": {
+  "fisier": "caprioara-si-o-albina.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "nu-dispera": {
+  "fisier": "nu-dispera.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "astazi-marea": {
+  "fisier": "astazi-marea.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "am-copilarit": {
+  "fisier": "am-copilarit.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "tu-mare": {
+  "fisier": "tu-mare.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "au-inflorit-salcamii": {
+  "fisier": "au-inflorit-salcamii.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "acrostih": {
+  "fisier": "acrostih.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "bucura-te": {
+  "fisier": "bucura-te.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "cu-bunicul-si-bunica": {
+  "fisier": "cu-bunicul-si-bunica.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "d-le-doctor": {
+  "fisier": "d-le-doctor.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "bodeasa": {
+  "fisier": "bodeasa.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "cratita": {
+  "fisier": "cratita.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "stii-copile": {
+  "fisier": "stii-copile.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "a-nnebunit-iarba": {
+  "fisier": "a-nnebunit-iarba.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "cocosul-2": {
+  "fisier": "cocosul-2.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "pentru-ce": {
+  "fisier": "pentru-ce.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "albina": {
+  "fisier": "albina.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "adiere-de-vant": {
+  "fisier": "adiere-de-vant.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "minte-ma": {
+  "fisier": "minte-ma.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "de-luat-aminte": {
+  "fisier": "de-luat-aminte.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "primavara-e-pe-duca": {
+  "fisier": "primavara-e-pe-duca.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "colo-n-fabrica": {
+  "fisier": "colo-n-fabrica.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "dialog-porcesc": {
+  "fisier": "dialog-porcesc.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "de-ziua-invatatorului": {
+  "fisier": "de-ziua-invatatorului.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "papagalul": {
+  "fisier": "papagalul.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "motanul-meu": {
+  "fisier": "motanul-meu.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "eminescu": {
+  "fisier": "eminescu.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "clopotelul-de-argint": {
+  "fisier": "clopotelul-de-argint.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "l-o-r-e-d-a-n-a": {
+  "fisier": "l-o-r-e-d-a-n-a.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "bebe": {
+  "fisier": "bebe.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "gradinita": {
+  "fisier": "gradinita.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "retrocedare": {
+  "fisier": "retrocedare.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "papagalita-cea-blanda": {
+  "fisier": "papagalita-cea-blanda.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "pe-eminescu": {
+  "fisier": "pe-eminescu.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "loredana-2": {
+  "fisier": "loredana-2.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "boacana": {
+  "fisier": "boacana.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "parfum-de-tei": {
+  "fisier": "parfum-de-tei.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "se-ntampla": {
+  "fisier": "se-ntampla.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "fata-draga": {
+  "fisier": "fata-draga.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "casa-de-piatra": {
+  "fisier": "casa-de-piatra.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "la-piata": {
+  "fisier": "la-piata.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "de-cap-nu-poate-sa-si-faca": {
+  "fisier": "de-cap-nu-poate-sa-si-faca.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "de-te-duci-cu-el-in-piata": {
+  "fisier": "de-te-duci-cu-el-in-piata.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "este-o-capricioasa": {
+  "fisier": "este-o-capricioasa.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "azi-e-plus-maine-e-minus": {
+  "fisier": "azi-e-plus-maine-e-minus.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "nu-pare-precum-se-arata": {
+  "fisier": "nu-pare-precum-se-arata.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "arcul-fara-de-sageata": {
+  "fisier": "arcul-fara-de-sageata.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "cand-te-cheama-cum-te-cheama": {
+  "fisier": "cand-te-cheama-cum-te-cheama.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "poti-ca-sa-iti-versi-necazul": {
+  "fisier": "poti-ca-sa-iti-versi-necazul.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "dai-totul-pe-bautura": {
+  "fisier": "dai-totul-pe-bautura.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "pare-a-fi-un-zevzec": {
+  "fisier": "pare-a-fi-un-zevzec.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "nu-e-naripat-vezi-doamne": {
+  "fisier": "nu-e-naripat-vezi-doamne.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "elenei-boncea": {
+  "fisier": "elenei-boncea.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "se-spune-ca-au-doua-fete": {
+  "fisier": "se-spune-ca-au-doua-fete.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "versa-si-viceversa": {
+  "fisier": "versa-si-viceversa.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "pe-balta": {
+  "fisier": "pe-balta.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "postasul": {
+  "fisier": "postasul.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "captura": {
+  "fisier": "captura.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "la-pescuit-2": {
+  "fisier": "la-pescuit-2.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "de-dimineata": {
+  "fisier": "de-dimineata.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "cine-a-zis-a-zis": {
+  "fisier": "cine-a-zis-a-zis.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "proasta-satului": {
+  "fisier": "proasta-satului.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "vrem-nu-vrem": {
+  "fisier": "vrem-nu-vrem.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "simona-halep": {
+  "fisier": "simona-halep.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "o-poezie-pe-zi": {
+  "fisier": "o-poezie-pe-zi.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "la-82-de-ani": {
+  "fisier": "la-82-de-ani.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "schimbarea-la-fata": {
+  "fisier": "schimbarea-la-fata.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "scara-matei": {
+  "fisier": "scara-matei.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "iepurasul": {
+  "fisier": "iepurasul.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "cucuveaua-si-pisica": {
+  "fisier": "cucuveaua-si-pisica.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "closca-si-cotofana": {
+  "fisier": "closca-si-cotofana.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "fluturasul-si-zmeul": {
+  "fisier": "fluturasul-si-zmeul.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "tantarul-alcoolist": {
+  "fisier": "tantarul-alcoolist.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "paianjenul": {
+  "fisier": "paianjenul.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "la-brasov": {
+  "fisier": "la-brasov.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "ciocanitoarea-woody": {
+  "fisier": "ciocanitoarea-woody.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "ce-se-ntampla": {
+  "fisier": "ce-se-ntampla.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "molie": {
+  "fisier": "molie.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "pisicuta-frumusica": {
+  "fisier": "pisicuta-frumusica.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "da-5": {
+  "fisier": "da-5.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "in-inaltul-cerului": {
+  "fisier": "in-inaltul-cerului.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "o-randunica": {
+  "fisier": "o-randunica.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "tie-mama-mea": {
+  "fisier": "tie-mama-mea.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "la-haiduc-acasa": {
+  "fisier": "la-haiduc-acasa.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "spre-india": {
+  "fisier": "spre-india.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "in-gradina-maimutei": {
+  "fisier": "in-gradina-maimutei.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "india": {
+  "fisier": "india.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "bine-ai-venit": {
+  "fisier": "bine-ai-venit.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "da-e-toamna": {
+  "fisier": "da-e-toamna.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "o-vizita": {
+  "fisier": "o-vizita.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "dogarul": {
+  "fisier": "dogarul.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "anii": {
+  "fisier": "anii.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "prin-mysore-india": {
+  "fisier": "prin-mysore-india.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "fericirea-3": {
+  "fisier": "fericirea-3.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "s-o-s-2": {
+  "fisier": "s-o-s-2.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "parteneri-de-drum": {
+  "fisier": "parteneri-de-drum.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "toamna-a-venit": {
+  "fisier": "toamna-a-venit.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "sunt-tigan": {
+  "fisier": "sunt-tigan.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "leoparzii": {
+  "fisier": "leoparzii.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "ursuletul-panda": {
+  "fisier": "ursuletul-panda.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "cata-iubire": {
+  "fisier": "cata-iubire.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "calul-naravas": {
+  "fisier": "calul-naravas.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "cainele-si-motanul": {
+  "fisier": "cainele-si-motanul.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "de-ale-burtii": {
+  "fisier": "de-ale-burtii.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "rasarit-de-soare": {
+  "fisier": "rasarit-de-soare.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "aventurierul": {
+  "fisier": "aventurierul.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "la-pian": {
+  "fisier": "la-pian.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "sfarsit-de-octombrie": {
+  "fisier": "sfarsit-de-octombrie.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "o-parere": {
+  "fisier": "o-parere.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "cocosul-3": {
+  "fisier": "cocosul-3.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "natafleata": {
+  "fisier": "natafleata.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "tablou-de-toamna": {
+  "fisier": "tablou-de-toamna.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "indrazneste-mogaldeata": {
+  "fisier": "indrazneste-mogaldeata.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "in-padure": {
+  "fisier": "in-padure.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "doua-papusi": {
+  "fisier": "doua-papusi.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ },
+ "copilasul-nimanui": {
+  "fisier": "copilasul-nimanui.jpg",
+  "sursa": "codex",
+  "stil": "album"
+ }
+}
