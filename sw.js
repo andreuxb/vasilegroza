@@ -3,9 +3,9 @@
    - paginile (HTML): întâi rețeaua, iar dacă nu e, copia păstrată (fiecare poezie citită rămâne în telefon);
    - imaginile, fonturile, datele: întâi copia, apoi rețeaua (se păstrează pe măsură ce le vezi).
    Versiunea se schimbă la fiecare build, ca să nu rămână un site vechi în cache. */
-const VERSIUNE = "vg-202610190224";
+const VERSIUNE = "vg-202610191258";
 // stilul și scripturile au în adresă versiunea build-ului (?v=), exact ca în pagini
-const ESENTIAL = ["/", "/stil.css?v=202610190224", "/cer.js?v=202610190224", "/etaje.js?v=202610190224", "/pagina.js?v=202610190224", "/fonturi/fonturi.css?v=202610190224",
+const ESENTIAL = ["/", "/stil.css?v=202610191258", "/cer.js?v=202610191258", "/etaje.js?v=202610191258", "/pagina.js?v=202610191258", "/fonturi/fonturi.css?v=202610191258",
   "/fonturi/eb-garamond-normal-latin.woff2", "/fonturi/eb-garamond-normal-latin-ext.woff2",
   "/fonturi/cormorant-garamond-normal-latin.woff2", "/date/cer.json", "/offline.html", "/favicon.svg"];
 

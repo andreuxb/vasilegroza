@@ -28,7 +28,11 @@ document.querySelectorAll(".asculta-buton").forEach((b) => {
   const a = document.getElementById(b.getAttribute("aria-controls"));
   if (!a) return;
   const semn = b.querySelector(".semn");
-  b.addEventListener("click", () => (a.paused ? a.play() : a.pause()));
+  b.addEventListener("click", () => {
+    if (!a.paused) { a.pause(); return; }
+    document.querySelectorAll("audio").forEach((x) => { if (x !== a) x.pause(); });   // un singur glas deodată
+    a.play();
+  });
   a.addEventListener("play", () => { semn.textContent = "❚❚"; b.setAttribute("aria-pressed", "true"); });
   a.addEventListener("pause", () => { semn.textContent = "▶"; b.removeAttribute("aria-pressed"); });
   a.addEventListener("ended", () => { a.currentTime = 0; });

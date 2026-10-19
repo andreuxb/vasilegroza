@@ -58,7 +58,7 @@
   let cam = { x: 0, y: 0, s: 1 }, start = 0, faza = 0, sub = null, curent = -1, butoane = [];
   // mod: „zi” (constelația zilei, cu poezia) sau „cer” (explorarea tuturor constelațiilor).
   // mCer merge lin de la 0 (spirala anului) la 1 (constelațiile cărților).
-  let mod = "zi", mCer = 0, mCerTinta = 0, ultimCadru = 0, linieDe = null;
+  let mod = "zi", mCer = 0, mCerTinta = 0, ultimCadru = 0, linieDe = null, trasDeCurand = 0;
 
   function redimensioneaza() {
     dpr = Math.min(window.devicePixelRatio || 1, 2);
@@ -160,8 +160,12 @@
      poezii: lista zilei, sortată după an; azi: data reală a vizitei (Date).
      Întoarce indexul poeziei de arătat. */
   function alegePrimaPoezie(poezii, azi) {
-    // TODO(human)
-    return 0;
+    // Rotație după an: toți vizitatorii văd aceeași poezie azi, iar la anul alta.
+    // Ghicitorile („Oare cine-i”) nu deschid ziua decât dacă ziua n-are altceva.
+    const ghicitoare = (p) => /^(oare-cine-i|cine-i-oare)/.test(p.slug || "");
+    const bune = poezii.map((p, i) => i).filter((i) => !ghicitoare(poezii[i]));
+    const cand = bune.length ? bune : poezii.map((p, i) => i);
+    return cand[azi.getFullYear() % cand.length] || 0;
   }
 
   const ease = (t) => (t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2);
@@ -360,7 +364,7 @@
     });
     carti.lacteeUng = ung; carti.lacteeC = [cx, cy];
     // tot cerul încape în ecran, cu loc sus pentru butoane
-    carti.sFit = Math.min(W / (x1 - x0 + 0.12), (H - 150) / (y1 - y0 + 0.1));
+    carti.sFit = Math.min(W / (x1 - x0 + 0.12), (H - 190) / (y1 - y0 + 0.1));   // sus butoanele, jos pașii
   }
 
   function deseneazaLactee(mc) {
@@ -414,7 +418,7 @@
       const [x, y] = ecran([c.c[0], c.c[1] + c.R]);
       const st = Math.min(Math.max(x - lat / 2, 4), W - lat - 4);
       // numele unei constelații ieșite din ecran nu se lipește de margine: dispare
-      const afara = x < 8 || x > W - 8 || y < 96 || y > H - 20;
+      const afara = x < 8 || x > W - 8 || y < 96 || y > H - 74;   // jos stau pașii „‹ · ›”
       if (c.el.hidden !== afara) c.el.hidden = afara;
       c.el.style.transform = `translate(${st.toFixed(1)}px, ${(y + 4).toFixed(1)}px)`;
       c.el.style.width = `${lat.toFixed(0)}px`;
@@ -450,25 +454,85 @@
     ascundeSemn();
     actualizeazaUnelte();
     const { x0, x1, y0, y1 } = carti.lim;
-    // centrul ecranului e cu 40 px mai jos decât mijlocul, sub butoane
-    zboara({ x: (x0 + x1) / 2, y: (y0 + y1) / 2 - 40 / carti.sFit, s: carti.sFit, k: 0 }, 1.8, { arc: 0.35 });
+    // centrul ecranului e puțin mai jos decât mijlocul: sus butoanele sunt mai înalte decât pașii de jos
+    zboara({ x: (x0 + x1) / 2, y: (y0 + y1) / 2 - 14 / carti.sFit, s: carti.sFit, k: 0 }, 1.8, { arc: 0.35 });
+    if (!pasi) creeazaPasi();
+    actualizeazaPasi();
     arataIndiciu();
   }
   function iesiDinCer() {
     if (mod !== "cer") return;
-    mod = "zi"; mCerTinta = 0;
+    mod = "zi"; mCerTinta = 0; apropiata = null;
     sectiune.classList.remove("explorare");
     actualizeazaUnelte();
     zboara({ x: sub.tinta[0], y: sub.tinta[1], s: sub.s1, k: 1 }, 1.6, { arc: 0.3, gata: () => { linieDe = performance.now(); } });
   }
-  function zboaraLaCarte(c) {
-    apropiata = c;
+  // De la o constelație la alta: zborul se îndepărtează puțin, cât e de lung drumul, apoi coboară pe figură.
+  function zboaraLaCarte(c, dur) {
     const s = Math.min(W, H * 0.8) * 0.36 / c.R;
-    zboara({ x: c.c[0], y: c.c[1] + c.R * 0.25, s, k: 0 }, 1.1, { arc: 0.15 });
+    const drum = Math.hypot(c.c[0] - cam.x, c.c[1] - cam.y) * Math.min(cam.s, s) / Math.min(W, H);
+    apropiata = c;
+    zboara({ x: c.c[0], y: c.c[1] + c.R * 0.25, s, k: 0 }, dur || Math.min(2, 1.1 + drum * 0.25), { arc: Math.min(1.1, 0.15 + drum * 0.18) });
+    actualizeazaPasi();
+  }
+
+  // ---------- pașii: ziua de dinainte / de după; constelația vecină ----------
+  const doua = (n) => String(n).padStart(2, "0");
+  // Ziua vecină care are poezii, înainte (dir = 1) sau înapoi (dir = -1); anul se închide în cerc.
+  function ziVecina(mmdd, dir) {
+    let d = ziDinAn(mmdd);
+    for (let i = 0; i < 366; i++) {
+      d = (d + dir + 366) % 366;
+      const [l, z] = mmddDinZi(d), k = `${doua(l)}-${doua(z)}`;
+      if (zile.has(k)) return k;
+    }
+    return mmdd;
+  }
+  const ziScurta = (mmdd) => `${+mmdd.slice(3)} ${LUNI[+mmdd.slice(0, 2) - 1]}`;
+  // Pe cer, constelațiile se parcurg de la stânga la dreapta, ca un rând de citit.
+  const ordineCer = () => carti.slice().sort((a, b) => a.c[0] - b.c[0]);
+  function constelatiaVecina(dir) {
+    const o = ordineCer(), i = o.indexOf(apropiata);
+    if (i < 0) return dir > 0 ? o[0] : o[o.length - 1];
+    return o[(i + dir + o.length) % o.length];
+  }
+  function pas(dir) {
+    if (zbor && zbor.cale) return;
+    if (mod === "cer") { zboaraLaCarte(constelatiaVecina(dir)); return; }
+    if (faza < 2) return;
+    if (!lat() && scrollY > H * 0.3) sectiune.scrollIntoView({ behavior: "smooth", block: "start" });
+    schimbaZiua(ziVecina(sub.mmdd, dir), true);
+  }
+  // În „Tot cerul”, jos: „‹ Arca lui Noe · Copile ›”. Pentru zile, pașii stau în capul poeziei (arata()).
+  let pasi = null;
+  function creeazaPasi() {
+    pasi = document.createElement("nav");
+    pasi.className = "cer-pasi";
+    pasi.setAttribute("aria-label", "Constelația vecină");
+    pasi.innerHTML = `<button type="button" data-dir="-1"><span aria-hidden="true">‹</span> <span class="p-nume"></span></button>`
+      + `<button type="button" data-dir="1"><span class="p-nume"></span> <span aria-hidden="true">›</span></button>`;
+    pasi.querySelectorAll("button").forEach((b) => b.addEventListener("click", () => pas(+b.dataset.dir)));
+    sectiune.append(pasi);
+  }
+  function actualizeazaPasi() {
+    if (!pasi || mod !== "cer") return;
+    pasi.querySelectorAll("button").forEach((b) => {
+      const c = constelatiaVecina(+b.dataset.dir);
+      b.querySelector(".p-nume").textContent = scurt(c.nume, 20);
+      b.setAttribute("aria-label", `${+b.dataset.dir > 0 ? "Constelația următoare" : "Constelația de dinainte"}: ${c.nume}`);
+    });
+  }
+  // Din poezia zilei, drept la constelația cărții ei, fără să mai treci prin tot cerul.
+  function zboaraLaCarteaPoeziei(titluCarte) {
+    const c = carti.find((q) => q.titlu === titluCarte);
+    if (!c) return;
+    intraInCer();
+    zboaraLaCarte(c, 2.2);
   }
 
   // ---------- „Ziua ta”: camera merge pe spirala anului până la ziua aleasă ----------
-  async function schimbaZiua(ceruta) {
+  // scurt: un pas de o zi (săgețile), cu un zbor mic, fără să se îndepărteze mult de cer.
+  async function schimbaZiua(ceruta, scurt_ = false) {
     const mmdd = ziCuPoezii(ceruta);
     let poezii;
     try { poezii = await poeziileZilei(mmdd); } catch (e) { return; }
@@ -487,15 +551,17 @@
     actualizeazaUnelte();
     try { history.replaceState(null, "", `?zi=${mmdd}`); } catch (e) { /* adresa rămâne */ }
     // Drumul: centrul camerei alunecă pe spirală, zi cu zi; data care trece se vede pe ecran.
-    const dur = Math.min(3.4, 1.3 + Math.abs(d1 - d0) / 120);
+    const dd = Math.abs(d1 - d0);
+    const dur = scurt_ && dd < 30 ? 0.75 + dd * 0.08 : Math.min(3.4, 1.3 + dd / 120);
     const ziua = arataZiuaCareTrece();
     zboara({ x: sub.tinta[0], y: sub.tinta[1], s: sub.s1, k: 1 }, dur, {
-      arc: Math.min(1.6, 0.5 + Math.abs(d1 - d0) / 140),
+      arc: scurt_ && dd < 30 ? 0.12 + dd * 0.04 : Math.min(1.6, 0.5 + dd / 140),
       cale: (e) => { const c = centruZi(lerp(d0, d1, e)); return [c[0] + lerp(dx0, dx1, e), c[1] + lerp(dy0, dy1, e)]; },
       pas: (e) => ziua(Math.round(lerp(d0, d1, e))),
       gata: () => {
         ziua(null);
         linieDe = performance.now();
+        sunaAccent();   // constelația noii zile se leagă: câteva note
         sectiune.classList.add("cu-stele");
         panou.classList.remove("plecat");
         arata(alegePrimaPoezie(sub.poezii, new Date()));
@@ -526,8 +592,17 @@
     unelte.innerHTML = `<button type="button" class="u-cer"></button><button type="button" class="u-zi">Ziua ta</button>`;
     unelte.querySelector(".u-cer").addEventListener("click", () => (mod === "cer" ? iesiDinCer() : intraInCer()));
     unelte.querySelector(".u-zi").addEventListener("click", deschideZiuaTa);
+    // sunetul: un difuzor mic, cu unde când cântă și tăiat când tace
+    const bs = document.createElement("button");
+    bs.type = "button"; bs.className = "u-sunet";
+    bs.innerHTML = '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">'
+      + '<path d="M4 9.5h3.5L12 6v12l-4.5-3.5H4z" fill="currentColor" fill-opacity=".25"/>'
+      + '<path class="unde" d="M15.5 9.2a4 4 0 0 1 0 5.6M18 7a7 7 0 0 1 0 10"/><path class="taiat" d="M16 9.5l5 5M21 9.5l-5 5"/></svg>';
+    bs.addEventListener("click", comutaSunet);
+    unelte.append(bs);
     sectiune.append(unelte);
     actualizeazaUnelte();
+    actualizeazaSunet();
   }
   function actualizeazaUnelte() {
     const b = unelte.querySelector(".u-cer");
@@ -678,9 +753,16 @@
     const alte = sub.poezii.length > 1 ? `<p class="alte">Alte poezii din această zi: ${sub.poezii.map((q, j) =>
       `<button type="button" data-i="${j}" ${j === i ? 'aria-current="true"' : ""}>${esc(numeDistinct(sub.poezii, q, 24))} <span>${q.data.slice(0, 4)}</span></button>`).join("")}</p>` : "";
     const nota = sub.nota ? `<p class="nota-zi">Pe ${+sub.nota.slice(3)} ${LUNI[+sub.nota.slice(0, 2) - 1]} nu a scris nicio poezie. Iată ziua următoare.</p>` : "";
-    panou.innerHTML = `${nota}<p class="eticheta">${z} ${LUNI[l - 1]} · o poezie pe zi</p>
+    const ieri = ziVecina(sub.mmdd, -1), maine = ziVecina(sub.mmdd, 1);
+    panou.innerHTML = `${nota}<p class="eticheta zi-pasi"><button type="button" class="zi-pas" data-dir="-1" aria-label="Ziua de dinainte: ${ziScurta(ieri)}" title="${ziScurta(ieri)}">‹</button>
+      <span>${z} ${LUNI[l - 1]}<span class="pe-zi"> · o poezie pe zi</span></span><button type="button" class="zi-pas" data-dir="1" aria-label="Ziua de după: ${ziScurta(maine)}" title="${ziScurta(maine)}">›</button></p>
       <h2>${esc(p.titlu)}</h2><div class="versuri">${vers}</div>
-      <p class="meta">scrisă pe ${z} ${LUNI[l - 1]} ${an} · ${esc(p.carte)} · <a href="poezie/${p.slug}/">pagina poeziei</a> · <button type="button" class="trimite" data-titlu="${esc(p.titlu)}" data-url="poezie/${p.slug}/">trimite</button></p>${alte}`;
+      <p class="meta">scrisă pe ${z} ${LUNI[l - 1]} ${an} · <button type="button" class="la-constelatie" title="Vezi constelația cărții">${esc(p.carte)}</button> · <a href="poezie/${p.slug}/">pagina poeziei</a> · <button type="button" class="trimite" data-titlu="${esc(p.titlu)}" data-url="poezie/${p.slug}/">trimite</button></p>${alte}`;
+    panou.querySelectorAll(".zi-pas").forEach((b) => b.addEventListener("click", () => pas(+b.dataset.dir)));
+    panou.querySelector(".la-constelatie").addEventListener("click", () => {
+      if (!lat()) sectiune.scrollIntoView({ behavior: "smooth", block: "start" });
+      zboaraLaCarteaPoeziei(p.carte);
+    });
     panou.hidden = false;
     panou.scrollTop = 0;
     panou.classList.remove("schimba"); void panou.offsetWidth; panou.classList.add("schimba");
@@ -748,9 +830,10 @@
   let audio = null;
   const PENTA = [0, 2, 4, 7, 9];
   function clopotel(slug) {
+    if (!sunetPornit) return;   // butonul de sunet oprește și clopoțeii
     try {
-      if (!audio) {
-        audio = new (window.AudioContext || window.webkitAudioContext)();
+      if (!audio) audio = new (window.AudioContext || window.webkitAudioContext)();
+      if (!audio.intrare) {
         const iesire = audio.createGain(); iesire.gain.value = 0.22;
         // un ecou scurt, înmuiat, ca să sune a spațiu
         const ecou = audio.createDelay(); ecou.delayTime.value = 0.31;
@@ -779,6 +862,99 @@
       g.gain.exponentialRampToValueAtTime(0.0001, t0 + d);
       o.connect(g); g.connect(audio.intrare);
       o.start(t0); o.stop(t0 + d + 0.05);
+    });
+  }
+
+  // ---------- sunetul paginii, în două straturi ----------
+  // 1. ambianța: o noapte de vară vie (greieri, foșnet de frunze), în buclă, foarte încet;
+  // 2. accentul: câteva note de harpă / clopoței când se leagă constelația zilei.
+  // Browserele nu lasă sunetul să pornească la încărcare: îl pornește prima atingere pe cer.
+  // Butonul cu difuzor le oprește pe amândouă; alegerea se ține minte în telefon (implicit: pornit).
+  const FOND = "media/cer-noapte.mp3", ACCENT = "media/cer-accent.mp3";
+  const VOL_FOND = 0.14, VOL_ACCENT = 0.3, CHEIE_SUNET = "vg-sunet";
+  let sunetPornit = true, iesireSunet = null, bucla = null, accent = null, ultimulAccent = -1e9;
+  const tampoane = {};
+  try { sunetPornit = localStorage.getItem(CHEIE_SUNET) !== "nu"; } catch (e) { /* fără memorie, rămâne pornit */ }
+  function deschideSunet() {
+    if (!audio) audio = new (window.AudioContext || window.webkitAudioContext)();
+    if (audio.state === "suspended") audio.resume();
+    if (!iesireSunet) { iesireSunet = audio.createGain(); iesireSunet.connect(audio.destination); }
+  }
+  const tampon = (url) => tampoane[url] || (tampoane[url] = fetch(url).then((r) => r.arrayBuffer())
+    .then((a) => new Promise((ok, nu) => audio.decodeAudioData(a, ok, nu)))
+    .catch((e) => { delete tampoane[url]; throw e; }));
+  // un strat: sursa, cu propriul volum, care crește din 0 în `urcare` secunde
+  function sursa(buf, vol, urcare, inBucla) {
+    const s = audio.createBufferSource(), g = audio.createGain(), t = audio.currentTime;
+    s.buffer = buf; s.loop = inBucla;
+    g.gain.setValueAtTime(0, t); g.gain.linearRampToValueAtTime(vol, t + urcare);
+    s.connect(g); g.connect(iesireSunet); s.start();
+    return { s, g };
+  }
+  function stinge(x) {
+    if (!x) return;
+    const t = audio.currentTime;
+    x.g.gain.cancelScheduledValues(t); x.g.gain.setValueAtTime(x.g.gain.value, t);
+    x.g.gain.linearRampToValueAtTime(0, t + 0.6);
+    try { x.s.stop(t + 0.7); } catch (e) { /* s-a terminat deja */ }
+  }
+  async function pornesteFond() {
+    try {
+      deschideSunet();
+      const buf = await tampon(FOND);
+      if (!sunetPornit || bucla) return;   // între timp s-a oprit, sau cântă deja
+      bucla = sursa(buf, VOL_FOND, 2.5, true);   // ambianța urcă încet
+    } catch (e) { /* fără sunet, fără supărare */ }
+  }
+  async function sunaAccent() {
+    if (!sunetPornit || !iesireSunet) return;   // înainte de prima atingere, tăcere
+    const acum = performance.now();
+    if (acum - ultimulAccent < 4000) return;    // pașii repezi între zile nu fac cor
+    ultimulAccent = acum;
+    try {
+      const buf = await tampon(ACCENT);
+      if (!sunetPornit) return;
+      stinge(accent);
+      accent = sursa(buf, VOL_ACCENT, 0.05, false);
+    } catch (e) { /* nimic */ }
+  }
+  function opresteFond() {
+    stinge(bucla); stinge(accent);
+    bucla = accent = null;
+  }
+  function comutaSunet() {
+    sunetPornit = !sunetPornit;
+    try { localStorage.setItem(CHEIE_SUNET, sunetPornit ? "da" : "nu"); } catch (e) { /* nimic */ }
+    if (sunetPornit) pornesteFond(); else opresteFond();
+    actualizeazaSunet();
+    document.querySelectorAll(".a-sunet").forEach((x) => { x.setAttribute("aria-pressed", String(sunetPornit)); x.setAttribute("aria-label", sunetPornit ? "Oprește sunetul" : "Pornește sunetul"); });
+  }
+  function actualizeazaSunet() {
+    const b = unelte && unelte.querySelector(".u-sunet");
+    if (!b) return;
+    b.setAttribute("aria-pressed", String(sunetPornit));
+    b.setAttribute("aria-label", sunetPornit ? "Oprește sunetul" : "Pornește sunetul");
+    b.title = b.getAttribute("aria-label");
+    b.classList.toggle("oprit", !sunetPornit);
+  }
+  // selectorul de anotimpuri are și el un difuzor: cele două butoane spun același lucru
+  document.addEventListener("vg-sunet", (ev) => {
+    sunetPornit = ev.detail;
+    if (sunetPornit) pornesteFond(); else opresteFond();
+    actualizeazaSunet();
+  });
+  function ascultaSunet() {
+    // prima atingere oriunde pe cer pornește bucla (dacă nu a fost oprită de vizitator)
+    const prima = (ev) => {
+      if (ev.target.closest(".u-sunet")) return;   // butonul se ocupă singur
+      sectiune.removeEventListener("pointerdown", prima, true);
+      if (sunetPornit) { pornesteFond(); sunaAccent(); }
+    };
+    sectiune.addEventListener("pointerdown", prima, true);
+    // cât timp pagina nu se vede (alt tab, telefonul blocat), sunetul tace
+    document.addEventListener("visibilitychange", () => {
+      if (!audio || !bucla) return;
+      if (document.hidden) audio.suspend(); else audio.resume();
     });
   }
 
@@ -860,6 +1036,25 @@
 
   function asculta() {
     gesturi();
+    ascultaSunet();
+    // Săgețile tastaturii: ziua vecină sau constelația vecină (cât timp cerul e pe ecran și nu e deschisă o fișă).
+    addEventListener("keydown", (ev) => {
+      if (ev.key !== "ArrowLeft" && ev.key !== "ArrowRight") return;
+      if (ev.altKey || ev.metaKey || ev.ctrlKey || /^(INPUT|SELECT|TEXTAREA)$/.test(document.activeElement?.tagName || "")) return;
+      if ((fisa && !fisa.hidden) || (ziuaTa && !ziuaTa.hidden) || scrollY > H * 0.6) return;
+      ev.preventDefault();
+      pas(ev.key === "ArrowRight" ? 1 : -1);
+    });
+    // Glisarea pe cer, în constelația zilei: stânga = ziua de după, dreapta = ziua de dinainte (ca o pagină întoarsă).
+    let glisare = null;
+    canvas.addEventListener("pointerdown", (ev) => { if (mod === "zi") glisare = { x: ev.clientX, y: ev.clientY, t: performance.now() }; });
+    canvas.addEventListener("pointerup", (ev) => {
+      if (mod !== "zi" || !glisare) return;
+      const dx = ev.clientX - glisare.x, dy = ev.clientY - glisare.y, rapid = performance.now() - glisare.t < 700;
+      glisare = null;
+      if (rapid && Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 1.6) { trasDeCurand = performance.now(); pas(dx < 0 ? 1 : -1); }
+    });
+    canvas.addEventListener("pointercancel", () => { glisare = null; });
     // Prima atingere în timpul intrării doar sare peste ea.
     let saritura = false;
     sectiune.addEventListener("pointerdown", () => {
@@ -879,6 +1074,7 @@
     canvas.addEventListener("click", (ev) => {
       if (mod === "cer" || zbor) return;   // în „Tot cerul”, atingerea e tratată de gesturi()
       if (saritura) { saritura = false; return; }
+      if (performance.now() - trasDeCurand < 400) return;   // o glisare nu e și o atingere
       const r = canvas.getBoundingClientRect(), s = steaLa(ev.clientX - r.left, ev.clientY - r.top);
       if (!s) return;
       eticheta.hidden = true;

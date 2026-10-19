@@ -1,5 +1,25 @@
-/* Palatul copiilor: ghicitori (scorul), colorat (umplere cu un clic) și teatru (citit pe roluri). */
+/* Palatul copiilor: palatul pop-up (prima pagină), ghicitori (scorul și bufnița), colorat (umplere cu un clic)
+   și teatru (citit pe roluri, cu cortina care se trage la alegerea rolului). */
 (() => {
+  // ---------- palatul se ridică din pagină, ca într-o carte pop-up ----------
+  const palat = document.querySelector(".palat-svg");
+  if (palat) {
+    palat.classList.add("cu-js");
+    const io = "IntersectionObserver" in window && new IntersectionObserver((l) => {
+      if (l.some((i) => i.isIntersecting)) { palat.classList.add("ridicat"); io.disconnect(); }
+    }, { threshold: .2 });
+    io ? io.observe(palat) : palat.classList.add("ridicat");
+  }
+
+  // ---------- bufnița de veghe: se trezește puțin cu fiecare ghicitoare dezlegată ----------
+  const veghe = document.querySelector(".bufnita-veghe");
+  const treaz = (n, total) => {
+    if (!veghe) return;
+    const k = total ? n / total : 0;
+    veghe.style.setProperty("--treaz", k.toFixed(3));
+    veghe.querySelector(".bufnita-spune").textContent =
+      k === 0 ? "Zzz…" : k < .25 ? "Hm? Cine m-a trezit?" : k < .5 ? "Mai ghicește una!" : k < .9 ? "Acum chiar sunt treaz!" : k < 1 ? "Aproape toate!" : "Bravo! Le-ai dezlegat pe toate!";
+  };
   // ---------- ghicitori: câte ai deschis ----------
   const ghicitori = document.querySelectorAll(".ghicitoare details");
   const scor = document.querySelector(".scor");
@@ -7,6 +27,7 @@
     const numara = () => {
       const n = [...ghicitori].filter((d) => d.open || d.dataset.vazut).length;
       scor.textContent = n ? `Ai deschis ${n} din ${ghicitori.length}.` : "";
+      treaz(n, ghicitori.length);
     };
     ghicitori.forEach((d) => d.addEventListener("toggle", () => { if (d.open) d.dataset.vazut = "1"; numara(); }));
   }
